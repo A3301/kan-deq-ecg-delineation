@@ -3,6 +3,7 @@ message: "If you use this code or these materials, please cite the associated ar
 title: "kan-deq-ecg-delineation: code and materials for an equal-protocol benchmark of Kolmogorov-Arnold and deep equilibrium networks for ECG delineation"
 type: software
 version: "1.0.0"
+doi: "10.5281/zenodo.24554093"
 license: MIT
 repository-code: "https://github.com/A3301/kan-deq-ecg-delineation"
 authors:

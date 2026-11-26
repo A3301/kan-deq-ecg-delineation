@@ -70,7 +70,7 @@ The ECG databases are public and are **not** redistributed here (except the smal
 
 ## Large files
 
-Model weights (321 checkpoints), record-level outputs and analysis inputs are archived on Zenodo together with a snapshot of this repository: **DOI to be added on publication**.
+Model weights (321 checkpoints), record-level outputs and analysis inputs are archived on Zenodo together with a snapshot of this repository: https://doi.org/10.5281/zenodo.24554093
 
 ## Analysis plan
 
