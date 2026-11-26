@@ -1,6 +1,6 @@
 """DEQ latency distribution over real inputs (additional analysis; run on an idle CPU).
 
-Table 6 of Paper B reported DEQ latency on one LUDB lead (15 Anderson iterations). Because DEQ cost depends on the
+The primary benchmark reports DEQ latency on one LUDB lead (15 Anderson iterations). Because DEQ cost depends on the
 input, this script measures single-thread latency and iteration count for every LUDB internal-test lead (41 x 12,
 10 s at 250 Hz) with the fold-0 DEQ, and for comparison the fold-0 DEQ-unrolled, U-Net, CNN-BiLSTM and U-Net-KAN on
 the same leads. Output: results/deq_latency.json, results/tables/deq_latency.md
