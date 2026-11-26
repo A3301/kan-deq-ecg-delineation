@@ -1,0 +1,140 @@
+{
+  "source_mask_spot_checks": [
+    {
+      "record": "AF0001",
+      "rhythm": "AF",
+      "raw_rows": 32,
+      "valid_intervals": 32,
+      "fractional_native_coordinate_count": 0,
+      "covered_at_start": -100,
+      "covered_at_end": -100,
+      "first_valid_interval": [
+        1.0,
+        84.0,
+        128.0
+      ],
+      "last_valid_interval": [
+        2.0,
+        4851.0,
+        4944.0
+      ],
+      "counts_ignored_bg_P_QRS_T": [
+        69,
+        1304,
+        0,
+        372,
+        755
+      ]
+    },
+    {
+      "record": "AT0003",
+      "rhythm": "AT",
+      "raw_rows": 37,
+      "valid_intervals": 37,
+      "fractional_native_coordinate_count": 18,
+      "covered_at_start": -100,
+      "covered_at_end": -100,
+      "first_valid_interval": [
+        2.0,
+        106.0,
+        189.0
+      ],
+      "last_valid_interval": [
+        2.0,
+        4864.536280119452,
+        4952.195112499146
+      ],
+      "counts_ignored_bg_P_QRS_T": [
+        76,
+        1304,
+        261,
+        272,
+        587
+      ]
+    },
+    {
+      "record": "AF0043",
+      "rhythm": "AF",
+      "raw_rows": 25,
+      "valid_intervals": 24,
+      "fractional_native_coordinate_count": 0,
+      "covered_at_start": -100,
+      "covered_at_end": -100,
+      "first_valid_interval": [
+        1.0,
+        292.0,
+        338.0
+      ],
+      "last_valid_interval": [
+        2.0,
+        4742.0,
+        4827.0
+      ],
+      "counts_ignored_bg_P_QRS_T": [
+        232,
+        1490,
+        0,
+        276,
+        502
+      ]
+    },
+    {
+      "record": "AF0053",
+      "rhythm": "AF",
+      "raw_rows": 42,
+      "valid_intervals": 42,
+      "fractional_native_coordinate_count": 2,
+      "covered_at_start": -100,
+      "covered_at_end": 3,
+      "first_valid_interval": [
+        1.0,
+        119.0,
+        156.0
+      ],
+      "last_valid_interval": [
+        2.0,
+        4914.0,
+        4999.0
+      ],
+      "counts_ignored_bg_P_QRS_T": [
+        60,
+        1321,
+        0,
+        426,
+        693
+      ]
+    },
+    {
+      "record": "VT0139",
+      "rhythm": "SVT",
+      "raw_rows": 51,
+      "valid_intervals": 51,
+      "fractional_native_coordinate_count": 0,
+      "covered_at_start": -100,
+      "covered_at_end": -100,
+      "first_valid_interval": [
+        2.0,
+        70.0,
+        139.0
+      ],
+      "last_valid_interval": [
+        2.0,
+        4901.0,
+        4968.0
+      ],
+      "counts_ignored_bg_P_QRS_T": [
+        50,
+        757,
+        0,
+        791,
+        902
+      ]
+    }
+  ],
+  "source_count": 2398,
+  "external_count": 41,
+  "exact_rounded_waveform_matches": [],
+  "checked_paired_initialisation_and_crops": true,
+  "checked_minimum_validation_CE_all_six": true,
+  "checked_event_summaries": true
+}

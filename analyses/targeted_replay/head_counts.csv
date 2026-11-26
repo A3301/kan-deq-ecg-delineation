@@ -1,0 +1,2407 @@
+dataset,landmark,record,seed,head,tp,fn,fp
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:107,2,linear,0,112,3
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:108,2,linear,192,38,2
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:118,2,linear,506,52,2
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:124,2,linear,291,19,2
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:201,2,linear,106,2,4
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:203,2,linear,0,0,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:208,2,linear,109,257,3
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:209,2,linear,235,127,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:230,2,linear,247,11,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:233,2,linear,262,26,5
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:234,2,linear,279,5,5
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:112,2,linear,273,69,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:114,2,linear,262,6,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:104,2,linear,36,44,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:105,2,linear,241,79,3
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:109,2,linear,0,320,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:111,2,linear,180,98,1
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:113,2,linear,242,0,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:115,2,linear,255,3,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:116,2,linear,254,62,1
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:121,2,linear,231,1,2
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:123,2,linear,196,2,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:205,2,linear,600,24,1
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:212,2,linear,215,129,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:213,2,linear,242,172,1
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:219,2,linear,132,0,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Supraventricular Arrhythmia Database:801,2,linear,118,122,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Supraventricular Arrhythmia Database:802,2,linear,146,0,4
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Supraventricular Arrhythmia Database:886,2,linear,0,258,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Supraventricular Arrhythmia Database:851,2,linear,220,6,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Supraventricular Arrhythmia Database:811,2,linear,210,0,4
+butpdb_nooverlap_each_lead,P_peak,Long Term AF Database:101,2,linear,154,0,0
+butpdb_nooverlap_each_lead,P_peak,Long Term AF Database:120,2,linear,185,85,2
+butpdb_nooverlap_each_lead,P_peak,Long Term AF Database:55,2,linear,94,24,3
+butpdb_nooverlap_each_lead,P_peak,Long Term AF Database:56,2,linear,63,11,0
+butpdb_nooverlap_each_lead,P_peak,Long Term AF Database:62,2,linear,0,0,20
+butpdb_nooverlap_each_lead,P_peak,Long Term AF Database:102,2,linear,174,2,7
+butpdb_nooverlap_each_lead,P_peak,Long Term AF Database:117,2,linear,12,0,0
+ludb_test,P_off,14,2,linear,132,0,0
+ludb_test,P_off,15,2,linear,77,4,3
+ludb_test,P_off,21,2,linear,107,1,0
+ludb_test,P_off,22,2,linear,117,3,2
+ludb_test,P_off,26,2,linear,83,1,0
+ludb_test,P_off,35,2,linear,0,0,2
+ludb_test,P_off,39,2,linear,71,1,0
+ludb_test,P_off,45,2,linear,0,0,0
+ludb_test,P_off,48,2,linear,71,1,0
+ludb_test,P_off,63,2,linear,108,0,0
+ludb_test,P_off,68,2,linear,96,0,0
+ludb_test,P_off,73,2,linear,84,0,0
+ludb_test,P_off,75,2,linear,94,2,0
+ludb_test,P_off,76,2,linear,114,6,0
+ludb_test,P_off,79,2,linear,76,8,0
+ludb_test,P_off,81,2,linear,120,0,0
+ludb_test,P_off,82,2,linear,72,0,0
+ludb_test,P_off,83,2,linear,0,0,1
+ludb_test,P_off,84,2,linear,81,3,0
+ludb_test,P_off,90,2,linear,0,0,2
+ludb_test,P_off,99,2,linear,132,0,0
+ludb_test,P_off,101,2,linear,0,0,76
+ludb_test,P_off,103,2,linear,0,0,36
+ludb_test,P_off,108,2,linear,81,20,0
+ludb_test,P_off,116,2,linear,11,145,0
+ludb_test,P_off,121,2,linear,80,88,1
+ludb_test,P_off,123,2,linear,95,1,0
+ludb_test,P_off,124,2,linear,72,0,0
+ludb_test,P_off,135,2,linear,95,1,0
+ludb_test,P_off,149,2,linear,96,0,0
+ludb_test,P_off,150,2,linear,84,0,0
+ludb_test,P_off,167,2,linear,95,0,1
+ludb_test,P_off,170,2,linear,72,0,0
+ludb_test,P_off,179,2,linear,84,0,0
+ludb_test,P_off,184,2,linear,96,0,0
+ludb_test,P_off,186,2,linear,107,13,0
+ludb_test,P_off,191,2,linear,84,0,0
+ludb_test,P_off,194,2,linear,84,0,0
+ludb_test,P_off,195,2,linear,96,0,0
+ludb_test,P_off,196,2,linear,108,0,0
+ludb_test,P_off,200,2,linear,96,0,0
+ludb_test,P_on,14,2,linear,132,0,0
+ludb_test,P_on,15,2,linear,77,4,3
+ludb_test,P_on,21,2,linear,107,1,0
+ludb_test,P_on,22,2,linear,117,3,0
+ludb_test,P_on,26,2,linear,83,1,0
+ludb_test,P_on,35,2,linear,0,0,2
+ludb_test,P_on,39,2,linear,71,1,0
+ludb_test,P_on,45,2,linear,0,0,0
+ludb_test,P_on,48,2,linear,71,1,0
+ludb_test,P_on,63,2,linear,108,0,0
+ludb_test,P_on,68,2,linear,96,0,0
+ludb_test,P_on,73,2,linear,84,0,0
+ludb_test,P_on,75,2,linear,94,2,0
+ludb_test,P_on,76,2,linear,114,6,0
+ludb_test,P_on,79,2,linear,76,8,0
+ludb_test,P_on,81,2,linear,120,0,0
+ludb_test,P_on,82,2,linear,72,0,0
+ludb_test,P_on,83,2,linear,0,0,1
+ludb_test,P_on,84,2,linear,81,3,0
+ludb_test,P_on,90,2,linear,0,0,2
+ludb_test,P_on,99,2,linear,132,0,0
+ludb_test,P_on,101,2,linear,0,0,76
+ludb_test,P_on,103,2,linear,0,0,36
+ludb_test,P_on,108,2,linear,81,20,0
+ludb_test,P_on,116,2,linear,11,145,0
+ludb_test,P_on,121,2,linear,80,88,1
+ludb_test,P_on,123,2,linear,95,1,0
+ludb_test,P_on,124,2,linear,72,0,0
+ludb_test,P_on,135,2,linear,95,1,0
+ludb_test,P_on,149,2,linear,96,0,0
+ludb_test,P_on,150,2,linear,84,0,0
+ludb_test,P_on,167,2,linear,95,0,1
+ludb_test,P_on,170,2,linear,72,0,0
+ludb_test,P_on,179,2,linear,84,0,0
+ludb_test,P_on,184,2,linear,96,0,0
+ludb_test,P_on,186,2,linear,107,13,0
+ludb_test,P_on,191,2,linear,84,0,0
+ludb_test,P_on,194,2,linear,84,0,0
+ludb_test,P_on,195,2,linear,96,0,0
+ludb_test,P_on,196,2,linear,108,0,0
+ludb_test,P_on,200,2,linear,96,0,0
+ludb_test,QRS_off,14,2,linear,144,0,0
+ludb_test,QRS_off,15,2,linear,94,1,3
+ludb_test,QRS_off,21,2,linear,120,0,0
+ludb_test,QRS_off,22,2,linear,132,0,0
+ludb_test,QRS_off,26,2,linear,96,0,0
+ludb_test,QRS_off,35,2,linear,240,0,0
+ludb_test,QRS_off,39,2,linear,84,0,0
+ludb_test,QRS_off,45,2,linear,95,1,6
+ludb_test,QRS_off,48,2,linear,84,0,0
+ludb_test,QRS_off,63,2,linear,120,0,0
+ludb_test,QRS_off,68,2,linear,108,0,0
+ludb_test,QRS_off,73,2,linear,96,0,0
+ludb_test,QRS_off,75,2,linear,108,0,0
+ludb_test,QRS_off,76,2,linear,132,0,0
+ludb_test,QRS_off,79,2,linear,96,0,0
+ludb_test,QRS_off,81,2,linear,132,0,0
+ludb_test,QRS_off,82,2,linear,84,0,0
+ludb_test,QRS_off,83,2,linear,120,0,0
+ludb_test,QRS_off,84,2,linear,96,0,0
+ludb_test,QRS_off,90,2,linear,96,0,0
+ludb_test,QRS_off,99,2,linear,144,0,0
+ludb_test,QRS_off,101,2,linear,132,0,0
+ludb_test,QRS_off,103,2,linear,159,9,0
+ludb_test,QRS_off,108,2,linear,132,0,0
+ludb_test,QRS_off,116,2,linear,156,0,4
+ludb_test,QRS_off,121,2,linear,178,2,1
+ludb_test,QRS_off,123,2,linear,108,0,0
+ludb_test,QRS_off,124,2,linear,84,0,0
+ludb_test,QRS_off,135,2,linear,108,0,0
+ludb_test,QRS_off,149,2,linear,108,0,0
+ludb_test,QRS_off,150,2,linear,96,0,0
+ludb_test,QRS_off,167,2,linear,108,0,0
+ludb_test,QRS_off,170,2,linear,84,0,0
+ludb_test,QRS_off,179,2,linear,96,0,0
+ludb_test,QRS_off,184,2,linear,108,0,0
+ludb_test,QRS_off,186,2,linear,132,0,0
+ludb_test,QRS_off,191,2,linear,96,0,0
+ludb_test,QRS_off,194,2,linear,96,0,0
+ludb_test,QRS_off,195,2,linear,108,0,0
+ludb_test,QRS_off,196,2,linear,120,0,0
+ludb_test,QRS_off,200,2,linear,108,0,0
+ludb_test,QRS_on,14,2,linear,144,0,0
+ludb_test,QRS_on,15,2,linear,94,1,3
+ludb_test,QRS_on,21,2,linear,120,0,0
+ludb_test,QRS_on,22,2,linear,132,0,0
+ludb_test,QRS_on,26,2,linear,96,0,0
+ludb_test,QRS_on,35,2,linear,240,0,0
+ludb_test,QRS_on,39,2,linear,84,0,0
+ludb_test,QRS_on,45,2,linear,95,1,6
+ludb_test,QRS_on,48,2,linear,84,0,0
+ludb_test,QRS_on,63,2,linear,120,0,0
+ludb_test,QRS_on,68,2,linear,108,0,0
+ludb_test,QRS_on,73,2,linear,96,0,0
+ludb_test,QRS_on,75,2,linear,108,0,0
+ludb_test,QRS_on,76,2,linear,132,0,0
+ludb_test,QRS_on,79,2,linear,96,0,0
+ludb_test,QRS_on,81,2,linear,132,0,0
+ludb_test,QRS_on,82,2,linear,84,0,0
+ludb_test,QRS_on,83,2,linear,120,0,0
+ludb_test,QRS_on,84,2,linear,96,0,0
+ludb_test,QRS_on,90,2,linear,96,0,0
+ludb_test,QRS_on,99,2,linear,144,0,0
+ludb_test,QRS_on,101,2,linear,132,0,0
+ludb_test,QRS_on,103,2,linear,159,9,0
+ludb_test,QRS_on,108,2,linear,132,0,0
+ludb_test,QRS_on,116,2,linear,156,0,4
+ludb_test,QRS_on,121,2,linear,178,2,1
+ludb_test,QRS_on,123,2,linear,108,0,0
+ludb_test,QRS_on,124,2,linear,84,0,0
+ludb_test,QRS_on,135,2,linear,108,0,0
+ludb_test,QRS_on,149,2,linear,108,0,0
+ludb_test,QRS_on,150,2,linear,96,0,0
+ludb_test,QRS_on,167,2,linear,108,0,0
+ludb_test,QRS_on,170,2,linear,84,0,0
+ludb_test,QRS_on,179,2,linear,96,0,0
+ludb_test,QRS_on,184,2,linear,108,0,0
+ludb_test,QRS_on,186,2,linear,132,0,0
+ludb_test,QRS_on,191,2,linear,96,0,0
+ludb_test,QRS_on,194,2,linear,96,0,0
+ludb_test,QRS_on,195,2,linear,108,0,0
+ludb_test,QRS_on,196,2,linear,120,0,0
+ludb_test,QRS_on,200,2,linear,108,0,0
+ludb_test,T_off,14,2,linear,132,0,0
+ludb_test,T_off,15,2,linear,77,5,6
+ludb_test,T_off,21,2,linear,108,0,0
+ludb_test,T_off,22,2,linear,120,0,0
+ludb_test,T_off,26,2,linear,84,0,0
+ludb_test,T_off,35,2,linear,178,50,0
+ludb_test,T_off,39,2,linear,72,0,0
+ludb_test,T_off,45,2,linear,84,0,1
+ludb_test,T_off,48,2,linear,72,0,0
+ludb_test,T_off,63,2,linear,108,0,0
+ludb_test,T_off,68,2,linear,96,0,0
+ludb_test,T_off,73,2,linear,84,0,0
+ludb_test,T_off,75,2,linear,96,0,0
+ludb_test,T_off,76,2,linear,120,0,0
+ludb_test,T_off,79,2,linear,84,0,0
+ludb_test,T_off,81,2,linear,120,0,0
+ludb_test,T_off,82,2,linear,72,0,0
+ludb_test,T_off,83,2,linear,107,1,0
+ludb_test,T_off,84,2,linear,84,0,0
+ludb_test,T_off,90,2,linear,84,0,0
+ludb_test,T_off,99,2,linear,132,0,0
+ludb_test,T_off,101,2,linear,112,8,5
+ludb_test,T_off,103,2,linear,134,20,2
+ludb_test,T_off,108,2,linear,119,1,1
+ludb_test,T_off,116,2,linear,137,18,1
+ludb_test,T_off,121,2,linear,161,6,1
+ludb_test,T_off,123,2,linear,96,0,0
+ludb_test,T_off,124,2,linear,72,0,0
+ludb_test,T_off,135,2,linear,96,0,0
+ludb_test,T_off,149,2,linear,96,0,0
+ludb_test,T_off,150,2,linear,84,0,0
+ludb_test,T_off,167,2,linear,96,0,0
+ludb_test,T_off,170,2,linear,72,0,0
+ludb_test,T_off,179,2,linear,84,0,0
+ludb_test,T_off,184,2,linear,96,0,0
+ludb_test,T_off,186,2,linear,119,1,0
+ludb_test,T_off,191,2,linear,84,0,0
+ludb_test,T_off,194,2,linear,84,0,0
+ludb_test,T_off,195,2,linear,96,0,0
+ludb_test,T_off,196,2,linear,108,0,0
+ludb_test,T_off,200,2,linear,96,0,0
+ludb_test,T_on,14,2,linear,132,0,0
+ludb_test,T_on,15,2,linear,78,4,5
+ludb_test,T_on,21,2,linear,108,0,0
+ludb_test,T_on,22,2,linear,120,0,0
+ludb_test,T_on,26,2,linear,84,0,0
+ludb_test,T_on,35,2,linear,178,50,0
+ludb_test,T_on,39,2,linear,72,0,0
+ludb_test,T_on,45,2,linear,84,0,1
+ludb_test,T_on,48,2,linear,72,0,0
+ludb_test,T_on,63,2,linear,108,0,0
+ludb_test,T_on,68,2,linear,96,0,0
+ludb_test,T_on,73,2,linear,84,0,0
+ludb_test,T_on,75,2,linear,96,0,0
+ludb_test,T_on,76,2,linear,120,0,0
+ludb_test,T_on,79,2,linear,84,0,0
+ludb_test,T_on,81,2,linear,120,0,0
+ludb_test,T_on,82,2,linear,72,0,0
+ludb_test,T_on,83,2,linear,107,1,0
+ludb_test,T_on,84,2,linear,84,0,0
+ludb_test,T_on,90,2,linear,84,0,0
+ludb_test,T_on,99,2,linear,132,0,0
+ludb_test,T_on,101,2,linear,116,4,1
+ludb_test,T_on,103,2,linear,133,21,3
+ludb_test,T_on,108,2,linear,120,0,0
+ludb_test,T_on,116,2,linear,138,18,0
+ludb_test,T_on,121,2,linear,161,6,1
+ludb_test,T_on,123,2,linear,96,0,0
+ludb_test,T_on,124,2,linear,72,0,0
+ludb_test,T_on,135,2,linear,96,0,0
+ludb_test,T_on,149,2,linear,96,0,0
+ludb_test,T_on,150,2,linear,84,0,0
+ludb_test,T_on,167,2,linear,96,0,0
+ludb_test,T_on,170,2,linear,72,0,0
+ludb_test,T_on,179,2,linear,84,0,0
+ludb_test,T_on,184,2,linear,96,0,0
+ludb_test,T_on,186,2,linear,119,1,0
+ludb_test,T_on,191,2,linear,84,0,0
+ludb_test,T_on,194,2,linear,84,0,0
+ludb_test,T_on,195,2,linear,96,0,0
+ludb_test,T_on,196,2,linear,108,0,0
+ludb_test,T_on,200,2,linear,96,0,0
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:100,2,linear,4505,9,14
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:101,2,linear,1877,1853,1
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:103,2,linear,3896,272,13
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:106,2,linear,2791,223,30
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:117,2,linear,3068,0,0
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:119,2,linear,3077,163,8
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:122,2,linear,4946,4,2
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:207,2,linear,140,2690,48
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:214,2,linear,1923,2079,3
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:222,2,linear,2406,108,185
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:223,2,linear,3755,443,13
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:231,2,linear,2857,1131,3
+qtdb_each_lead,P_on,sel100,2,linear,60,0,0
+qtdb_each_lead,P_on,sel102,2,linear,0,0,3
+qtdb_each_lead,P_on,sel103,2,linear,60,0,0
+qtdb_each_lead,P_on,sel104,2,linear,18,16,5
+qtdb_each_lead,P_on,sel114,2,linear,99,1,0
+qtdb_each_lead,P_on,sel116,2,linear,93,7,7
+qtdb_each_lead,P_on,sel117,2,linear,60,0,0
+qtdb_each_lead,P_on,sel123,2,linear,60,0,0
+qtdb_each_lead,P_on,sel14046,2,linear,61,1,0
+qtdb_each_lead,P_on,sel14157,2,linear,4,52,0
+qtdb_each_lead,P_on,sel14172,2,linear,100,0,0
+qtdb_each_lead,P_on,sel15814,2,linear,36,24,0
+qtdb_each_lead,P_on,sel16265,2,linear,60,0,0
+qtdb_each_lead,P_on,sel16272,2,linear,60,0,0
+qtdb_each_lead,P_on,sel16273,2,linear,60,0,0
+qtdb_each_lead,P_on,sel16420,2,linear,60,0,0
+qtdb_each_lead,P_on,sel16483,2,linear,60,0,0
+qtdb_each_lead,P_on,sel16539,2,linear,60,0,0
+qtdb_each_lead,P_on,sel16773,2,linear,60,0,0
+qtdb_each_lead,P_on,sel16786,2,linear,60,0,0
+qtdb_each_lead,P_on,sel16795,2,linear,60,0,0
+qtdb_each_lead,P_on,sel17152,2,linear,30,30,1
+qtdb_each_lead,P_on,sel17453,2,linear,60,0,0
+qtdb_each_lead,P_on,sel213,2,linear,16,126,8
+qtdb_each_lead,P_on,sel221,2,linear,0,0,5
+qtdb_each_lead,P_on,sel223,2,linear,58,4,2
+qtdb_each_lead,P_on,sel230,2,linear,100,0,2
+qtdb_each_lead,P_on,sel231,2,linear,95,5,0
+qtdb_each_lead,P_on,sel232,2,linear,0,0,0
+qtdb_each_lead,P_on,sel233,2,linear,59,1,22
+qtdb_each_lead,P_on,sel30,2,linear,60,0,0
+qtdb_each_lead,P_on,sel301,2,linear,60,0,0
+qtdb_each_lead,P_on,sel302,2,linear,60,0,4
+qtdb_each_lead,P_on,sel306,2,linear,72,0,2
+qtdb_each_lead,P_on,sel307,2,linear,60,0,0
+qtdb_each_lead,P_on,sel308,2,linear,27,73,0
+qtdb_each_lead,P_on,sel31,2,linear,30,30,1
+qtdb_each_lead,P_on,sel310,2,linear,0,0,0
+qtdb_each_lead,P_on,sel32,2,linear,59,1,2
+qtdb_each_lead,P_on,sel33,2,linear,60,0,0
+qtdb_each_lead,P_on,sel34,2,linear,49,11,0
+qtdb_each_lead,P_on,sel35,2,linear,0,0,3
+qtdb_each_lead,P_on,sel36,2,linear,0,2,1
+qtdb_each_lead,P_on,sel37,2,linear,0,0,24
+qtdb_each_lead,P_on,sel38,2,linear,0,60,0
+qtdb_each_lead,P_on,sel39,2,linear,59,1,0
+qtdb_each_lead,P_on,sel40,2,linear,0,60,0
+qtdb_each_lead,P_on,sel41,2,linear,1,59,0
+qtdb_each_lead,P_on,sel42,2,linear,0,60,0
+qtdb_each_lead,P_on,sel43,2,linear,1,59,0
+qtdb_each_lead,P_on,sel44,2,linear,30,14,4
+qtdb_each_lead,P_on,sel45,2,linear,60,0,0
+qtdb_each_lead,P_on,sel46,2,linear,2,56,0
+qtdb_each_lead,P_on,sel47,2,linear,60,0,0
+qtdb_each_lead,P_on,sel48,2,linear,34,26,1
+qtdb_each_lead,P_on,sel49,2,linear,60,0,0
+qtdb_each_lead,P_on,sel50,2,linear,0,0,27
+qtdb_each_lead,P_on,sel51,2,linear,60,0,0
+qtdb_each_lead,P_on,sel52,2,linear,3,57,0
+qtdb_each_lead,P_on,sel803,2,linear,60,0,0
+qtdb_each_lead,P_on,sel808,2,linear,60,0,0
+qtdb_each_lead,P_on,sel811,2,linear,60,0,0
+qtdb_each_lead,P_on,sel820,2,linear,60,0,5
+qtdb_each_lead,P_on,sel821,2,linear,16,36,1
+qtdb_each_lead,P_on,sel840,2,linear,94,0,46
+qtdb_each_lead,P_on,sel847,2,linear,66,0,0
+qtdb_each_lead,P_on,sel853,2,linear,59,1,0
+qtdb_each_lead,P_on,sel871,2,linear,140,0,6
+qtdb_each_lead,P_on,sel872,2,linear,60,0,0
+qtdb_each_lead,P_on,sel873,2,linear,66,0,0
+qtdb_each_lead,P_on,sel883,2,linear,60,0,0
+qtdb_each_lead,P_on,sel891,2,linear,0,116,0
+qtdb_each_lead,P_on,sele0104,2,linear,60,0,0
+qtdb_each_lead,P_on,sele0106,2,linear,60,0,0
+qtdb_each_lead,P_on,sele0107,2,linear,68,0,0
+qtdb_each_lead,P_on,sele0110,2,linear,60,0,0
+qtdb_each_lead,P_on,sele0111,2,linear,60,0,0
+qtdb_each_lead,P_on,sele0112,2,linear,98,2,0
+qtdb_each_lead,P_on,sele0114,2,linear,57,3,0
+qtdb_each_lead,P_on,sele0116,2,linear,1,59,6
+qtdb_each_lead,P_on,sele0121,2,linear,60,0,2
+qtdb_each_lead,P_on,sele0122,2,linear,60,0,2
+qtdb_each_lead,P_on,sele0124,2,linear,100,0,2
+qtdb_each_lead,P_on,sele0126,2,linear,60,0,0
+qtdb_each_lead,P_on,sele0129,2,linear,60,0,0
+qtdb_each_lead,P_on,sele0133,2,linear,60,0,0
+qtdb_each_lead,P_on,sele0136,2,linear,60,0,0
+qtdb_each_lead,P_on,sele0166,2,linear,72,0,0
+qtdb_each_lead,P_on,sele0170,2,linear,60,0,0
+qtdb_each_lead,P_on,sele0203,2,linear,48,12,2
+qtdb_each_lead,P_on,sele0210,2,linear,60,0,0
+qtdb_each_lead,P_on,sele0211,2,linear,57,3,2
+qtdb_each_lead,P_on,sele0303,2,linear,60,0,0
+qtdb_each_lead,P_on,sele0405,2,linear,60,0,2
+qtdb_each_lead,P_on,sele0406,2,linear,62,0,0
+qtdb_each_lead,P_on,sele0409,2,linear,0,60,0
+qtdb_each_lead,P_on,sele0411,2,linear,60,0,0
+qtdb_each_lead,P_on,sele0509,2,linear,60,0,0
+qtdb_each_lead,P_on,sele0603,2,linear,60,0,0
+qtdb_each_lead,P_on,sele0604,2,linear,60,0,1
+qtdb_each_lead,P_on,sele0606,2,linear,60,0,2
+qtdb_each_lead,P_on,sele0607,2,linear,59,1,2
+qtdb_each_lead,P_on,sele0609,2,linear,60,0,0
+qtdb_each_lead,P_on,sele0612,2,linear,60,0,0
+qtdb_each_lead,P_on,sele0704,2,linear,41,19,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:107,2,KAN,0,112,3
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:108,2,KAN,193,37,2
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:118,2,KAN,501,57,2
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:124,2,KAN,296,14,3
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:201,2,KAN,105,3,3
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:203,2,KAN,0,0,1
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:208,2,KAN,110,256,5
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:209,2,KAN,241,121,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:230,2,KAN,248,10,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:233,2,KAN,277,11,4
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:234,2,KAN,281,3,1
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:112,2,KAN,287,55,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:114,2,KAN,264,4,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:104,2,KAN,34,46,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:105,2,KAN,254,66,4
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:109,2,KAN,0,320,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:111,2,KAN,207,71,2
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:113,2,KAN,242,0,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:115,2,KAN,255,3,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:116,2,KAN,233,83,1
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:121,2,KAN,231,1,1
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:123,2,KAN,196,2,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:205,2,KAN,604,20,1
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:212,2,KAN,218,126,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:213,2,KAN,305,109,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:219,2,KAN,132,0,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Supraventricular Arrhythmia Database:801,2,KAN,141,99,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Supraventricular Arrhythmia Database:802,2,KAN,146,0,2
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Supraventricular Arrhythmia Database:886,2,KAN,69,189,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Supraventricular Arrhythmia Database:851,2,KAN,222,4,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Supraventricular Arrhythmia Database:811,2,KAN,210,0,4
+butpdb_nooverlap_each_lead,P_peak,Long Term AF Database:101,2,KAN,154,0,0
+butpdb_nooverlap_each_lead,P_peak,Long Term AF Database:120,2,KAN,178,92,3
+butpdb_nooverlap_each_lead,P_peak,Long Term AF Database:55,2,KAN,99,19,3
+butpdb_nooverlap_each_lead,P_peak,Long Term AF Database:56,2,KAN,62,12,0
+butpdb_nooverlap_each_lead,P_peak,Long Term AF Database:62,2,KAN,0,0,21
+butpdb_nooverlap_each_lead,P_peak,Long Term AF Database:102,2,KAN,174,2,8
+butpdb_nooverlap_each_lead,P_peak,Long Term AF Database:117,2,KAN,12,0,0
+ludb_test,P_off,14,2,KAN,132,0,0
+ludb_test,P_off,15,2,KAN,77,4,3
+ludb_test,P_off,21,2,KAN,108,0,0
+ludb_test,P_off,22,2,KAN,118,2,2
+ludb_test,P_off,26,2,KAN,84,0,0
+ludb_test,P_off,35,2,KAN,0,0,1
+ludb_test,P_off,39,2,KAN,71,1,0
+ludb_test,P_off,45,2,KAN,0,0,3
+ludb_test,P_off,48,2,KAN,71,1,0
+ludb_test,P_off,63,2,KAN,108,0,0
+ludb_test,P_off,68,2,KAN,96,0,0
+ludb_test,P_off,73,2,KAN,84,0,0
+ludb_test,P_off,75,2,KAN,94,2,0
+ludb_test,P_off,76,2,KAN,117,3,0
+ludb_test,P_off,79,2,KAN,78,6,0
+ludb_test,P_off,81,2,KAN,120,0,0
+ludb_test,P_off,82,2,KAN,72,0,0
+ludb_test,P_off,83,2,KAN,0,0,1
+ludb_test,P_off,84,2,KAN,81,3,0
+ludb_test,P_off,90,2,KAN,0,0,5
+ludb_test,P_off,99,2,KAN,132,0,0
+ludb_test,P_off,101,2,KAN,0,0,75
+ludb_test,P_off,103,2,KAN,0,0,42
+ludb_test,P_off,108,2,KAN,81,20,0
+ludb_test,P_off,116,2,KAN,3,153,0
+ludb_test,P_off,121,2,KAN,105,63,0
+ludb_test,P_off,123,2,KAN,96,0,0
+ludb_test,P_off,124,2,KAN,72,0,0
+ludb_test,P_off,135,2,KAN,96,0,0
+ludb_test,P_off,149,2,KAN,96,0,0
+ludb_test,P_off,150,2,KAN,84,0,0
+ludb_test,P_off,167,2,KAN,95,0,1
+ludb_test,P_off,170,2,KAN,72,0,0
+ludb_test,P_off,179,2,KAN,84,0,0
+ludb_test,P_off,184,2,KAN,96,0,0
+ludb_test,P_off,186,2,KAN,113,7,0
+ludb_test,P_off,191,2,KAN,84,0,0
+ludb_test,P_off,194,2,KAN,84,0,0
+ludb_test,P_off,195,2,KAN,96,0,0
+ludb_test,P_off,196,2,KAN,108,0,0
+ludb_test,P_off,200,2,KAN,96,0,0
+ludb_test,P_on,14,2,KAN,132,0,0
+ludb_test,P_on,15,2,KAN,77,4,3
+ludb_test,P_on,21,2,KAN,108,0,0
+ludb_test,P_on,22,2,KAN,118,2,0
+ludb_test,P_on,26,2,KAN,84,0,0
+ludb_test,P_on,35,2,KAN,0,0,1
+ludb_test,P_on,39,2,KAN,71,1,0
+ludb_test,P_on,45,2,KAN,0,0,3
+ludb_test,P_on,48,2,KAN,71,1,0
+ludb_test,P_on,63,2,KAN,108,0,0
+ludb_test,P_on,68,2,KAN,96,0,0
+ludb_test,P_on,73,2,KAN,84,0,0
+ludb_test,P_on,75,2,KAN,94,2,0
+ludb_test,P_on,76,2,KAN,117,3,0
+ludb_test,P_on,79,2,KAN,78,6,0
+ludb_test,P_on,81,2,KAN,120,0,0
+ludb_test,P_on,82,2,KAN,72,0,0
+ludb_test,P_on,83,2,KAN,0,0,1
+ludb_test,P_on,84,2,KAN,81,3,0
+ludb_test,P_on,90,2,KAN,0,0,5
+ludb_test,P_on,99,2,KAN,132,0,0
+ludb_test,P_on,101,2,KAN,0,0,75
+ludb_test,P_on,103,2,KAN,0,0,42
+ludb_test,P_on,108,2,KAN,81,20,0
+ludb_test,P_on,116,2,KAN,3,153,0
+ludb_test,P_on,121,2,KAN,105,63,0
+ludb_test,P_on,123,2,KAN,96,0,0
+ludb_test,P_on,124,2,KAN,72,0,0
+ludb_test,P_on,135,2,KAN,96,0,0
+ludb_test,P_on,149,2,KAN,96,0,0
+ludb_test,P_on,150,2,KAN,84,0,0
+ludb_test,P_on,167,2,KAN,95,0,1
+ludb_test,P_on,170,2,KAN,72,0,0
+ludb_test,P_on,179,2,KAN,84,0,0
+ludb_test,P_on,184,2,KAN,96,0,0
+ludb_test,P_on,186,2,KAN,113,7,0
+ludb_test,P_on,191,2,KAN,84,0,0
+ludb_test,P_on,194,2,KAN,84,0,0
+ludb_test,P_on,195,2,KAN,96,0,0
+ludb_test,P_on,196,2,KAN,108,0,0
+ludb_test,P_on,200,2,KAN,96,0,0
+ludb_test,QRS_off,14,2,KAN,144,0,0
+ludb_test,QRS_off,15,2,KAN,94,1,3
+ludb_test,QRS_off,21,2,KAN,120,0,0
+ludb_test,QRS_off,22,2,KAN,132,0,0
+ludb_test,QRS_off,26,2,KAN,96,0,0
+ludb_test,QRS_off,35,2,KAN,234,6,0
+ludb_test,QRS_off,39,2,KAN,84,0,0
+ludb_test,QRS_off,45,2,KAN,96,0,5
+ludb_test,QRS_off,48,2,KAN,84,0,0
+ludb_test,QRS_off,63,2,KAN,120,0,0
+ludb_test,QRS_off,68,2,KAN,108,0,0
+ludb_test,QRS_off,73,2,KAN,96,0,0
+ludb_test,QRS_off,75,2,KAN,108,0,0
+ludb_test,QRS_off,76,2,KAN,132,0,0
+ludb_test,QRS_off,79,2,KAN,96,0,0
+ludb_test,QRS_off,81,2,KAN,132,0,0
+ludb_test,QRS_off,82,2,KAN,84,0,0
+ludb_test,QRS_off,83,2,KAN,119,1,0
+ludb_test,QRS_off,84,2,KAN,96,0,0
+ludb_test,QRS_off,90,2,KAN,96,0,0
+ludb_test,QRS_off,99,2,KAN,144,0,0
+ludb_test,QRS_off,101,2,KAN,132,0,0
+ludb_test,QRS_off,103,2,KAN,157,11,0
+ludb_test,QRS_off,108,2,KAN,132,0,0
+ludb_test,QRS_off,116,2,KAN,156,0,0
+ludb_test,QRS_off,121,2,KAN,179,1,1
+ludb_test,QRS_off,123,2,KAN,108,0,0
+ludb_test,QRS_off,124,2,KAN,84,0,0
+ludb_test,QRS_off,135,2,KAN,108,0,0
+ludb_test,QRS_off,149,2,KAN,108,0,0
+ludb_test,QRS_off,150,2,KAN,96,0,0
+ludb_test,QRS_off,167,2,KAN,108,0,0
+ludb_test,QRS_off,170,2,KAN,84,0,0
+ludb_test,QRS_off,179,2,KAN,96,0,0
+ludb_test,QRS_off,184,2,KAN,108,0,0
+ludb_test,QRS_off,186,2,KAN,132,0,0
+ludb_test,QRS_off,191,2,KAN,96,0,0
+ludb_test,QRS_off,194,2,KAN,96,0,0
+ludb_test,QRS_off,195,2,KAN,108,0,0
+ludb_test,QRS_off,196,2,KAN,120,0,0
+ludb_test,QRS_off,200,2,KAN,108,0,0
+ludb_test,QRS_on,14,2,KAN,144,0,0
+ludb_test,QRS_on,15,2,KAN,94,1,3
+ludb_test,QRS_on,21,2,KAN,120,0,0
+ludb_test,QRS_on,22,2,KAN,132,0,0
+ludb_test,QRS_on,26,2,KAN,96,0,0
+ludb_test,QRS_on,35,2,KAN,234,6,0
+ludb_test,QRS_on,39,2,KAN,84,0,0
+ludb_test,QRS_on,45,2,KAN,96,0,5
+ludb_test,QRS_on,48,2,KAN,84,0,0
+ludb_test,QRS_on,63,2,KAN,120,0,0
+ludb_test,QRS_on,68,2,KAN,108,0,0
+ludb_test,QRS_on,73,2,KAN,96,0,0
+ludb_test,QRS_on,75,2,KAN,108,0,0
+ludb_test,QRS_on,76,2,KAN,132,0,0
+ludb_test,QRS_on,79,2,KAN,96,0,0
+ludb_test,QRS_on,81,2,KAN,132,0,0
+ludb_test,QRS_on,82,2,KAN,84,0,0
+ludb_test,QRS_on,83,2,KAN,119,1,0
+ludb_test,QRS_on,84,2,KAN,96,0,0
+ludb_test,QRS_on,90,2,KAN,96,0,0
+ludb_test,QRS_on,99,2,KAN,144,0,0
+ludb_test,QRS_on,101,2,KAN,132,0,0
+ludb_test,QRS_on,103,2,KAN,157,11,0
+ludb_test,QRS_on,108,2,KAN,132,0,0
+ludb_test,QRS_on,116,2,KAN,156,0,0
+ludb_test,QRS_on,121,2,KAN,179,1,1
+ludb_test,QRS_on,123,2,KAN,108,0,0
+ludb_test,QRS_on,124,2,KAN,84,0,0
+ludb_test,QRS_on,135,2,KAN,108,0,0
+ludb_test,QRS_on,149,2,KAN,108,0,0
+ludb_test,QRS_on,150,2,KAN,96,0,0
+ludb_test,QRS_on,167,2,KAN,108,0,0
+ludb_test,QRS_on,170,2,KAN,84,0,0
+ludb_test,QRS_on,179,2,KAN,96,0,0
+ludb_test,QRS_on,184,2,KAN,108,0,0
+ludb_test,QRS_on,186,2,KAN,132,0,0
+ludb_test,QRS_on,191,2,KAN,96,0,0
+ludb_test,QRS_on,194,2,KAN,96,0,0
+ludb_test,QRS_on,195,2,KAN,108,0,0
+ludb_test,QRS_on,196,2,KAN,120,0,0
+ludb_test,QRS_on,200,2,KAN,108,0,0
+ludb_test,T_off,14,2,KAN,132,0,0
+ludb_test,T_off,15,2,KAN,75,7,5
+ludb_test,T_off,21,2,KAN,108,0,0
+ludb_test,T_off,22,2,KAN,120,0,0
+ludb_test,T_off,26,2,KAN,84,0,0
+ludb_test,T_off,35,2,KAN,160,68,0
+ludb_test,T_off,39,2,KAN,72,0,0
+ludb_test,T_off,45,2,KAN,84,0,1
+ludb_test,T_off,48,2,KAN,72,0,0
+ludb_test,T_off,63,2,KAN,108,0,0
+ludb_test,T_off,68,2,KAN,96,0,0
+ludb_test,T_off,73,2,KAN,84,0,0
+ludb_test,T_off,75,2,KAN,96,0,0
+ludb_test,T_off,76,2,KAN,120,0,0
+ludb_test,T_off,79,2,KAN,84,0,0
+ludb_test,T_off,81,2,KAN,120,0,0
+ludb_test,T_off,82,2,KAN,72,0,0
+ludb_test,T_off,83,2,KAN,107,1,0
+ludb_test,T_off,84,2,KAN,84,0,0
+ludb_test,T_off,90,2,KAN,84,0,0
+ludb_test,T_off,99,2,KAN,132,0,0
+ludb_test,T_off,101,2,KAN,112,8,1
+ludb_test,T_off,103,2,KAN,133,21,1
+ludb_test,T_off,108,2,KAN,119,1,1
+ludb_test,T_off,116,2,KAN,150,5,1
+ludb_test,T_off,121,2,KAN,162,5,1
+ludb_test,T_off,123,2,KAN,96,0,0
+ludb_test,T_off,124,2,KAN,72,0,0
+ludb_test,T_off,135,2,KAN,96,0,0
+ludb_test,T_off,149,2,KAN,96,0,0
+ludb_test,T_off,150,2,KAN,84,0,0
+ludb_test,T_off,167,2,KAN,96,0,0
+ludb_test,T_off,170,2,KAN,72,0,0
+ludb_test,T_off,179,2,KAN,84,0,0
+ludb_test,T_off,184,2,KAN,96,0,0
+ludb_test,T_off,186,2,KAN,119,1,0
+ludb_test,T_off,191,2,KAN,84,0,0
+ludb_test,T_off,194,2,KAN,84,0,0
+ludb_test,T_off,195,2,KAN,96,0,0
+ludb_test,T_off,196,2,KAN,108,0,0
+ludb_test,T_off,200,2,KAN,96,0,0
+ludb_test,T_on,14,2,KAN,132,0,0
+ludb_test,T_on,15,2,KAN,75,7,5
+ludb_test,T_on,21,2,KAN,108,0,0
+ludb_test,T_on,22,2,KAN,120,0,0
+ludb_test,T_on,26,2,KAN,84,0,0
+ludb_test,T_on,35,2,KAN,160,68,0
+ludb_test,T_on,39,2,KAN,72,0,0
+ludb_test,T_on,45,2,KAN,84,0,1
+ludb_test,T_on,48,2,KAN,72,0,0
+ludb_test,T_on,63,2,KAN,108,0,0
+ludb_test,T_on,68,2,KAN,96,0,0
+ludb_test,T_on,73,2,KAN,84,0,0
+ludb_test,T_on,75,2,KAN,96,0,0
+ludb_test,T_on,76,2,KAN,120,0,0
+ludb_test,T_on,79,2,KAN,84,0,0
+ludb_test,T_on,81,2,KAN,120,0,0
+ludb_test,T_on,82,2,KAN,72,0,0
+ludb_test,T_on,83,2,KAN,107,1,0
+ludb_test,T_on,84,2,KAN,84,0,0
+ludb_test,T_on,90,2,KAN,84,0,0
+ludb_test,T_on,99,2,KAN,132,0,0
+ludb_test,T_on,101,2,KAN,113,7,0
+ludb_test,T_on,103,2,KAN,133,21,1
+ludb_test,T_on,108,2,KAN,120,0,0
+ludb_test,T_on,116,2,KAN,151,5,0
+ludb_test,T_on,121,2,KAN,162,5,1
+ludb_test,T_on,123,2,KAN,96,0,0
+ludb_test,T_on,124,2,KAN,72,0,0
+ludb_test,T_on,135,2,KAN,96,0,0
+ludb_test,T_on,149,2,KAN,96,0,0
+ludb_test,T_on,150,2,KAN,84,0,0
+ludb_test,T_on,167,2,KAN,96,0,0
+ludb_test,T_on,170,2,KAN,72,0,0
+ludb_test,T_on,179,2,KAN,84,0,0
+ludb_test,T_on,184,2,KAN,96,0,0
+ludb_test,T_on,186,2,KAN,119,1,0
+ludb_test,T_on,191,2,KAN,84,0,0
+ludb_test,T_on,194,2,KAN,84,0,0
+ludb_test,T_on,195,2,KAN,96,0,0
+ludb_test,T_on,196,2,KAN,108,0,0
+ludb_test,T_on,200,2,KAN,96,0,0
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:100,2,KAN,4509,5,15
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:101,2,KAN,1905,1825,0
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:103,2,KAN,3875,293,10
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:106,2,KAN,2817,197,22
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:117,2,KAN,3068,0,0
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:119,2,KAN,3076,164,7
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:122,2,KAN,4945,5,2
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:207,2,KAN,137,2693,46
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:214,2,KAN,2249,1753,3
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:222,2,KAN,2407,107,200
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:223,2,KAN,3799,399,16
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:231,2,KAN,3072,916,2
+qtdb_each_lead,P_on,sel100,2,KAN,60,0,0
+qtdb_each_lead,P_on,sel102,2,KAN,0,0,5
+qtdb_each_lead,P_on,sel103,2,KAN,60,0,0
+qtdb_each_lead,P_on,sel104,2,KAN,20,14,6
+qtdb_each_lead,P_on,sel114,2,KAN,98,2,0
+qtdb_each_lead,P_on,sel116,2,KAN,94,6,7
+qtdb_each_lead,P_on,sel117,2,KAN,60,0,0
+qtdb_each_lead,P_on,sel123,2,KAN,60,0,0
+qtdb_each_lead,P_on,sel14046,2,KAN,61,1,0
+qtdb_each_lead,P_on,sel14157,2,KAN,0,56,0
+qtdb_each_lead,P_on,sel14172,2,KAN,100,0,0
+qtdb_each_lead,P_on,sel15814,2,KAN,60,0,0
+qtdb_each_lead,P_on,sel16265,2,KAN,60,0,0
+qtdb_each_lead,P_on,sel16272,2,KAN,60,0,0
+qtdb_each_lead,P_on,sel16273,2,KAN,60,0,0
+qtdb_each_lead,P_on,sel16420,2,KAN,60,0,0
+qtdb_each_lead,P_on,sel16483,2,KAN,60,0,0
+qtdb_each_lead,P_on,sel16539,2,KAN,60,0,0
+qtdb_each_lead,P_on,sel16773,2,KAN,60,0,0
+qtdb_each_lead,P_on,sel16786,2,KAN,60,0,0
+qtdb_each_lead,P_on,sel16795,2,KAN,60,0,0
+qtdb_each_lead,P_on,sel17152,2,KAN,30,30,1
+qtdb_each_lead,P_on,sel17453,2,KAN,60,0,0
+qtdb_each_lead,P_on,sel213,2,KAN,16,126,10
+qtdb_each_lead,P_on,sel221,2,KAN,0,0,3
+qtdb_each_lead,P_on,sel223,2,KAN,59,3,2
+qtdb_each_lead,P_on,sel230,2,KAN,100,0,2
+qtdb_each_lead,P_on,sel231,2,KAN,100,0,0
+qtdb_each_lead,P_on,sel232,2,KAN,0,0,0
+qtdb_each_lead,P_on,sel233,2,KAN,60,0,30
+qtdb_each_lead,P_on,sel30,2,KAN,60,0,0
+qtdb_each_lead,P_on,sel301,2,KAN,60,0,0
+qtdb_each_lead,P_on,sel302,2,KAN,60,0,4
+qtdb_each_lead,P_on,sel306,2,KAN,72,0,2
+qtdb_each_lead,P_on,sel307,2,KAN,60,0,0
+qtdb_each_lead,P_on,sel308,2,KAN,54,46,0
+qtdb_each_lead,P_on,sel31,2,KAN,31,29,1
+qtdb_each_lead,P_on,sel310,2,KAN,0,0,0
+qtdb_each_lead,P_on,sel32,2,KAN,60,0,2
+qtdb_each_lead,P_on,sel33,2,KAN,60,0,0
+qtdb_each_lead,P_on,sel34,2,KAN,47,13,0
+qtdb_each_lead,P_on,sel35,2,KAN,0,0,4
+qtdb_each_lead,P_on,sel36,2,KAN,0,2,1
+qtdb_each_lead,P_on,sel37,2,KAN,0,0,34
+qtdb_each_lead,P_on,sel38,2,KAN,0,60,0
+qtdb_each_lead,P_on,sel39,2,KAN,60,0,0
+qtdb_each_lead,P_on,sel40,2,KAN,0,60,0
+qtdb_each_lead,P_on,sel41,2,KAN,9,51,0
+qtdb_each_lead,P_on,sel42,2,KAN,7,53,0
+qtdb_each_lead,P_on,sel43,2,KAN,14,46,0
+qtdb_each_lead,P_on,sel44,2,KAN,33,11,4
+qtdb_each_lead,P_on,sel45,2,KAN,60,0,0
+qtdb_each_lead,P_on,sel46,2,KAN,2,56,0
+qtdb_each_lead,P_on,sel47,2,KAN,60,0,0
+qtdb_each_lead,P_on,sel48,2,KAN,25,35,1
+qtdb_each_lead,P_on,sel49,2,KAN,60,0,0
+qtdb_each_lead,P_on,sel50,2,KAN,0,0,30
+qtdb_each_lead,P_on,sel51,2,KAN,60,0,0
+qtdb_each_lead,P_on,sel52,2,KAN,6,54,0
+qtdb_each_lead,P_on,sel803,2,KAN,60,0,0
+qtdb_each_lead,P_on,sel808,2,KAN,60,0,0
+qtdb_each_lead,P_on,sel811,2,KAN,60,0,0
+qtdb_each_lead,P_on,sel820,2,KAN,60,0,5
+qtdb_each_lead,P_on,sel821,2,KAN,14,38,1
+qtdb_each_lead,P_on,sel840,2,KAN,94,0,47
+qtdb_each_lead,P_on,sel847,2,KAN,66,0,0
+qtdb_each_lead,P_on,sel853,2,KAN,58,2,0
+qtdb_each_lead,P_on,sel871,2,KAN,140,0,6
+qtdb_each_lead,P_on,sel872,2,KAN,60,0,0
+qtdb_each_lead,P_on,sel873,2,KAN,66,0,0
+qtdb_each_lead,P_on,sel883,2,KAN,60,0,0
+qtdb_each_lead,P_on,sel891,2,KAN,0,116,0
+qtdb_each_lead,P_on,sele0104,2,KAN,60,0,0
+qtdb_each_lead,P_on,sele0106,2,KAN,60,0,0
+qtdb_each_lead,P_on,sele0107,2,KAN,68,0,0
+qtdb_each_lead,P_on,sele0110,2,KAN,60,0,0
+qtdb_each_lead,P_on,sele0111,2,KAN,60,0,0
+qtdb_each_lead,P_on,sele0112,2,KAN,99,1,0
+qtdb_each_lead,P_on,sele0114,2,KAN,59,1,0
+qtdb_each_lead,P_on,sele0116,2,KAN,0,60,3
+qtdb_each_lead,P_on,sele0121,2,KAN,60,0,2
+qtdb_each_lead,P_on,sele0122,2,KAN,60,0,2
+qtdb_each_lead,P_on,sele0124,2,KAN,100,0,2
+qtdb_each_lead,P_on,sele0126,2,KAN,60,0,0
+qtdb_each_lead,P_on,sele0129,2,KAN,60,0,0
+qtdb_each_lead,P_on,sele0133,2,KAN,60,0,0
+qtdb_each_lead,P_on,sele0136,2,KAN,60,0,0
+qtdb_each_lead,P_on,sele0166,2,KAN,72,0,0
+qtdb_each_lead,P_on,sele0170,2,KAN,60,0,0
+qtdb_each_lead,P_on,sele0203,2,KAN,47,13,1
+qtdb_each_lead,P_on,sele0210,2,KAN,60,0,0
+qtdb_each_lead,P_on,sele0211,2,KAN,57,3,2
+qtdb_each_lead,P_on,sele0303,2,KAN,60,0,0
+qtdb_each_lead,P_on,sele0405,2,KAN,60,0,2
+qtdb_each_lead,P_on,sele0406,2,KAN,62,0,0
+qtdb_each_lead,P_on,sele0409,2,KAN,0,60,0
+qtdb_each_lead,P_on,sele0411,2,KAN,60,0,0
+qtdb_each_lead,P_on,sele0509,2,KAN,60,0,0
+qtdb_each_lead,P_on,sele0603,2,KAN,60,0,0
+qtdb_each_lead,P_on,sele0604,2,KAN,60,0,1
+qtdb_each_lead,P_on,sele0606,2,KAN,60,0,2
+qtdb_each_lead,P_on,sele0607,2,KAN,60,0,2
+qtdb_each_lead,P_on,sele0609,2,KAN,60,0,0
+qtdb_each_lead,P_on,sele0612,2,KAN,60,0,0
+qtdb_each_lead,P_on,sele0704,2,KAN,50,10,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:107,1,KAN,0,112,2
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:108,1,KAN,180,50,1
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:118,1,KAN,431,127,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:124,1,KAN,299,11,2
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:201,1,KAN,106,2,3
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:203,1,KAN,0,0,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:208,1,KAN,108,258,5
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:209,1,KAN,247,115,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:230,1,KAN,248,10,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:233,1,KAN,212,76,3
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:234,1,KAN,278,6,3
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:112,1,KAN,264,78,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:114,1,KAN,265,3,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:104,1,KAN,27,53,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:105,1,KAN,234,86,4
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:109,1,KAN,1,319,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:111,1,KAN,153,125,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:113,1,KAN,242,0,1
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:115,1,KAN,255,3,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:116,1,KAN,222,94,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:121,1,KAN,230,2,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:123,1,KAN,196,2,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:205,1,KAN,574,50,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:212,1,KAN,214,130,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:213,1,KAN,181,233,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:219,1,KAN,132,0,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Supraventricular Arrhythmia Database:801,1,KAN,54,186,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Supraventricular Arrhythmia Database:802,1,KAN,146,0,3
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Supraventricular Arrhythmia Database:886,1,KAN,0,258,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Supraventricular Arrhythmia Database:851,1,KAN,216,10,1
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Supraventricular Arrhythmia Database:811,1,KAN,210,0,4
+butpdb_nooverlap_each_lead,P_peak,Long Term AF Database:101,1,KAN,154,0,0
+butpdb_nooverlap_each_lead,P_peak,Long Term AF Database:120,1,KAN,180,90,1
+butpdb_nooverlap_each_lead,P_peak,Long Term AF Database:55,1,KAN,98,20,1
+butpdb_nooverlap_each_lead,P_peak,Long Term AF Database:56,1,KAN,59,15,0
+butpdb_nooverlap_each_lead,P_peak,Long Term AF Database:62,1,KAN,0,0,12
+butpdb_nooverlap_each_lead,P_peak,Long Term AF Database:102,1,KAN,174,2,5
+butpdb_nooverlap_each_lead,P_peak,Long Term AF Database:117,1,KAN,12,0,0
+ludb_test,P_off,14,1,KAN,131,1,0
+ludb_test,P_off,15,1,KAN,78,3,2
+ludb_test,P_off,21,1,KAN,108,0,0
+ludb_test,P_off,22,1,KAN,115,5,2
+ludb_test,P_off,26,1,KAN,84,0,0
+ludb_test,P_off,35,1,KAN,0,0,0
+ludb_test,P_off,39,1,KAN,71,1,0
+ludb_test,P_off,45,1,KAN,0,0,0
+ludb_test,P_off,48,1,KAN,71,1,0
+ludb_test,P_off,63,1,KAN,108,0,0
+ludb_test,P_off,68,1,KAN,96,0,0
+ludb_test,P_off,73,1,KAN,84,0,0
+ludb_test,P_off,75,1,KAN,96,0,0
+ludb_test,P_off,76,1,KAN,119,1,0
+ludb_test,P_off,79,1,KAN,79,5,0
+ludb_test,P_off,81,1,KAN,120,0,0
+ludb_test,P_off,82,1,KAN,72,0,0
+ludb_test,P_off,83,1,KAN,0,0,1
+ludb_test,P_off,84,1,KAN,84,0,0
+ludb_test,P_off,90,1,KAN,0,0,1
+ludb_test,P_off,99,1,KAN,131,1,0
+ludb_test,P_off,101,1,KAN,0,0,63
+ludb_test,P_off,103,1,KAN,0,0,28
+ludb_test,P_off,108,1,KAN,70,31,0
+ludb_test,P_off,116,1,KAN,5,151,0
+ludb_test,P_off,121,1,KAN,74,94,0
+ludb_test,P_off,123,1,KAN,96,0,0
+ludb_test,P_off,124,1,KAN,72,0,0
+ludb_test,P_off,135,1,KAN,96,0,0
+ludb_test,P_off,149,1,KAN,96,0,0
+ludb_test,P_off,150,1,KAN,84,0,0
+ludb_test,P_off,167,1,KAN,95,0,1
+ludb_test,P_off,170,1,KAN,72,0,0
+ludb_test,P_off,179,1,KAN,84,0,0
+ludb_test,P_off,184,1,KAN,96,0,0
+ludb_test,P_off,186,1,KAN,110,10,0
+ludb_test,P_off,191,1,KAN,84,0,0
+ludb_test,P_off,194,1,KAN,84,0,0
+ludb_test,P_off,195,1,KAN,96,0,0
+ludb_test,P_off,196,1,KAN,108,0,0
+ludb_test,P_off,200,1,KAN,96,0,0
+ludb_test,P_on,14,1,KAN,131,1,0
+ludb_test,P_on,15,1,KAN,78,3,2
+ludb_test,P_on,21,1,KAN,108,0,0
+ludb_test,P_on,22,1,KAN,115,5,0
+ludb_test,P_on,26,1,KAN,84,0,0
+ludb_test,P_on,35,1,KAN,0,0,0
+ludb_test,P_on,39,1,KAN,71,1,0
+ludb_test,P_on,45,1,KAN,0,0,0
+ludb_test,P_on,48,1,KAN,71,1,0
+ludb_test,P_on,63,1,KAN,108,0,0
+ludb_test,P_on,68,1,KAN,96,0,0
+ludb_test,P_on,73,1,KAN,84,0,0
+ludb_test,P_on,75,1,KAN,96,0,0
+ludb_test,P_on,76,1,KAN,119,1,0
+ludb_test,P_on,79,1,KAN,79,5,0
+ludb_test,P_on,81,1,KAN,120,0,0
+ludb_test,P_on,82,1,KAN,72,0,0
+ludb_test,P_on,83,1,KAN,0,0,1
+ludb_test,P_on,84,1,KAN,84,0,0
+ludb_test,P_on,90,1,KAN,0,0,1
+ludb_test,P_on,99,1,KAN,131,1,0
+ludb_test,P_on,101,1,KAN,0,0,63
+ludb_test,P_on,103,1,KAN,0,0,28
+ludb_test,P_on,108,1,KAN,70,31,0
+ludb_test,P_on,116,1,KAN,5,151,0
+ludb_test,P_on,121,1,KAN,74,94,0
+ludb_test,P_on,123,1,KAN,96,0,0
+ludb_test,P_on,124,1,KAN,72,0,0
+ludb_test,P_on,135,1,KAN,96,0,0
+ludb_test,P_on,149,1,KAN,96,0,0
+ludb_test,P_on,150,1,KAN,84,0,0
+ludb_test,P_on,167,1,KAN,95,0,1
+ludb_test,P_on,170,1,KAN,72,0,0
+ludb_test,P_on,179,1,KAN,84,0,0
+ludb_test,P_on,184,1,KAN,96,0,0
+ludb_test,P_on,186,1,KAN,110,10,0
+ludb_test,P_on,191,1,KAN,84,0,0
+ludb_test,P_on,194,1,KAN,84,0,0
+ludb_test,P_on,195,1,KAN,96,0,0
+ludb_test,P_on,196,1,KAN,108,0,0
+ludb_test,P_on,200,1,KAN,96,0,0
+ludb_test,QRS_off,14,1,KAN,144,0,0
+ludb_test,QRS_off,15,1,KAN,94,1,2
+ludb_test,QRS_off,21,1,KAN,120,0,0
+ludb_test,QRS_off,22,1,KAN,132,0,0
+ludb_test,QRS_off,26,1,KAN,96,0,0
+ludb_test,QRS_off,35,1,KAN,233,7,0
+ludb_test,QRS_off,39,1,KAN,84,0,0
+ludb_test,QRS_off,45,1,KAN,96,0,7
+ludb_test,QRS_off,48,1,KAN,84,0,0
+ludb_test,QRS_off,63,1,KAN,120,0,0
+ludb_test,QRS_off,68,1,KAN,108,0,0
+ludb_test,QRS_off,73,1,KAN,96,0,0
+ludb_test,QRS_off,75,1,KAN,108,0,0
+ludb_test,QRS_off,76,1,KAN,132,0,0
+ludb_test,QRS_off,79,1,KAN,96,0,0
+ludb_test,QRS_off,81,1,KAN,132,0,0
+ludb_test,QRS_off,82,1,KAN,84,0,0
+ludb_test,QRS_off,83,1,KAN,119,1,0
+ludb_test,QRS_off,84,1,KAN,96,0,0
+ludb_test,QRS_off,90,1,KAN,96,0,0
+ludb_test,QRS_off,99,1,KAN,144,0,0
+ludb_test,QRS_off,101,1,KAN,132,0,0
+ludb_test,QRS_off,103,1,KAN,157,11,0
+ludb_test,QRS_off,108,1,KAN,132,0,0
+ludb_test,QRS_off,116,1,KAN,156,0,0
+ludb_test,QRS_off,121,1,KAN,179,1,1
+ludb_test,QRS_off,123,1,KAN,108,0,0
+ludb_test,QRS_off,124,1,KAN,84,0,0
+ludb_test,QRS_off,135,1,KAN,108,0,0
+ludb_test,QRS_off,149,1,KAN,108,0,0
+ludb_test,QRS_off,150,1,KAN,96,0,0
+ludb_test,QRS_off,167,1,KAN,108,0,0
+ludb_test,QRS_off,170,1,KAN,84,0,0
+ludb_test,QRS_off,179,1,KAN,96,0,0
+ludb_test,QRS_off,184,1,KAN,108,0,0
+ludb_test,QRS_off,186,1,KAN,132,0,0
+ludb_test,QRS_off,191,1,KAN,96,0,0
+ludb_test,QRS_off,194,1,KAN,96,0,0
+ludb_test,QRS_off,195,1,KAN,108,0,0
+ludb_test,QRS_off,196,1,KAN,120,0,0
+ludb_test,QRS_off,200,1,KAN,108,0,0
+ludb_test,QRS_on,14,1,KAN,144,0,0
+ludb_test,QRS_on,15,1,KAN,94,1,2
+ludb_test,QRS_on,21,1,KAN,120,0,0
+ludb_test,QRS_on,22,1,KAN,132,0,0
+ludb_test,QRS_on,26,1,KAN,96,0,0
+ludb_test,QRS_on,35,1,KAN,233,7,0
+ludb_test,QRS_on,39,1,KAN,84,0,0
+ludb_test,QRS_on,45,1,KAN,96,0,7
+ludb_test,QRS_on,48,1,KAN,84,0,0
+ludb_test,QRS_on,63,1,KAN,120,0,0
+ludb_test,QRS_on,68,1,KAN,108,0,0
+ludb_test,QRS_on,73,1,KAN,96,0,0
+ludb_test,QRS_on,75,1,KAN,108,0,0
+ludb_test,QRS_on,76,1,KAN,132,0,0
+ludb_test,QRS_on,79,1,KAN,96,0,0
+ludb_test,QRS_on,81,1,KAN,132,0,0
+ludb_test,QRS_on,82,1,KAN,84,0,0
+ludb_test,QRS_on,83,1,KAN,119,1,0
+ludb_test,QRS_on,84,1,KAN,96,0,0
+ludb_test,QRS_on,90,1,KAN,96,0,0
+ludb_test,QRS_on,99,1,KAN,144,0,0
+ludb_test,QRS_on,101,1,KAN,132,0,0
+ludb_test,QRS_on,103,1,KAN,157,11,0
+ludb_test,QRS_on,108,1,KAN,132,0,0
+ludb_test,QRS_on,116,1,KAN,156,0,0
+ludb_test,QRS_on,121,1,KAN,179,1,1
+ludb_test,QRS_on,123,1,KAN,108,0,0
+ludb_test,QRS_on,124,1,KAN,84,0,0
+ludb_test,QRS_on,135,1,KAN,108,0,0
+ludb_test,QRS_on,149,1,KAN,108,0,0
+ludb_test,QRS_on,150,1,KAN,96,0,0
+ludb_test,QRS_on,167,1,KAN,108,0,0
+ludb_test,QRS_on,170,1,KAN,84,0,0
+ludb_test,QRS_on,179,1,KAN,96,0,0
+ludb_test,QRS_on,184,1,KAN,108,0,0
+ludb_test,QRS_on,186,1,KAN,132,0,0
+ludb_test,QRS_on,191,1,KAN,96,0,0
+ludb_test,QRS_on,194,1,KAN,96,0,0
+ludb_test,QRS_on,195,1,KAN,108,0,0
+ludb_test,QRS_on,196,1,KAN,120,0,0
+ludb_test,QRS_on,200,1,KAN,108,0,0
+ludb_test,T_off,14,1,KAN,132,0,0
+ludb_test,T_off,15,1,KAN,78,4,4
+ludb_test,T_off,21,1,KAN,108,0,0
+ludb_test,T_off,22,1,KAN,120,0,0
+ludb_test,T_off,26,1,KAN,84,0,0
+ludb_test,T_off,35,1,KAN,188,40,1
+ludb_test,T_off,39,1,KAN,72,0,0
+ludb_test,T_off,45,1,KAN,84,0,0
+ludb_test,T_off,48,1,KAN,72,0,0
+ludb_test,T_off,63,1,KAN,108,0,0
+ludb_test,T_off,68,1,KAN,96,0,0
+ludb_test,T_off,73,1,KAN,84,0,0
+ludb_test,T_off,75,1,KAN,96,0,0
+ludb_test,T_off,76,1,KAN,120,0,0
+ludb_test,T_off,79,1,KAN,84,0,0
+ludb_test,T_off,81,1,KAN,120,0,0
+ludb_test,T_off,82,1,KAN,72,0,0
+ludb_test,T_off,83,1,KAN,107,1,0
+ludb_test,T_off,84,1,KAN,84,0,0
+ludb_test,T_off,90,1,KAN,84,0,0
+ludb_test,T_off,99,1,KAN,132,0,0
+ludb_test,T_off,101,1,KAN,107,13,1
+ludb_test,T_off,103,1,KAN,137,17,2
+ludb_test,T_off,108,1,KAN,119,1,1
+ludb_test,T_off,116,1,KAN,140,15,2
+ludb_test,T_off,121,1,KAN,161,6,1
+ludb_test,T_off,123,1,KAN,96,0,0
+ludb_test,T_off,124,1,KAN,72,0,1
+ludb_test,T_off,135,1,KAN,96,0,0
+ludb_test,T_off,149,1,KAN,96,0,0
+ludb_test,T_off,150,1,KAN,84,0,0
+ludb_test,T_off,167,1,KAN,96,0,0
+ludb_test,T_off,170,1,KAN,72,0,0
+ludb_test,T_off,179,1,KAN,84,0,0
+ludb_test,T_off,184,1,KAN,96,0,0
+ludb_test,T_off,186,1,KAN,118,2,0
+ludb_test,T_off,191,1,KAN,84,0,0
+ludb_test,T_off,194,1,KAN,84,0,0
+ludb_test,T_off,195,1,KAN,96,0,0
+ludb_test,T_off,196,1,KAN,108,0,0
+ludb_test,T_off,200,1,KAN,96,0,0
+ludb_test,T_on,14,1,KAN,132,0,0
+ludb_test,T_on,15,1,KAN,79,3,3
+ludb_test,T_on,21,1,KAN,108,0,0
+ludb_test,T_on,22,1,KAN,120,0,0
+ludb_test,T_on,26,1,KAN,84,0,0
+ludb_test,T_on,35,1,KAN,188,40,1
+ludb_test,T_on,39,1,KAN,72,0,0
+ludb_test,T_on,45,1,KAN,84,0,0
+ludb_test,T_on,48,1,KAN,72,0,0
+ludb_test,T_on,63,1,KAN,108,0,0
+ludb_test,T_on,68,1,KAN,96,0,0
+ludb_test,T_on,73,1,KAN,84,0,0
+ludb_test,T_on,75,1,KAN,96,0,0
+ludb_test,T_on,76,1,KAN,120,0,0
+ludb_test,T_on,79,1,KAN,84,0,0
+ludb_test,T_on,81,1,KAN,120,0,0
+ludb_test,T_on,82,1,KAN,72,0,0
+ludb_test,T_on,83,1,KAN,107,1,0
+ludb_test,T_on,84,1,KAN,84,0,0
+ludb_test,T_on,90,1,KAN,84,0,0
+ludb_test,T_on,99,1,KAN,132,0,0
+ludb_test,T_on,101,1,KAN,108,12,0
+ludb_test,T_on,103,1,KAN,136,18,3
+ludb_test,T_on,108,1,KAN,120,0,0
+ludb_test,T_on,116,1,KAN,141,15,1
+ludb_test,T_on,121,1,KAN,161,6,1
+ludb_test,T_on,123,1,KAN,96,0,0
+ludb_test,T_on,124,1,KAN,72,0,1
+ludb_test,T_on,135,1,KAN,96,0,0
+ludb_test,T_on,149,1,KAN,96,0,0
+ludb_test,T_on,150,1,KAN,84,0,0
+ludb_test,T_on,167,1,KAN,96,0,0
+ludb_test,T_on,170,1,KAN,72,0,0
+ludb_test,T_on,179,1,KAN,84,0,0
+ludb_test,T_on,184,1,KAN,96,0,0
+ludb_test,T_on,186,1,KAN,118,2,0
+ludb_test,T_on,191,1,KAN,84,0,0
+ludb_test,T_on,194,1,KAN,84,0,0
+ludb_test,T_on,195,1,KAN,96,0,0
+ludb_test,T_on,196,1,KAN,108,0,0
+ludb_test,T_on,200,1,KAN,96,0,0
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:100,1,KAN,4504,10,12
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:101,1,KAN,1883,1847,0
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:103,1,KAN,3835,333,7
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:106,1,KAN,2782,232,16
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:117,1,KAN,3068,0,0
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:119,1,KAN,3074,166,7
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:122,1,KAN,4944,6,2
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:207,1,KAN,93,2737,26
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:214,1,KAN,1892,2110,13
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:222,1,KAN,2393,121,165
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:223,1,KAN,3210,988,9
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:231,1,KAN,3059,929,2
+qtdb_each_lead,P_on,sel100,1,KAN,60,0,0
+qtdb_each_lead,P_on,sel102,1,KAN,0,0,0
+qtdb_each_lead,P_on,sel103,1,KAN,60,0,0
+qtdb_each_lead,P_on,sel104,1,KAN,18,16,5
+qtdb_each_lead,P_on,sel114,1,KAN,99,1,0
+qtdb_each_lead,P_on,sel116,1,KAN,91,9,6
+qtdb_each_lead,P_on,sel117,1,KAN,60,0,0
+qtdb_each_lead,P_on,sel123,1,KAN,60,0,0
+qtdb_each_lead,P_on,sel14046,1,KAN,61,1,0
+qtdb_each_lead,P_on,sel14157,1,KAN,9,47,1
+qtdb_each_lead,P_on,sel14172,1,KAN,100,0,0
+qtdb_each_lead,P_on,sel15814,1,KAN,0,60,0
+qtdb_each_lead,P_on,sel16265,1,KAN,60,0,0
+qtdb_each_lead,P_on,sel16272,1,KAN,60,0,0
+qtdb_each_lead,P_on,sel16273,1,KAN,60,0,0
+qtdb_each_lead,P_on,sel16420,1,KAN,60,0,0
+qtdb_each_lead,P_on,sel16483,1,KAN,60,0,0
+qtdb_each_lead,P_on,sel16539,1,KAN,60,0,0
+qtdb_each_lead,P_on,sel16773,1,KAN,60,0,0
+qtdb_each_lead,P_on,sel16786,1,KAN,60,0,0
+qtdb_each_lead,P_on,sel16795,1,KAN,60,0,0
+qtdb_each_lead,P_on,sel17152,1,KAN,24,36,1
+qtdb_each_lead,P_on,sel17453,1,KAN,60,0,0
+qtdb_each_lead,P_on,sel213,1,KAN,5,137,2
+qtdb_each_lead,P_on,sel221,1,KAN,0,0,8
+qtdb_each_lead,P_on,sel223,1,KAN,54,8,1
+qtdb_each_lead,P_on,sel230,1,KAN,99,1,2
+qtdb_each_lead,P_on,sel231,1,KAN,100,0,0
+qtdb_each_lead,P_on,sel232,1,KAN,0,0,0
+qtdb_each_lead,P_on,sel233,1,KAN,42,18,15
+qtdb_each_lead,P_on,sel30,1,KAN,60,0,0
+qtdb_each_lead,P_on,sel301,1,KAN,60,0,0
+qtdb_each_lead,P_on,sel302,1,KAN,57,3,4
+qtdb_each_lead,P_on,sel306,1,KAN,72,0,2
+qtdb_each_lead,P_on,sel307,1,KAN,60,0,0
+qtdb_each_lead,P_on,sel308,1,KAN,44,56,0
+qtdb_each_lead,P_on,sel31,1,KAN,30,30,1
+qtdb_each_lead,P_on,sel310,1,KAN,0,0,0
+qtdb_each_lead,P_on,sel32,1,KAN,60,0,2
+qtdb_each_lead,P_on,sel33,1,KAN,60,0,0
+qtdb_each_lead,P_on,sel34,1,KAN,45,15,0
+qtdb_each_lead,P_on,sel35,1,KAN,0,0,2
+qtdb_each_lead,P_on,sel36,1,KAN,0,2,1
+qtdb_each_lead,P_on,sel37,1,KAN,0,0,29
+qtdb_each_lead,P_on,sel38,1,KAN,0,60,0
+qtdb_each_lead,P_on,sel39,1,KAN,60,0,0
+qtdb_each_lead,P_on,sel40,1,KAN,0,60,0
+qtdb_each_lead,P_on,sel41,1,KAN,0,60,0
+qtdb_each_lead,P_on,sel42,1,KAN,0,60,0
+qtdb_each_lead,P_on,sel43,1,KAN,1,59,0
+qtdb_each_lead,P_on,sel44,1,KAN,31,13,4
+qtdb_each_lead,P_on,sel45,1,KAN,43,17,0
+qtdb_each_lead,P_on,sel46,1,KAN,2,56,1
+qtdb_each_lead,P_on,sel47,1,KAN,60,0,0
+qtdb_each_lead,P_on,sel48,1,KAN,17,43,1
+qtdb_each_lead,P_on,sel49,1,KAN,60,0,0
+qtdb_each_lead,P_on,sel50,1,KAN,0,0,35
+qtdb_each_lead,P_on,sel51,1,KAN,60,0,0
+qtdb_each_lead,P_on,sel52,1,KAN,3,57,0
+qtdb_each_lead,P_on,sel803,1,KAN,60,0,0
+qtdb_each_lead,P_on,sel808,1,KAN,60,0,0
+qtdb_each_lead,P_on,sel811,1,KAN,60,0,0
+qtdb_each_lead,P_on,sel820,1,KAN,60,0,5
+qtdb_each_lead,P_on,sel821,1,KAN,13,39,1
+qtdb_each_lead,P_on,sel840,1,KAN,94,0,46
+qtdb_each_lead,P_on,sel847,1,KAN,66,0,0
+qtdb_each_lead,P_on,sel853,1,KAN,58,2,0
+qtdb_each_lead,P_on,sel871,1,KAN,140,0,6
+qtdb_each_lead,P_on,sel872,1,KAN,60,0,0
+qtdb_each_lead,P_on,sel873,1,KAN,65,1,0
+qtdb_each_lead,P_on,sel883,1,KAN,60,0,0
+qtdb_each_lead,P_on,sel891,1,KAN,0,116,0
+qtdb_each_lead,P_on,sele0104,1,KAN,60,0,0
+qtdb_each_lead,P_on,sele0106,1,KAN,60,0,0
+qtdb_each_lead,P_on,sele0107,1,KAN,68,0,0
+qtdb_each_lead,P_on,sele0110,1,KAN,60,0,0
+qtdb_each_lead,P_on,sele0111,1,KAN,60,0,0
+qtdb_each_lead,P_on,sele0112,1,KAN,98,2,0
+qtdb_each_lead,P_on,sele0114,1,KAN,59,1,0
+qtdb_each_lead,P_on,sele0116,1,KAN,0,60,1
+qtdb_each_lead,P_on,sele0121,1,KAN,60,0,2
+qtdb_each_lead,P_on,sele0122,1,KAN,60,0,2
+qtdb_each_lead,P_on,sele0124,1,KAN,100,0,2
+qtdb_each_lead,P_on,sele0126,1,KAN,60,0,0
+qtdb_each_lead,P_on,sele0129,1,KAN,60,0,0
+qtdb_each_lead,P_on,sele0133,1,KAN,60,0,0
+qtdb_each_lead,P_on,sele0136,1,KAN,60,0,0
+qtdb_each_lead,P_on,sele0166,1,KAN,72,0,0
+qtdb_each_lead,P_on,sele0170,1,KAN,60,0,0
+qtdb_each_lead,P_on,sele0203,1,KAN,42,18,1
+qtdb_each_lead,P_on,sele0210,1,KAN,60,0,0
+qtdb_each_lead,P_on,sele0211,1,KAN,49,11,2
+qtdb_each_lead,P_on,sele0303,1,KAN,60,0,0
+qtdb_each_lead,P_on,sele0405,1,KAN,60,0,2
+qtdb_each_lead,P_on,sele0406,1,KAN,61,1,0
+qtdb_each_lead,P_on,sele0409,1,KAN,0,60,0
+qtdb_each_lead,P_on,sele0411,1,KAN,60,0,0
+qtdb_each_lead,P_on,sele0509,1,KAN,60,0,0
+qtdb_each_lead,P_on,sele0603,1,KAN,60,0,0
+qtdb_each_lead,P_on,sele0604,1,KAN,60,0,1
+qtdb_each_lead,P_on,sele0606,1,KAN,60,0,2
+qtdb_each_lead,P_on,sele0607,1,KAN,59,1,2
+qtdb_each_lead,P_on,sele0609,1,KAN,60,0,0
+qtdb_each_lead,P_on,sele0612,1,KAN,60,0,0
+qtdb_each_lead,P_on,sele0704,1,KAN,38,22,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:107,2,GELU,0,112,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:108,2,GELU,201,29,2
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:118,2,GELU,498,60,1
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:124,2,GELU,289,21,4
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:201,2,GELU,105,3,4
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:203,2,GELU,0,0,1
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:208,2,GELU,98,268,2
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:209,2,GELU,249,113,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:230,2,GELU,247,11,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:233,2,GELU,243,45,1
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:234,2,GELU,277,7,2
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:112,2,GELU,240,102,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:114,2,GELU,265,3,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:104,2,GELU,34,46,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:105,2,GELU,227,93,3
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:109,2,GELU,1,319,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:111,2,GELU,207,71,1
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:113,2,GELU,242,0,1
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:115,2,GELU,255,3,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:116,2,GELU,228,88,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:121,2,GELU,230,2,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:123,2,GELU,196,2,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:205,2,GELU,592,32,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:212,2,GELU,214,130,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:213,2,GELU,192,222,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:219,2,GELU,132,0,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Supraventricular Arrhythmia Database:801,2,GELU,68,172,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Supraventricular Arrhythmia Database:802,2,GELU,146,0,3
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Supraventricular Arrhythmia Database:886,2,GELU,23,235,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Supraventricular Arrhythmia Database:851,2,GELU,220,6,1
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Supraventricular Arrhythmia Database:811,2,GELU,210,0,4
+butpdb_nooverlap_each_lead,P_peak,Long Term AF Database:101,2,GELU,154,0,0
+butpdb_nooverlap_each_lead,P_peak,Long Term AF Database:120,2,GELU,174,96,2
+butpdb_nooverlap_each_lead,P_peak,Long Term AF Database:55,2,GELU,95,23,1
+butpdb_nooverlap_each_lead,P_peak,Long Term AF Database:56,2,GELU,54,20,0
+butpdb_nooverlap_each_lead,P_peak,Long Term AF Database:62,2,GELU,0,0,14
+butpdb_nooverlap_each_lead,P_peak,Long Term AF Database:102,2,GELU,174,2,10
+butpdb_nooverlap_each_lead,P_peak,Long Term AF Database:117,2,GELU,12,0,0
+ludb_test,P_off,14,2,GELU,132,0,0
+ludb_test,P_off,15,2,GELU,78,3,3
+ludb_test,P_off,21,2,GELU,108,0,0
+ludb_test,P_off,22,2,GELU,118,2,2
+ludb_test,P_off,26,2,GELU,84,0,0
+ludb_test,P_off,35,2,GELU,0,0,0
+ludb_test,P_off,39,2,GELU,72,0,0
+ludb_test,P_off,45,2,GELU,0,0,4
+ludb_test,P_off,48,2,GELU,71,1,0
+ludb_test,P_off,63,2,GELU,108,0,0
+ludb_test,P_off,68,2,GELU,96,0,0
+ludb_test,P_off,73,2,GELU,84,0,0
+ludb_test,P_off,75,2,GELU,96,0,0
+ludb_test,P_off,76,2,GELU,118,2,0
+ludb_test,P_off,79,2,GELU,82,2,0
+ludb_test,P_off,81,2,GELU,120,0,0
+ludb_test,P_off,82,2,GELU,72,0,0
+ludb_test,P_off,83,2,GELU,0,0,1
+ludb_test,P_off,84,2,GELU,84,0,0
+ludb_test,P_off,90,2,GELU,0,0,2
+ludb_test,P_off,99,2,GELU,131,1,0
+ludb_test,P_off,101,2,GELU,0,0,73
+ludb_test,P_off,103,2,GELU,0,0,43
+ludb_test,P_off,108,2,GELU,81,20,0
+ludb_test,P_off,116,2,GELU,12,144,0
+ludb_test,P_off,121,2,GELU,92,76,0
+ludb_test,P_off,123,2,GELU,95,1,0
+ludb_test,P_off,124,2,GELU,72,0,0
+ludb_test,P_off,135,2,GELU,96,0,0
+ludb_test,P_off,149,2,GELU,96,0,0
+ludb_test,P_off,150,2,GELU,84,0,0
+ludb_test,P_off,167,2,GELU,95,0,1
+ludb_test,P_off,170,2,GELU,72,0,0
+ludb_test,P_off,179,2,GELU,84,0,0
+ludb_test,P_off,184,2,GELU,96,0,0
+ludb_test,P_off,186,2,GELU,114,6,0
+ludb_test,P_off,191,2,GELU,84,0,0
+ludb_test,P_off,194,2,GELU,84,0,0
+ludb_test,P_off,195,2,GELU,96,0,0
+ludb_test,P_off,196,2,GELU,108,0,0
+ludb_test,P_off,200,2,GELU,96,0,0
+ludb_test,P_on,14,2,GELU,132,0,0
+ludb_test,P_on,15,2,GELU,78,3,3
+ludb_test,P_on,21,2,GELU,108,0,0
+ludb_test,P_on,22,2,GELU,118,2,0
+ludb_test,P_on,26,2,GELU,84,0,0
+ludb_test,P_on,35,2,GELU,0,0,0
+ludb_test,P_on,39,2,GELU,72,0,0
+ludb_test,P_on,45,2,GELU,0,0,4
+ludb_test,P_on,48,2,GELU,71,1,0
+ludb_test,P_on,63,2,GELU,108,0,0
+ludb_test,P_on,68,2,GELU,96,0,0
+ludb_test,P_on,73,2,GELU,84,0,0
+ludb_test,P_on,75,2,GELU,96,0,0
+ludb_test,P_on,76,2,GELU,118,2,0
+ludb_test,P_on,79,2,GELU,82,2,0
+ludb_test,P_on,81,2,GELU,120,0,0
+ludb_test,P_on,82,2,GELU,72,0,0
+ludb_test,P_on,83,2,GELU,0,0,1
+ludb_test,P_on,84,2,GELU,84,0,0
+ludb_test,P_on,90,2,GELU,0,0,2
+ludb_test,P_on,99,2,GELU,131,1,0
+ludb_test,P_on,101,2,GELU,0,0,73
+ludb_test,P_on,103,2,GELU,0,0,43
+ludb_test,P_on,108,2,GELU,81,20,0
+ludb_test,P_on,116,2,GELU,12,144,0
+ludb_test,P_on,121,2,GELU,92,76,0
+ludb_test,P_on,123,2,GELU,95,1,0
+ludb_test,P_on,124,2,GELU,72,0,0
+ludb_test,P_on,135,2,GELU,96,0,0
+ludb_test,P_on,149,2,GELU,96,0,0
+ludb_test,P_on,150,2,GELU,84,0,0
+ludb_test,P_on,167,2,GELU,95,0,1
+ludb_test,P_on,170,2,GELU,72,0,0
+ludb_test,P_on,179,2,GELU,84,0,0
+ludb_test,P_on,184,2,GELU,96,0,0
+ludb_test,P_on,186,2,GELU,114,6,0
+ludb_test,P_on,191,2,GELU,84,0,0
+ludb_test,P_on,194,2,GELU,84,0,0
+ludb_test,P_on,195,2,GELU,96,0,0
+ludb_test,P_on,196,2,GELU,108,0,0
+ludb_test,P_on,200,2,GELU,96,0,0
+ludb_test,QRS_off,14,2,GELU,144,0,0
+ludb_test,QRS_off,15,2,GELU,94,1,2
+ludb_test,QRS_off,21,2,GELU,120,0,0
+ludb_test,QRS_off,22,2,GELU,132,0,0
+ludb_test,QRS_off,26,2,GELU,96,0,0
+ludb_test,QRS_off,35,2,GELU,240,0,0
+ludb_test,QRS_off,39,2,GELU,84,0,0
+ludb_test,QRS_off,45,2,GELU,95,1,3
+ludb_test,QRS_off,48,2,GELU,84,0,0
+ludb_test,QRS_off,63,2,GELU,120,0,0
+ludb_test,QRS_off,68,2,GELU,108,0,0
+ludb_test,QRS_off,73,2,GELU,96,0,0
+ludb_test,QRS_off,75,2,GELU,108,0,0
+ludb_test,QRS_off,76,2,GELU,132,0,0
+ludb_test,QRS_off,79,2,GELU,96,0,0
+ludb_test,QRS_off,81,2,GELU,132,0,0
+ludb_test,QRS_off,82,2,GELU,84,0,0
+ludb_test,QRS_off,83,2,GELU,119,1,0
+ludb_test,QRS_off,84,2,GELU,96,0,0
+ludb_test,QRS_off,90,2,GELU,96,0,0
+ludb_test,QRS_off,99,2,GELU,144,0,0
+ludb_test,QRS_off,101,2,GELU,132,0,0
+ludb_test,QRS_off,103,2,GELU,157,11,0
+ludb_test,QRS_off,108,2,GELU,132,0,0
+ludb_test,QRS_off,116,2,GELU,156,0,0
+ludb_test,QRS_off,121,2,GELU,180,0,0
+ludb_test,QRS_off,123,2,GELU,108,0,0
+ludb_test,QRS_off,124,2,GELU,84,0,0
+ludb_test,QRS_off,135,2,GELU,108,0,0
+ludb_test,QRS_off,149,2,GELU,108,0,0
+ludb_test,QRS_off,150,2,GELU,96,0,0
+ludb_test,QRS_off,167,2,GELU,108,0,0
+ludb_test,QRS_off,170,2,GELU,84,0,0
+ludb_test,QRS_off,179,2,GELU,96,0,0
+ludb_test,QRS_off,184,2,GELU,108,0,0
+ludb_test,QRS_off,186,2,GELU,132,0,0
+ludb_test,QRS_off,191,2,GELU,96,0,0
+ludb_test,QRS_off,194,2,GELU,96,0,0
+ludb_test,QRS_off,195,2,GELU,108,0,0
+ludb_test,QRS_off,196,2,GELU,120,0,0
+ludb_test,QRS_off,200,2,GELU,108,0,0
+ludb_test,QRS_on,14,2,GELU,144,0,0
+ludb_test,QRS_on,15,2,GELU,94,1,2
+ludb_test,QRS_on,21,2,GELU,120,0,0
+ludb_test,QRS_on,22,2,GELU,132,0,0
+ludb_test,QRS_on,26,2,GELU,96,0,0
+ludb_test,QRS_on,35,2,GELU,240,0,0
+ludb_test,QRS_on,39,2,GELU,84,0,0
+ludb_test,QRS_on,45,2,GELU,95,1,3
+ludb_test,QRS_on,48,2,GELU,84,0,0
+ludb_test,QRS_on,63,2,GELU,120,0,0
+ludb_test,QRS_on,68,2,GELU,108,0,0
+ludb_test,QRS_on,73,2,GELU,96,0,0
+ludb_test,QRS_on,75,2,GELU,108,0,0
+ludb_test,QRS_on,76,2,GELU,132,0,0
+ludb_test,QRS_on,79,2,GELU,96,0,0
+ludb_test,QRS_on,81,2,GELU,132,0,0
+ludb_test,QRS_on,82,2,GELU,84,0,0
+ludb_test,QRS_on,83,2,GELU,119,1,0
+ludb_test,QRS_on,84,2,GELU,96,0,0
+ludb_test,QRS_on,90,2,GELU,96,0,0
+ludb_test,QRS_on,99,2,GELU,144,0,0
+ludb_test,QRS_on,101,2,GELU,132,0,0
+ludb_test,QRS_on,103,2,GELU,157,11,0
+ludb_test,QRS_on,108,2,GELU,132,0,0
+ludb_test,QRS_on,116,2,GELU,156,0,0
+ludb_test,QRS_on,121,2,GELU,180,0,0
+ludb_test,QRS_on,123,2,GELU,108,0,0
+ludb_test,QRS_on,124,2,GELU,84,0,0
+ludb_test,QRS_on,135,2,GELU,108,0,0
+ludb_test,QRS_on,149,2,GELU,108,0,0
+ludb_test,QRS_on,150,2,GELU,96,0,0
+ludb_test,QRS_on,167,2,GELU,108,0,0
+ludb_test,QRS_on,170,2,GELU,84,0,0
+ludb_test,QRS_on,179,2,GELU,96,0,0
+ludb_test,QRS_on,184,2,GELU,108,0,0
+ludb_test,QRS_on,186,2,GELU,132,0,0
+ludb_test,QRS_on,191,2,GELU,96,0,0
+ludb_test,QRS_on,194,2,GELU,96,0,0
+ludb_test,QRS_on,195,2,GELU,108,0,0
+ludb_test,QRS_on,196,2,GELU,120,0,0
+ludb_test,QRS_on,200,2,GELU,108,0,0
+ludb_test,T_off,14,2,GELU,132,0,0
+ludb_test,T_off,15,2,GELU,75,7,9
+ludb_test,T_off,21,2,GELU,108,0,0
+ludb_test,T_off,22,2,GELU,120,0,0
+ludb_test,T_off,26,2,GELU,84,0,0
+ludb_test,T_off,35,2,GELU,199,29,1
+ludb_test,T_off,39,2,GELU,72,0,0
+ludb_test,T_off,45,2,GELU,83,1,1
+ludb_test,T_off,48,2,GELU,72,0,0
+ludb_test,T_off,63,2,GELU,108,0,0
+ludb_test,T_off,68,2,GELU,96,0,0
+ludb_test,T_off,73,2,GELU,84,0,0
+ludb_test,T_off,75,2,GELU,96,0,0
+ludb_test,T_off,76,2,GELU,120,0,0
+ludb_test,T_off,79,2,GELU,84,0,0
+ludb_test,T_off,81,2,GELU,120,0,0
+ludb_test,T_off,82,2,GELU,72,0,0
+ludb_test,T_off,83,2,GELU,108,0,0
+ludb_test,T_off,84,2,GELU,84,0,0
+ludb_test,T_off,90,2,GELU,84,0,0
+ludb_test,T_off,99,2,GELU,132,0,0
+ludb_test,T_off,101,2,GELU,113,7,4
+ludb_test,T_off,103,2,GELU,131,23,2
+ludb_test,T_off,108,2,GELU,120,0,0
+ludb_test,T_off,116,2,GELU,148,7,1
+ludb_test,T_off,121,2,GELU,163,4,1
+ludb_test,T_off,123,2,GELU,96,0,0
+ludb_test,T_off,124,2,GELU,72,0,0
+ludb_test,T_off,135,2,GELU,96,0,0
+ludb_test,T_off,149,2,GELU,96,0,0
+ludb_test,T_off,150,2,GELU,84,0,0
+ludb_test,T_off,167,2,GELU,96,0,0
+ludb_test,T_off,170,2,GELU,72,0,0
+ludb_test,T_off,179,2,GELU,84,0,0
+ludb_test,T_off,184,2,GELU,96,0,0
+ludb_test,T_off,186,2,GELU,120,0,0
+ludb_test,T_off,191,2,GELU,84,0,0
+ludb_test,T_off,194,2,GELU,84,0,0
+ludb_test,T_off,195,2,GELU,96,0,0
+ludb_test,T_off,196,2,GELU,108,0,0
+ludb_test,T_off,200,2,GELU,96,0,0
+ludb_test,T_on,14,2,GELU,132,0,0
+ludb_test,T_on,15,2,GELU,76,6,8
+ludb_test,T_on,21,2,GELU,108,0,0
+ludb_test,T_on,22,2,GELU,120,0,0
+ludb_test,T_on,26,2,GELU,84,0,0
+ludb_test,T_on,35,2,GELU,199,29,1
+ludb_test,T_on,39,2,GELU,72,0,0
+ludb_test,T_on,45,2,GELU,83,1,1
+ludb_test,T_on,48,2,GELU,72,0,0
+ludb_test,T_on,63,2,GELU,108,0,0
+ludb_test,T_on,68,2,GELU,96,0,0
+ludb_test,T_on,73,2,GELU,84,0,0
+ludb_test,T_on,75,2,GELU,96,0,0
+ludb_test,T_on,76,2,GELU,120,0,0
+ludb_test,T_on,79,2,GELU,84,0,0
+ludb_test,T_on,81,2,GELU,120,0,0
+ludb_test,T_on,82,2,GELU,72,0,0
+ludb_test,T_on,83,2,GELU,108,0,0
+ludb_test,T_on,84,2,GELU,84,0,0
+ludb_test,T_on,90,2,GELU,84,0,0
+ludb_test,T_on,99,2,GELU,132,0,0
+ludb_test,T_on,101,2,GELU,116,4,1
+ludb_test,T_on,103,2,GELU,131,23,2
+ludb_test,T_on,108,2,GELU,120,0,0
+ludb_test,T_on,116,2,GELU,149,7,0
+ludb_test,T_on,121,2,GELU,163,4,1
+ludb_test,T_on,123,2,GELU,96,0,0
+ludb_test,T_on,124,2,GELU,72,0,0
+ludb_test,T_on,135,2,GELU,96,0,0
+ludb_test,T_on,149,2,GELU,96,0,0
+ludb_test,T_on,150,2,GELU,84,0,0
+ludb_test,T_on,167,2,GELU,96,0,0
+ludb_test,T_on,170,2,GELU,72,0,0
+ludb_test,T_on,179,2,GELU,84,0,0
+ludb_test,T_on,184,2,GELU,96,0,0
+ludb_test,T_on,186,2,GELU,120,0,0
+ludb_test,T_on,191,2,GELU,84,0,0
+ludb_test,T_on,194,2,GELU,84,0,0
+ludb_test,T_on,195,2,GELU,96,0,0
+ludb_test,T_on,196,2,GELU,108,0,0
+ludb_test,T_on,200,2,GELU,96,0,0
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:100,2,GELU,4503,11,15
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:101,2,GELU,1886,1844,0
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:103,2,GELU,3854,314,10
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:106,2,GELU,2777,237,16
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:117,2,GELU,3068,0,0
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:119,2,GELU,3076,164,7
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:122,2,GELU,4945,5,2
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:207,2,GELU,119,2711,89
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:214,2,GELU,2334,1668,6
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:222,2,GELU,2410,104,183
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:223,2,GELU,3651,547,10
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:231,2,GELU,3109,879,2
+qtdb_each_lead,P_on,sel100,2,GELU,60,0,0
+qtdb_each_lead,P_on,sel102,2,GELU,0,0,0
+qtdb_each_lead,P_on,sel103,2,GELU,60,0,0
+qtdb_each_lead,P_on,sel104,2,GELU,20,14,5
+qtdb_each_lead,P_on,sel114,2,GELU,98,2,0
+qtdb_each_lead,P_on,sel116,2,GELU,93,7,7
+qtdb_each_lead,P_on,sel117,2,GELU,60,0,0
+qtdb_each_lead,P_on,sel123,2,GELU,60,0,0
+qtdb_each_lead,P_on,sel14046,2,GELU,60,2,0
+qtdb_each_lead,P_on,sel14157,2,GELU,13,43,1
+qtdb_each_lead,P_on,sel14172,2,GELU,100,0,0
+qtdb_each_lead,P_on,sel15814,2,GELU,59,1,0
+qtdb_each_lead,P_on,sel16265,2,GELU,60,0,0
+qtdb_each_lead,P_on,sel16272,2,GELU,60,0,0
+qtdb_each_lead,P_on,sel16273,2,GELU,60,0,0
+qtdb_each_lead,P_on,sel16420,2,GELU,60,0,0
+qtdb_each_lead,P_on,sel16483,2,GELU,60,0,0
+qtdb_each_lead,P_on,sel16539,2,GELU,60,0,0
+qtdb_each_lead,P_on,sel16773,2,GELU,60,0,0
+qtdb_each_lead,P_on,sel16786,2,GELU,60,0,0
+qtdb_each_lead,P_on,sel16795,2,GELU,60,0,0
+qtdb_each_lead,P_on,sel17152,2,GELU,29,31,1
+qtdb_each_lead,P_on,sel17453,2,GELU,60,0,0
+qtdb_each_lead,P_on,sel213,2,GELU,7,135,4
+qtdb_each_lead,P_on,sel221,2,GELU,0,0,4
+qtdb_each_lead,P_on,sel223,2,GELU,60,2,2
+qtdb_each_lead,P_on,sel230,2,GELU,99,1,2
+qtdb_each_lead,P_on,sel231,2,GELU,100,0,0
+qtdb_each_lead,P_on,sel232,2,GELU,0,0,0
+qtdb_each_lead,P_on,sel233,2,GELU,58,2,16
+qtdb_each_lead,P_on,sel30,2,GELU,60,0,0
+qtdb_each_lead,P_on,sel301,2,GELU,60,0,0
+qtdb_each_lead,P_on,sel302,2,GELU,58,2,4
+qtdb_each_lead,P_on,sel306,2,GELU,72,0,2
+qtdb_each_lead,P_on,sel307,2,GELU,60,0,0
+qtdb_each_lead,P_on,sel308,2,GELU,3,97,0
+qtdb_each_lead,P_on,sel31,2,GELU,29,31,1
+qtdb_each_lead,P_on,sel310,2,GELU,0,0,0
+qtdb_each_lead,P_on,sel32,2,GELU,60,0,2
+qtdb_each_lead,P_on,sel33,2,GELU,60,0,0
+qtdb_each_lead,P_on,sel34,2,GELU,47,13,0
+qtdb_each_lead,P_on,sel35,2,GELU,0,0,6
+qtdb_each_lead,P_on,sel36,2,GELU,0,2,2
+qtdb_each_lead,P_on,sel37,2,GELU,0,0,32
+qtdb_each_lead,P_on,sel38,2,GELU,0,60,0
+qtdb_each_lead,P_on,sel39,2,GELU,60,0,0
+qtdb_each_lead,P_on,sel40,2,GELU,0,60,0
+qtdb_each_lead,P_on,sel41,2,GELU,2,58,0
+qtdb_each_lead,P_on,sel42,2,GELU,2,58,1
+qtdb_each_lead,P_on,sel43,2,GELU,5,55,0
+qtdb_each_lead,P_on,sel44,2,GELU,33,11,4
+qtdb_each_lead,P_on,sel45,2,GELU,59,1,0
+qtdb_each_lead,P_on,sel46,2,GELU,3,55,0
+qtdb_each_lead,P_on,sel47,2,GELU,60,0,0
+qtdb_each_lead,P_on,sel48,2,GELU,33,27,2
+qtdb_each_lead,P_on,sel49,2,GELU,60,0,0
+qtdb_each_lead,P_on,sel50,2,GELU,0,0,38
+qtdb_each_lead,P_on,sel51,2,GELU,60,0,0
+qtdb_each_lead,P_on,sel52,2,GELU,7,53,0
+qtdb_each_lead,P_on,sel803,2,GELU,60,0,0
+qtdb_each_lead,P_on,sel808,2,GELU,60,0,0
+qtdb_each_lead,P_on,sel811,2,GELU,60,0,0
+qtdb_each_lead,P_on,sel820,2,GELU,60,0,5
+qtdb_each_lead,P_on,sel821,2,GELU,11,41,1
+qtdb_each_lead,P_on,sel840,2,GELU,94,0,47
+qtdb_each_lead,P_on,sel847,2,GELU,66,0,0
+qtdb_each_lead,P_on,sel853,2,GELU,59,1,0
+qtdb_each_lead,P_on,sel871,2,GELU,140,0,6
+qtdb_each_lead,P_on,sel872,2,GELU,60,0,0
+qtdb_each_lead,P_on,sel873,2,GELU,64,2,0
+qtdb_each_lead,P_on,sel883,2,GELU,60,0,0
+qtdb_each_lead,P_on,sel891,2,GELU,0,116,0
+qtdb_each_lead,P_on,sele0104,2,GELU,60,0,0
+qtdb_each_lead,P_on,sele0106,2,GELU,60,0,0
+qtdb_each_lead,P_on,sele0107,2,GELU,68,0,0
+qtdb_each_lead,P_on,sele0110,2,GELU,60,0,0
+qtdb_each_lead,P_on,sele0111,2,GELU,60,0,0
+qtdb_each_lead,P_on,sele0112,2,GELU,99,1,0
+qtdb_each_lead,P_on,sele0114,2,GELU,59,1,0
+qtdb_each_lead,P_on,sele0116,2,GELU,0,60,5
+qtdb_each_lead,P_on,sele0121,2,GELU,60,0,2
+qtdb_each_lead,P_on,sele0122,2,GELU,60,0,2
+qtdb_each_lead,P_on,sele0124,2,GELU,100,0,2
+qtdb_each_lead,P_on,sele0126,2,GELU,60,0,0
+qtdb_each_lead,P_on,sele0129,2,GELU,60,0,0
+qtdb_each_lead,P_on,sele0133,2,GELU,60,0,0
+qtdb_each_lead,P_on,sele0136,2,GELU,60,0,0
+qtdb_each_lead,P_on,sele0166,2,GELU,72,0,0
+qtdb_each_lead,P_on,sele0170,2,GELU,60,0,0
+qtdb_each_lead,P_on,sele0203,2,GELU,52,8,2
+qtdb_each_lead,P_on,sele0210,2,GELU,60,0,0
+qtdb_each_lead,P_on,sele0211,2,GELU,57,3,2
+qtdb_each_lead,P_on,sele0303,2,GELU,60,0,0
+qtdb_each_lead,P_on,sele0405,2,GELU,60,0,2
+qtdb_each_lead,P_on,sele0406,2,GELU,62,0,0
+qtdb_each_lead,P_on,sele0409,2,GELU,0,60,0
+qtdb_each_lead,P_on,sele0411,2,GELU,60,0,0
+qtdb_each_lead,P_on,sele0509,2,GELU,60,0,0
+qtdb_each_lead,P_on,sele0603,2,GELU,60,0,0
+qtdb_each_lead,P_on,sele0604,2,GELU,60,0,1
+qtdb_each_lead,P_on,sele0606,2,GELU,60,0,2
+qtdb_each_lead,P_on,sele0607,2,GELU,60,0,2
+qtdb_each_lead,P_on,sele0609,2,GELU,60,0,0
+qtdb_each_lead,P_on,sele0612,2,GELU,60,0,0
+qtdb_each_lead,P_on,sele0704,2,GELU,49,11,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:107,1,GELU,0,112,4
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:108,1,GELU,185,45,2
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:118,1,GELU,489,69,1
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:124,1,GELU,305,5,2
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:201,1,GELU,105,3,4
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:203,1,GELU,0,0,2
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:208,1,GELU,107,259,4
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:209,1,GELU,249,113,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:230,1,GELU,249,9,1
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:233,1,GELU,247,41,2
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:234,1,GELU,273,11,2
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:112,1,GELU,259,83,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:114,1,GELU,264,4,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:104,1,GELU,31,49,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:105,1,GELU,227,93,3
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:109,1,GELU,1,319,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:111,1,GELU,223,55,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:113,1,GELU,242,0,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:115,1,GELU,254,4,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:116,1,GELU,250,66,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:121,1,GELU,230,2,2
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:123,1,GELU,196,2,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:205,1,GELU,588,36,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:212,1,GELU,216,128,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:213,1,GELU,200,214,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:219,1,GELU,132,0,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Supraventricular Arrhythmia Database:801,1,GELU,53,187,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Supraventricular Arrhythmia Database:802,1,GELU,146,0,3
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Supraventricular Arrhythmia Database:886,1,GELU,5,253,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Supraventricular Arrhythmia Database:851,1,GELU,218,8,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Supraventricular Arrhythmia Database:811,1,GELU,210,0,4
+butpdb_nooverlap_each_lead,P_peak,Long Term AF Database:101,1,GELU,154,0,0
+butpdb_nooverlap_each_lead,P_peak,Long Term AF Database:120,1,GELU,183,87,1
+butpdb_nooverlap_each_lead,P_peak,Long Term AF Database:55,1,GELU,97,21,2
+butpdb_nooverlap_each_lead,P_peak,Long Term AF Database:56,1,GELU,47,27,0
+butpdb_nooverlap_each_lead,P_peak,Long Term AF Database:62,1,GELU,0,0,22
+butpdb_nooverlap_each_lead,P_peak,Long Term AF Database:102,1,GELU,174,2,5
+butpdb_nooverlap_each_lead,P_peak,Long Term AF Database:117,1,GELU,12,0,0
+ludb_test,P_off,14,1,GELU,130,2,0
+ludb_test,P_off,15,1,GELU,78,3,3
+ludb_test,P_off,21,1,GELU,108,0,0
+ludb_test,P_off,22,1,GELU,116,4,2
+ludb_test,P_off,26,1,GELU,84,0,0
+ludb_test,P_off,35,1,GELU,0,0,2
+ludb_test,P_off,39,1,GELU,72,0,0
+ludb_test,P_off,45,1,GELU,0,0,5
+ludb_test,P_off,48,1,GELU,71,1,0
+ludb_test,P_off,63,1,GELU,108,0,0
+ludb_test,P_off,68,1,GELU,96,0,0
+ludb_test,P_off,73,1,GELU,84,0,0
+ludb_test,P_off,75,1,GELU,96,0,0
+ludb_test,P_off,76,1,GELU,118,2,0
+ludb_test,P_off,79,1,GELU,79,5,0
+ludb_test,P_off,81,1,GELU,120,0,0
+ludb_test,P_off,82,1,GELU,72,0,0
+ludb_test,P_off,83,1,GELU,0,0,0
+ludb_test,P_off,84,1,GELU,81,3,0
+ludb_test,P_off,90,1,GELU,0,0,3
+ludb_test,P_off,99,1,GELU,132,0,0
+ludb_test,P_off,101,1,GELU,0,0,69
+ludb_test,P_off,103,1,GELU,0,0,26
+ludb_test,P_off,108,1,GELU,74,27,0
+ludb_test,P_off,116,1,GELU,4,152,0
+ludb_test,P_off,121,1,GELU,73,95,0
+ludb_test,P_off,123,1,GELU,96,0,0
+ludb_test,P_off,124,1,GELU,72,0,0
+ludb_test,P_off,135,1,GELU,96,0,0
+ludb_test,P_off,149,1,GELU,96,0,0
+ludb_test,P_off,150,1,GELU,84,0,0
+ludb_test,P_off,167,1,GELU,95,0,1
+ludb_test,P_off,170,1,GELU,72,0,0
+ludb_test,P_off,179,1,GELU,84,0,0
+ludb_test,P_off,184,1,GELU,96,0,0
+ludb_test,P_off,186,1,GELU,116,4,0
+ludb_test,P_off,191,1,GELU,84,0,0
+ludb_test,P_off,194,1,GELU,84,0,0
+ludb_test,P_off,195,1,GELU,96,0,0
+ludb_test,P_off,196,1,GELU,108,0,0
+ludb_test,P_off,200,1,GELU,96,0,0
+ludb_test,P_on,14,1,GELU,130,2,0
+ludb_test,P_on,15,1,GELU,78,3,3
+ludb_test,P_on,21,1,GELU,108,0,0
+ludb_test,P_on,22,1,GELU,116,4,0
+ludb_test,P_on,26,1,GELU,84,0,0
+ludb_test,P_on,35,1,GELU,0,0,2
+ludb_test,P_on,39,1,GELU,72,0,0
+ludb_test,P_on,45,1,GELU,0,0,5
+ludb_test,P_on,48,1,GELU,71,1,0
+ludb_test,P_on,63,1,GELU,108,0,0
+ludb_test,P_on,68,1,GELU,96,0,0
+ludb_test,P_on,73,1,GELU,84,0,0
+ludb_test,P_on,75,1,GELU,96,0,0
+ludb_test,P_on,76,1,GELU,118,2,0
+ludb_test,P_on,79,1,GELU,79,5,0
+ludb_test,P_on,81,1,GELU,120,0,0
+ludb_test,P_on,82,1,GELU,72,0,0
+ludb_test,P_on,83,1,GELU,0,0,0
+ludb_test,P_on,84,1,GELU,81,3,0
+ludb_test,P_on,90,1,GELU,0,0,3
+ludb_test,P_on,99,1,GELU,132,0,0
+ludb_test,P_on,101,1,GELU,0,0,69
+ludb_test,P_on,103,1,GELU,0,0,26
+ludb_test,P_on,108,1,GELU,74,27,0
+ludb_test,P_on,116,1,GELU,4,152,0
+ludb_test,P_on,121,1,GELU,73,95,0
+ludb_test,P_on,123,1,GELU,96,0,0
+ludb_test,P_on,124,1,GELU,72,0,0
+ludb_test,P_on,135,1,GELU,96,0,0
+ludb_test,P_on,149,1,GELU,96,0,0
+ludb_test,P_on,150,1,GELU,84,0,0
+ludb_test,P_on,167,1,GELU,95,0,1
+ludb_test,P_on,170,1,GELU,72,0,0
+ludb_test,P_on,179,1,GELU,84,0,0
+ludb_test,P_on,184,1,GELU,96,0,0
+ludb_test,P_on,186,1,GELU,116,4,0
+ludb_test,P_on,191,1,GELU,84,0,0
+ludb_test,P_on,194,1,GELU,84,0,0
+ludb_test,P_on,195,1,GELU,96,0,0
+ludb_test,P_on,196,1,GELU,108,0,0
+ludb_test,P_on,200,1,GELU,96,0,0
+ludb_test,QRS_off,14,1,GELU,144,0,0
+ludb_test,QRS_off,15,1,GELU,94,1,2
+ludb_test,QRS_off,21,1,GELU,120,0,0
+ludb_test,QRS_off,22,1,GELU,132,0,0
+ludb_test,QRS_off,26,1,GELU,96,0,0
+ludb_test,QRS_off,35,1,GELU,240,0,0
+ludb_test,QRS_off,39,1,GELU,84,0,0
+ludb_test,QRS_off,45,1,GELU,96,0,3
+ludb_test,QRS_off,48,1,GELU,84,0,0
+ludb_test,QRS_off,63,1,GELU,120,0,0
+ludb_test,QRS_off,68,1,GELU,108,0,0
+ludb_test,QRS_off,73,1,GELU,96,0,0
+ludb_test,QRS_off,75,1,GELU,108,0,0
+ludb_test,QRS_off,76,1,GELU,132,0,0
+ludb_test,QRS_off,79,1,GELU,96,0,0
+ludb_test,QRS_off,81,1,GELU,132,0,0
+ludb_test,QRS_off,82,1,GELU,84,0,0
+ludb_test,QRS_off,83,1,GELU,120,0,0
+ludb_test,QRS_off,84,1,GELU,96,0,0
+ludb_test,QRS_off,90,1,GELU,96,0,0
+ludb_test,QRS_off,99,1,GELU,144,0,0
+ludb_test,QRS_off,101,1,GELU,132,0,0
+ludb_test,QRS_off,103,1,GELU,157,11,3
+ludb_test,QRS_off,108,1,GELU,132,0,0
+ludb_test,QRS_off,116,1,GELU,156,0,0
+ludb_test,QRS_off,121,1,GELU,178,2,1
+ludb_test,QRS_off,123,1,GELU,108,0,0
+ludb_test,QRS_off,124,1,GELU,84,0,0
+ludb_test,QRS_off,135,1,GELU,108,0,0
+ludb_test,QRS_off,149,1,GELU,108,0,0
+ludb_test,QRS_off,150,1,GELU,96,0,0
+ludb_test,QRS_off,167,1,GELU,108,0,0
+ludb_test,QRS_off,170,1,GELU,84,0,0
+ludb_test,QRS_off,179,1,GELU,96,0,0
+ludb_test,QRS_off,184,1,GELU,108,0,0
+ludb_test,QRS_off,186,1,GELU,132,0,0
+ludb_test,QRS_off,191,1,GELU,96,0,0
+ludb_test,QRS_off,194,1,GELU,96,0,0
+ludb_test,QRS_off,195,1,GELU,108,0,0
+ludb_test,QRS_off,196,1,GELU,120,0,0
+ludb_test,QRS_off,200,1,GELU,108,0,0
+ludb_test,QRS_on,14,1,GELU,144,0,0
+ludb_test,QRS_on,15,1,GELU,94,1,2
+ludb_test,QRS_on,21,1,GELU,120,0,0
+ludb_test,QRS_on,22,1,GELU,132,0,0
+ludb_test,QRS_on,26,1,GELU,96,0,0
+ludb_test,QRS_on,35,1,GELU,240,0,0
+ludb_test,QRS_on,39,1,GELU,84,0,0
+ludb_test,QRS_on,45,1,GELU,96,0,3
+ludb_test,QRS_on,48,1,GELU,84,0,0
+ludb_test,QRS_on,63,1,GELU,120,0,0
+ludb_test,QRS_on,68,1,GELU,108,0,0
+ludb_test,QRS_on,73,1,GELU,96,0,0
+ludb_test,QRS_on,75,1,GELU,108,0,0
+ludb_test,QRS_on,76,1,GELU,132,0,0
+ludb_test,QRS_on,79,1,GELU,96,0,0
+ludb_test,QRS_on,81,1,GELU,132,0,0
+ludb_test,QRS_on,82,1,GELU,84,0,0
+ludb_test,QRS_on,83,1,GELU,120,0,0
+ludb_test,QRS_on,84,1,GELU,96,0,0
+ludb_test,QRS_on,90,1,GELU,96,0,0
+ludb_test,QRS_on,99,1,GELU,144,0,0
+ludb_test,QRS_on,101,1,GELU,132,0,0
+ludb_test,QRS_on,103,1,GELU,157,11,3
+ludb_test,QRS_on,108,1,GELU,132,0,0
+ludb_test,QRS_on,116,1,GELU,156,0,0
+ludb_test,QRS_on,121,1,GELU,178,2,1
+ludb_test,QRS_on,123,1,GELU,108,0,0
+ludb_test,QRS_on,124,1,GELU,84,0,0
+ludb_test,QRS_on,135,1,GELU,108,0,0
+ludb_test,QRS_on,149,1,GELU,108,0,0
+ludb_test,QRS_on,150,1,GELU,96,0,0
+ludb_test,QRS_on,167,1,GELU,108,0,0
+ludb_test,QRS_on,170,1,GELU,84,0,0
+ludb_test,QRS_on,179,1,GELU,96,0,0
+ludb_test,QRS_on,184,1,GELU,108,0,0
+ludb_test,QRS_on,186,1,GELU,132,0,0
+ludb_test,QRS_on,191,1,GELU,96,0,0
+ludb_test,QRS_on,194,1,GELU,96,0,0
+ludb_test,QRS_on,195,1,GELU,108,0,0
+ludb_test,QRS_on,196,1,GELU,120,0,0
+ludb_test,QRS_on,200,1,GELU,108,0,0
+ludb_test,T_off,14,1,GELU,132,0,0
+ludb_test,T_off,15,1,GELU,74,8,6
+ludb_test,T_off,21,1,GELU,108,0,0
+ludb_test,T_off,22,1,GELU,120,0,0
+ludb_test,T_off,26,1,GELU,84,0,0
+ludb_test,T_off,35,1,GELU,176,52,0
+ludb_test,T_off,39,1,GELU,72,0,0
+ludb_test,T_off,45,1,GELU,84,0,1
+ludb_test,T_off,48,1,GELU,72,0,0
+ludb_test,T_off,63,1,GELU,108,0,0
+ludb_test,T_off,68,1,GELU,96,0,0
+ludb_test,T_off,73,1,GELU,84,0,0
+ludb_test,T_off,75,1,GELU,96,0,0
+ludb_test,T_off,76,1,GELU,120,0,0
+ludb_test,T_off,79,1,GELU,84,0,0
+ludb_test,T_off,81,1,GELU,120,0,0
+ludb_test,T_off,82,1,GELU,72,0,0
+ludb_test,T_off,83,1,GELU,108,0,0
+ludb_test,T_off,84,1,GELU,84,0,0
+ludb_test,T_off,90,1,GELU,84,0,0
+ludb_test,T_off,99,1,GELU,132,0,0
+ludb_test,T_off,101,1,GELU,116,4,0
+ludb_test,T_off,103,1,GELU,132,22,3
+ludb_test,T_off,108,1,GELU,120,0,0
+ludb_test,T_off,116,1,GELU,152,3,1
+ludb_test,T_off,121,1,GELU,163,4,1
+ludb_test,T_off,123,1,GELU,96,0,0
+ludb_test,T_off,124,1,GELU,72,0,0
+ludb_test,T_off,135,1,GELU,96,0,0
+ludb_test,T_off,149,1,GELU,96,0,0
+ludb_test,T_off,150,1,GELU,84,0,0
+ludb_test,T_off,167,1,GELU,96,0,0
+ludb_test,T_off,170,1,GELU,72,0,0
+ludb_test,T_off,179,1,GELU,84,0,0
+ludb_test,T_off,184,1,GELU,96,0,0
+ludb_test,T_off,186,1,GELU,120,0,0
+ludb_test,T_off,191,1,GELU,84,0,0
+ludb_test,T_off,194,1,GELU,84,0,0
+ludb_test,T_off,195,1,GELU,96,0,0
+ludb_test,T_off,196,1,GELU,108,0,0
+ludb_test,T_off,200,1,GELU,96,0,0
+ludb_test,T_on,14,1,GELU,132,0,0
+ludb_test,T_on,15,1,GELU,75,7,5
+ludb_test,T_on,21,1,GELU,108,0,0
+ludb_test,T_on,22,1,GELU,120,0,0
+ludb_test,T_on,26,1,GELU,84,0,0
+ludb_test,T_on,35,1,GELU,176,52,0
+ludb_test,T_on,39,1,GELU,72,0,0
+ludb_test,T_on,45,1,GELU,84,0,1
+ludb_test,T_on,48,1,GELU,72,0,0
+ludb_test,T_on,63,1,GELU,108,0,0
+ludb_test,T_on,68,1,GELU,96,0,0
+ludb_test,T_on,73,1,GELU,84,0,0
+ludb_test,T_on,75,1,GELU,96,0,0
+ludb_test,T_on,76,1,GELU,120,0,0
+ludb_test,T_on,79,1,GELU,84,0,0
+ludb_test,T_on,81,1,GELU,120,0,0
+ludb_test,T_on,82,1,GELU,72,0,0
+ludb_test,T_on,83,1,GELU,108,0,0
+ludb_test,T_on,84,1,GELU,84,0,0
+ludb_test,T_on,90,1,GELU,84,0,0
+ludb_test,T_on,99,1,GELU,132,0,0
+ludb_test,T_on,101,1,GELU,115,5,1
+ludb_test,T_on,103,1,GELU,132,22,3
+ludb_test,T_on,108,1,GELU,120,0,0
+ludb_test,T_on,116,1,GELU,153,3,0
+ludb_test,T_on,121,1,GELU,163,4,1
+ludb_test,T_on,123,1,GELU,96,0,0
+ludb_test,T_on,124,1,GELU,72,0,0
+ludb_test,T_on,135,1,GELU,96,0,0
+ludb_test,T_on,149,1,GELU,96,0,0
+ludb_test,T_on,150,1,GELU,84,0,0
+ludb_test,T_on,167,1,GELU,96,0,0
+ludb_test,T_on,170,1,GELU,72,0,0
+ludb_test,T_on,179,1,GELU,84,0,0
+ludb_test,T_on,184,1,GELU,96,0,0
+ludb_test,T_on,186,1,GELU,120,0,0
+ludb_test,T_on,191,1,GELU,84,0,0
+ludb_test,T_on,194,1,GELU,84,0,0
+ludb_test,T_on,195,1,GELU,96,0,0
+ludb_test,T_on,196,1,GELU,108,0,0
+ludb_test,T_on,200,1,GELU,96,0,0
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:100,1,GELU,4503,11,11
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:101,1,GELU,1912,1818,1
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:103,1,GELU,3851,317,10
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:106,1,GELU,2804,210,20
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:117,1,GELU,3068,0,0
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:119,1,GELU,3077,163,7
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:122,1,GELU,4945,5,2
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:207,1,GELU,169,2661,75
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:214,1,GELU,2138,1864,12
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:222,1,GELU,2396,118,169
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:223,1,GELU,3469,729,12
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:231,1,GELU,3111,877,2
+qtdb_each_lead,P_on,sel100,1,GELU,60,0,0
+qtdb_each_lead,P_on,sel102,1,GELU,0,0,1
+qtdb_each_lead,P_on,sel103,1,GELU,60,0,0
+qtdb_each_lead,P_on,sel104,1,GELU,21,13,5
+qtdb_each_lead,P_on,sel114,1,GELU,98,2,0
+qtdb_each_lead,P_on,sel116,1,GELU,97,3,6
+qtdb_each_lead,P_on,sel117,1,GELU,60,0,0
+qtdb_each_lead,P_on,sel123,1,GELU,60,0,0
+qtdb_each_lead,P_on,sel14046,1,GELU,61,1,0
+qtdb_each_lead,P_on,sel14157,1,GELU,0,56,0
+qtdb_each_lead,P_on,sel14172,1,GELU,100,0,0
+qtdb_each_lead,P_on,sel15814,1,GELU,60,0,0
+qtdb_each_lead,P_on,sel16265,1,GELU,60,0,0
+qtdb_each_lead,P_on,sel16272,1,GELU,60,0,0
+qtdb_each_lead,P_on,sel16273,1,GELU,60,0,0
+qtdb_each_lead,P_on,sel16420,1,GELU,60,0,0
+qtdb_each_lead,P_on,sel16483,1,GELU,60,0,0
+qtdb_each_lead,P_on,sel16539,1,GELU,60,0,0
+qtdb_each_lead,P_on,sel16773,1,GELU,60,0,0
+qtdb_each_lead,P_on,sel16786,1,GELU,60,0,0
+qtdb_each_lead,P_on,sel16795,1,GELU,60,0,0
+qtdb_each_lead,P_on,sel17152,1,GELU,30,30,1
+qtdb_each_lead,P_on,sel17453,1,GELU,60,0,0
+qtdb_each_lead,P_on,sel213,1,GELU,8,134,4
+qtdb_each_lead,P_on,sel221,1,GELU,0,0,2
+qtdb_each_lead,P_on,sel223,1,GELU,55,7,2
+qtdb_each_lead,P_on,sel230,1,GELU,100,0,2
+qtdb_each_lead,P_on,sel231,1,GELU,100,0,0
+qtdb_each_lead,P_on,sel232,1,GELU,0,0,1
+qtdb_each_lead,P_on,sel233,1,GELU,60,0,16
+qtdb_each_lead,P_on,sel30,1,GELU,60,0,0
+qtdb_each_lead,P_on,sel301,1,GELU,60,0,0
+qtdb_each_lead,P_on,sel302,1,GELU,59,1,4
+qtdb_each_lead,P_on,sel306,1,GELU,72,0,2
+qtdb_each_lead,P_on,sel307,1,GELU,60,0,0
+qtdb_each_lead,P_on,sel308,1,GELU,20,80,0
+qtdb_each_lead,P_on,sel31,1,GELU,30,30,1
+qtdb_each_lead,P_on,sel310,1,GELU,0,0,0
+qtdb_each_lead,P_on,sel32,1,GELU,59,1,2
+qtdb_each_lead,P_on,sel33,1,GELU,60,0,0
+qtdb_each_lead,P_on,sel34,1,GELU,48,12,0
+qtdb_each_lead,P_on,sel35,1,GELU,0,0,6
+qtdb_each_lead,P_on,sel36,1,GELU,0,2,1
+qtdb_each_lead,P_on,sel37,1,GELU,0,0,27
+qtdb_each_lead,P_on,sel38,1,GELU,0,60,0
+qtdb_each_lead,P_on,sel39,1,GELU,60,0,0
+qtdb_each_lead,P_on,sel40,1,GELU,0,60,0
+qtdb_each_lead,P_on,sel41,1,GELU,2,58,0
+qtdb_each_lead,P_on,sel42,1,GELU,0,60,0
+qtdb_each_lead,P_on,sel43,1,GELU,3,57,0
+qtdb_each_lead,P_on,sel44,1,GELU,25,19,4
+qtdb_each_lead,P_on,sel45,1,GELU,59,1,0
+qtdb_each_lead,P_on,sel46,1,GELU,4,54,0
+qtdb_each_lead,P_on,sel47,1,GELU,59,1,0
+qtdb_each_lead,P_on,sel48,1,GELU,18,42,1
+qtdb_each_lead,P_on,sel49,1,GELU,60,0,0
+qtdb_each_lead,P_on,sel50,1,GELU,0,0,28
+qtdb_each_lead,P_on,sel51,1,GELU,60,0,0
+qtdb_each_lead,P_on,sel52,1,GELU,6,54,0
+qtdb_each_lead,P_on,sel803,1,GELU,60,0,0
+qtdb_each_lead,P_on,sel808,1,GELU,60,0,0
+qtdb_each_lead,P_on,sel811,1,GELU,60,0,0
+qtdb_each_lead,P_on,sel820,1,GELU,60,0,3
+qtdb_each_lead,P_on,sel821,1,GELU,10,42,1
+qtdb_each_lead,P_on,sel840,1,GELU,94,0,46
+qtdb_each_lead,P_on,sel847,1,GELU,66,0,0
+qtdb_each_lead,P_on,sel853,1,GELU,54,6,0
+qtdb_each_lead,P_on,sel871,1,GELU,140,0,6
+qtdb_each_lead,P_on,sel872,1,GELU,60,0,0
+qtdb_each_lead,P_on,sel873,1,GELU,66,0,0
+qtdb_each_lead,P_on,sel883,1,GELU,60,0,0
+qtdb_each_lead,P_on,sel891,1,GELU,0,116,0
+qtdb_each_lead,P_on,sele0104,1,GELU,60,0,0
+qtdb_each_lead,P_on,sele0106,1,GELU,60,0,0
+qtdb_each_lead,P_on,sele0107,1,GELU,68,0,0
+qtdb_each_lead,P_on,sele0110,1,GELU,60,0,0
+qtdb_each_lead,P_on,sele0111,1,GELU,60,0,0
+qtdb_each_lead,P_on,sele0112,1,GELU,99,1,0
+qtdb_each_lead,P_on,sele0114,1,GELU,59,1,0
+qtdb_each_lead,P_on,sele0116,1,GELU,4,56,3
+qtdb_each_lead,P_on,sele0121,1,GELU,60,0,2
+qtdb_each_lead,P_on,sele0122,1,GELU,60,0,2
+qtdb_each_lead,P_on,sele0124,1,GELU,100,0,2
+qtdb_each_lead,P_on,sele0126,1,GELU,60,0,0
+qtdb_each_lead,P_on,sele0129,1,GELU,60,0,0
+qtdb_each_lead,P_on,sele0133,1,GELU,60,0,0
+qtdb_each_lead,P_on,sele0136,1,GELU,60,0,0
+qtdb_each_lead,P_on,sele0166,1,GELU,72,0,0
+qtdb_each_lead,P_on,sele0170,1,GELU,60,0,0
+qtdb_each_lead,P_on,sele0203,1,GELU,43,17,2
+qtdb_each_lead,P_on,sele0210,1,GELU,60,0,0
+qtdb_each_lead,P_on,sele0211,1,GELU,42,18,0
+qtdb_each_lead,P_on,sele0303,1,GELU,60,0,0
+qtdb_each_lead,P_on,sele0405,1,GELU,60,0,2
+qtdb_each_lead,P_on,sele0406,1,GELU,62,0,0
+qtdb_each_lead,P_on,sele0409,1,GELU,0,60,0
+qtdb_each_lead,P_on,sele0411,1,GELU,60,0,0
+qtdb_each_lead,P_on,sele0509,1,GELU,60,0,0
+qtdb_each_lead,P_on,sele0603,1,GELU,60,0,0
+qtdb_each_lead,P_on,sele0604,1,GELU,60,0,0
+qtdb_each_lead,P_on,sele0606,1,GELU,60,0,2
+qtdb_each_lead,P_on,sele0607,1,GELU,60,0,2
+qtdb_each_lead,P_on,sele0609,1,GELU,60,0,0
+qtdb_each_lead,P_on,sele0612,1,GELU,60,0,0
+qtdb_each_lead,P_on,sele0704,1,GELU,47,13,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:107,1,linear,0,112,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:108,1,linear,186,44,2
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:118,1,linear,483,75,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:124,1,linear,308,2,2
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:201,1,linear,106,2,5
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:203,1,linear,0,0,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:208,1,linear,98,268,1
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:209,1,linear,264,98,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:230,1,linear,249,9,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:233,1,linear,246,42,2
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:234,1,linear,279,5,6
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:112,1,linear,262,80,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:114,1,linear,250,18,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:104,1,linear,28,52,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:105,1,linear,242,78,7
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:109,1,linear,0,320,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:111,1,linear,206,72,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:113,1,linear,242,0,1
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:115,1,linear,256,2,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:116,1,linear,253,63,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:121,1,linear,231,1,2
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:123,1,linear,196,2,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:205,1,linear,590,34,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:212,1,linear,215,129,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:213,1,linear,99,315,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Arrhythmia Database:219,1,linear,132,0,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Supraventricular Arrhythmia Database:801,1,linear,110,130,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Supraventricular Arrhythmia Database:802,1,linear,146,0,3
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Supraventricular Arrhythmia Database:886,1,linear,0,258,0
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Supraventricular Arrhythmia Database:851,1,linear,218,8,1
+butpdb_nooverlap_each_lead,P_peak,MIT-BIH Supraventricular Arrhythmia Database:811,1,linear,210,0,4
+butpdb_nooverlap_each_lead,P_peak,Long Term AF Database:101,1,linear,154,0,0
+butpdb_nooverlap_each_lead,P_peak,Long Term AF Database:120,1,linear,176,94,2
+butpdb_nooverlap_each_lead,P_peak,Long Term AF Database:55,1,linear,95,23,4
+butpdb_nooverlap_each_lead,P_peak,Long Term AF Database:56,1,linear,60,14,0
+butpdb_nooverlap_each_lead,P_peak,Long Term AF Database:62,1,linear,0,0,17
+butpdb_nooverlap_each_lead,P_peak,Long Term AF Database:102,1,linear,174,2,10
+butpdb_nooverlap_each_lead,P_peak,Long Term AF Database:117,1,linear,12,0,0
+ludb_test,P_off,14,1,linear,131,1,0
+ludb_test,P_off,15,1,linear,78,3,2
+ludb_test,P_off,21,1,linear,108,0,0
+ludb_test,P_off,22,1,linear,116,4,2
+ludb_test,P_off,26,1,linear,84,0,0
+ludb_test,P_off,35,1,linear,0,0,2
+ludb_test,P_off,39,1,linear,72,0,0
+ludb_test,P_off,45,1,linear,0,0,0
+ludb_test,P_off,48,1,linear,72,0,0
+ludb_test,P_off,63,1,linear,108,0,0
+ludb_test,P_off,68,1,linear,96,0,0
+ludb_test,P_off,73,1,linear,84,0,0
+ludb_test,P_off,75,1,linear,96,0,0
+ludb_test,P_off,76,1,linear,115,5,0
+ludb_test,P_off,79,1,linear,79,5,0
+ludb_test,P_off,81,1,linear,120,0,0
+ludb_test,P_off,82,1,linear,72,0,0
+ludb_test,P_off,83,1,linear,0,0,0
+ludb_test,P_off,84,1,linear,81,3,0
+ludb_test,P_off,90,1,linear,0,0,2
+ludb_test,P_off,99,1,linear,132,0,0
+ludb_test,P_off,101,1,linear,0,0,66
+ludb_test,P_off,103,1,linear,0,0,29
+ludb_test,P_off,108,1,linear,76,25,0
+ludb_test,P_off,116,1,linear,0,156,0
+ludb_test,P_off,121,1,linear,41,127,0
+ludb_test,P_off,123,1,linear,96,0,0
+ludb_test,P_off,124,1,linear,72,0,0
+ludb_test,P_off,135,1,linear,95,1,0
+ludb_test,P_off,149,1,linear,96,0,0
+ludb_test,P_off,150,1,linear,84,0,0
+ludb_test,P_off,167,1,linear,95,0,2
+ludb_test,P_off,170,1,linear,72,0,0
+ludb_test,P_off,179,1,linear,84,0,0
+ludb_test,P_off,184,1,linear,96,0,0
+ludb_test,P_off,186,1,linear,107,13,0
+ludb_test,P_off,191,1,linear,84,0,0
+ludb_test,P_off,194,1,linear,84,0,0
+ludb_test,P_off,195,1,linear,96,0,0
+ludb_test,P_off,196,1,linear,108,0,0
+ludb_test,P_off,200,1,linear,96,0,0
+ludb_test,P_on,14,1,linear,131,1,0
+ludb_test,P_on,15,1,linear,78,3,2
+ludb_test,P_on,21,1,linear,108,0,0
+ludb_test,P_on,22,1,linear,116,4,0
+ludb_test,P_on,26,1,linear,84,0,0
+ludb_test,P_on,35,1,linear,0,0,2
+ludb_test,P_on,39,1,linear,72,0,0
+ludb_test,P_on,45,1,linear,0,0,0
+ludb_test,P_on,48,1,linear,72,0,0
+ludb_test,P_on,63,1,linear,108,0,0
+ludb_test,P_on,68,1,linear,96,0,0
+ludb_test,P_on,73,1,linear,84,0,0
+ludb_test,P_on,75,1,linear,96,0,0
+ludb_test,P_on,76,1,linear,115,5,0
+ludb_test,P_on,79,1,linear,79,5,0
+ludb_test,P_on,81,1,linear,120,0,0
+ludb_test,P_on,82,1,linear,72,0,0
+ludb_test,P_on,83,1,linear,0,0,0
+ludb_test,P_on,84,1,linear,81,3,0
+ludb_test,P_on,90,1,linear,0,0,2
+ludb_test,P_on,99,1,linear,132,0,0
+ludb_test,P_on,101,1,linear,0,0,66
+ludb_test,P_on,103,1,linear,0,0,29
+ludb_test,P_on,108,1,linear,76,25,0
+ludb_test,P_on,116,1,linear,0,156,0
+ludb_test,P_on,121,1,linear,41,127,0
+ludb_test,P_on,123,1,linear,96,0,0
+ludb_test,P_on,124,1,linear,72,0,0
+ludb_test,P_on,135,1,linear,95,1,0
+ludb_test,P_on,149,1,linear,96,0,0
+ludb_test,P_on,150,1,linear,84,0,0
+ludb_test,P_on,167,1,linear,95,0,2
+ludb_test,P_on,170,1,linear,72,0,0
+ludb_test,P_on,179,1,linear,84,0,0
+ludb_test,P_on,184,1,linear,96,0,0
+ludb_test,P_on,186,1,linear,107,13,0
+ludb_test,P_on,191,1,linear,84,0,0
+ludb_test,P_on,194,1,linear,84,0,0
+ludb_test,P_on,195,1,linear,96,0,0
+ludb_test,P_on,196,1,linear,108,0,0
+ludb_test,P_on,200,1,linear,96,0,0
+ludb_test,QRS_off,14,1,linear,144,0,0
+ludb_test,QRS_off,15,1,linear,94,1,2
+ludb_test,QRS_off,21,1,linear,120,0,0
+ludb_test,QRS_off,22,1,linear,132,0,0
+ludb_test,QRS_off,26,1,linear,96,0,0
+ludb_test,QRS_off,35,1,linear,238,2,0
+ludb_test,QRS_off,39,1,linear,84,0,0
+ludb_test,QRS_off,45,1,linear,96,0,4
+ludb_test,QRS_off,48,1,linear,84,0,0
+ludb_test,QRS_off,63,1,linear,120,0,0
+ludb_test,QRS_off,68,1,linear,108,0,0
+ludb_test,QRS_off,73,1,linear,96,0,0
+ludb_test,QRS_off,75,1,linear,108,0,0
+ludb_test,QRS_off,76,1,linear,132,0,0
+ludb_test,QRS_off,79,1,linear,96,0,0
+ludb_test,QRS_off,81,1,linear,132,0,0
+ludb_test,QRS_off,82,1,linear,84,0,0
+ludb_test,QRS_off,83,1,linear,119,1,0
+ludb_test,QRS_off,84,1,linear,96,0,0
+ludb_test,QRS_off,90,1,linear,96,0,0
+ludb_test,QRS_off,99,1,linear,144,0,0
+ludb_test,QRS_off,101,1,linear,132,0,0
+ludb_test,QRS_off,103,1,linear,157,11,0
+ludb_test,QRS_off,108,1,linear,132,0,0
+ludb_test,QRS_off,116,1,linear,156,0,0
+ludb_test,QRS_off,121,1,linear,179,1,0
+ludb_test,QRS_off,123,1,linear,108,0,0
+ludb_test,QRS_off,124,1,linear,84,0,0
+ludb_test,QRS_off,135,1,linear,108,0,0
+ludb_test,QRS_off,149,1,linear,108,0,0
+ludb_test,QRS_off,150,1,linear,96,0,0
+ludb_test,QRS_off,167,1,linear,108,0,0
+ludb_test,QRS_off,170,1,linear,84,0,0
+ludb_test,QRS_off,179,1,linear,96,0,0
+ludb_test,QRS_off,184,1,linear,108,0,0
+ludb_test,QRS_off,186,1,linear,132,0,0
+ludb_test,QRS_off,191,1,linear,96,0,0
+ludb_test,QRS_off,194,1,linear,96,0,0
+ludb_test,QRS_off,195,1,linear,108,0,0
+ludb_test,QRS_off,196,1,linear,120,0,0
+ludb_test,QRS_off,200,1,linear,108,0,0
+ludb_test,QRS_on,14,1,linear,144,0,0
+ludb_test,QRS_on,15,1,linear,94,1,2
+ludb_test,QRS_on,21,1,linear,120,0,0
+ludb_test,QRS_on,22,1,linear,132,0,0
+ludb_test,QRS_on,26,1,linear,96,0,0
+ludb_test,QRS_on,35,1,linear,238,2,0
+ludb_test,QRS_on,39,1,linear,84,0,0
+ludb_test,QRS_on,45,1,linear,96,0,4
+ludb_test,QRS_on,48,1,linear,84,0,0
+ludb_test,QRS_on,63,1,linear,120,0,0
+ludb_test,QRS_on,68,1,linear,108,0,0
+ludb_test,QRS_on,73,1,linear,96,0,0
+ludb_test,QRS_on,75,1,linear,108,0,0
+ludb_test,QRS_on,76,1,linear,132,0,0
+ludb_test,QRS_on,79,1,linear,96,0,0
+ludb_test,QRS_on,81,1,linear,132,0,0
+ludb_test,QRS_on,82,1,linear,84,0,0
+ludb_test,QRS_on,83,1,linear,119,1,0
+ludb_test,QRS_on,84,1,linear,96,0,0
+ludb_test,QRS_on,90,1,linear,96,0,0
+ludb_test,QRS_on,99,1,linear,144,0,0
+ludb_test,QRS_on,101,1,linear,132,0,0
+ludb_test,QRS_on,103,1,linear,157,11,0
+ludb_test,QRS_on,108,1,linear,132,0,0
+ludb_test,QRS_on,116,1,linear,156,0,0
+ludb_test,QRS_on,121,1,linear,179,1,0
+ludb_test,QRS_on,123,1,linear,108,0,0
+ludb_test,QRS_on,124,1,linear,84,0,0
+ludb_test,QRS_on,135,1,linear,108,0,0
+ludb_test,QRS_on,149,1,linear,108,0,0
+ludb_test,QRS_on,150,1,linear,96,0,0
+ludb_test,QRS_on,167,1,linear,108,0,0
+ludb_test,QRS_on,170,1,linear,84,0,0
+ludb_test,QRS_on,179,1,linear,96,0,0
+ludb_test,QRS_on,184,1,linear,108,0,0
+ludb_test,QRS_on,186,1,linear,132,0,0
+ludb_test,QRS_on,191,1,linear,96,0,0
+ludb_test,QRS_on,194,1,linear,96,0,0
+ludb_test,QRS_on,195,1,linear,108,0,0
+ludb_test,QRS_on,196,1,linear,120,0,0
+ludb_test,QRS_on,200,1,linear,108,0,0
+ludb_test,T_off,14,1,linear,132,0,0
+ludb_test,T_off,15,1,linear,78,4,5
+ludb_test,T_off,21,1,linear,108,0,0
+ludb_test,T_off,22,1,linear,120,0,0
+ludb_test,T_off,26,1,linear,84,0,0
+ludb_test,T_off,35,1,linear,180,48,0
+ludb_test,T_off,39,1,linear,72,0,0
+ludb_test,T_off,45,1,linear,84,0,0
+ludb_test,T_off,48,1,linear,72,0,0
+ludb_test,T_off,63,1,linear,108,0,0
+ludb_test,T_off,68,1,linear,96,0,0
+ludb_test,T_off,73,1,linear,84,0,0
+ludb_test,T_off,75,1,linear,96,0,0
+ludb_test,T_off,76,1,linear,120,0,0
+ludb_test,T_off,79,1,linear,84,0,0
+ludb_test,T_off,81,1,linear,120,0,0
+ludb_test,T_off,82,1,linear,72,0,0
+ludb_test,T_off,83,1,linear,102,6,0
+ludb_test,T_off,84,1,linear,84,0,0
+ludb_test,T_off,90,1,linear,84,0,0
+ludb_test,T_off,99,1,linear,132,0,0
+ludb_test,T_off,101,1,linear,111,9,7
+ludb_test,T_off,103,1,linear,134,20,2
+ludb_test,T_off,108,1,linear,120,0,0
+ludb_test,T_off,116,1,linear,137,18,1
+ludb_test,T_off,121,1,linear,160,7,2
+ludb_test,T_off,123,1,linear,96,0,0
+ludb_test,T_off,124,1,linear,72,0,0
+ludb_test,T_off,135,1,linear,96,0,0
+ludb_test,T_off,149,1,linear,96,0,0
+ludb_test,T_off,150,1,linear,84,0,0
+ludb_test,T_off,167,1,linear,96,0,0
+ludb_test,T_off,170,1,linear,72,0,0
+ludb_test,T_off,179,1,linear,84,0,0
+ludb_test,T_off,184,1,linear,96,0,0
+ludb_test,T_off,186,1,linear,119,1,0
+ludb_test,T_off,191,1,linear,84,0,0
+ludb_test,T_off,194,1,linear,84,0,0
+ludb_test,T_off,195,1,linear,96,0,0
+ludb_test,T_off,196,1,linear,108,0,0
+ludb_test,T_off,200,1,linear,96,0,0
+ludb_test,T_on,14,1,linear,132,0,0
+ludb_test,T_on,15,1,linear,79,3,4
+ludb_test,T_on,21,1,linear,108,0,0
+ludb_test,T_on,22,1,linear,120,0,0
+ludb_test,T_on,26,1,linear,84,0,0
+ludb_test,T_on,35,1,linear,180,48,0
+ludb_test,T_on,39,1,linear,72,0,0
+ludb_test,T_on,45,1,linear,84,0,0
+ludb_test,T_on,48,1,linear,72,0,0
+ludb_test,T_on,63,1,linear,108,0,0
+ludb_test,T_on,68,1,linear,96,0,0
+ludb_test,T_on,73,1,linear,84,0,0
+ludb_test,T_on,75,1,linear,96,0,0
+ludb_test,T_on,76,1,linear,120,0,0
+ludb_test,T_on,79,1,linear,84,0,0
+ludb_test,T_on,81,1,linear,120,0,0
+ludb_test,T_on,82,1,linear,72,0,0
+ludb_test,T_on,83,1,linear,102,6,0
+ludb_test,T_on,84,1,linear,84,0,0
+ludb_test,T_on,90,1,linear,84,0,0
+ludb_test,T_on,99,1,linear,132,0,0
+ludb_test,T_on,101,1,linear,112,8,6
+ludb_test,T_on,103,1,linear,133,21,3
+ludb_test,T_on,108,1,linear,120,0,0
+ludb_test,T_on,116,1,linear,138,18,0
+ludb_test,T_on,121,1,linear,161,6,1
+ludb_test,T_on,123,1,linear,96,0,0
+ludb_test,T_on,124,1,linear,72,0,0
+ludb_test,T_on,135,1,linear,96,0,0
+ludb_test,T_on,149,1,linear,96,0,0
+ludb_test,T_on,150,1,linear,84,0,0
+ludb_test,T_on,167,1,linear,96,0,0
+ludb_test,T_on,170,1,linear,72,0,0
+ludb_test,T_on,179,1,linear,84,0,0
+ludb_test,T_on,184,1,linear,96,0,0
+ludb_test,T_on,186,1,linear,119,1,0
+ludb_test,T_on,191,1,linear,84,0,0
+ludb_test,T_on,194,1,linear,84,0,0
+ludb_test,T_on,195,1,linear,96,0,0
+ludb_test,T_on,196,1,linear,108,0,0
+ludb_test,T_on,200,1,linear,96,0,0
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:100,1,linear,4504,10,15
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:101,1,linear,1879,1851,1
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:103,1,linear,3848,320,10
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:106,1,linear,2805,209,40
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:117,1,linear,3068,0,1
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:119,1,linear,3073,167,6
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:122,1,linear,4946,4,2
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:207,1,linear,120,2710,33
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:214,1,linear,1986,2016,39
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:222,1,linear,2407,107,183
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:223,1,linear,3931,267,11
+pwave_each_lead,P_peak,MIT-BIH Arrhythmia Database:231,1,linear,3038,950,3
+qtdb_each_lead,P_on,sel100,1,linear,60,0,0
+qtdb_each_lead,P_on,sel102,1,linear,0,0,1
+qtdb_each_lead,P_on,sel103,1,linear,60,0,0
+qtdb_each_lead,P_on,sel104,1,linear,16,18,6
+qtdb_each_lead,P_on,sel114,1,linear,97,3,0
+qtdb_each_lead,P_on,sel116,1,linear,93,7,6
+qtdb_each_lead,P_on,sel117,1,linear,60,0,0
+qtdb_each_lead,P_on,sel123,1,linear,60,0,0
+qtdb_each_lead,P_on,sel14046,1,linear,61,1,0
+qtdb_each_lead,P_on,sel14157,1,linear,0,56,0
+qtdb_each_lead,P_on,sel14172,1,linear,100,0,0
+qtdb_each_lead,P_on,sel15814,1,linear,26,34,0
+qtdb_each_lead,P_on,sel16265,1,linear,60,0,0
+qtdb_each_lead,P_on,sel16272,1,linear,60,0,0
+qtdb_each_lead,P_on,sel16273,1,linear,60,0,0
+qtdb_each_lead,P_on,sel16420,1,linear,60,0,0
+qtdb_each_lead,P_on,sel16483,1,linear,60,0,0
+qtdb_each_lead,P_on,sel16539,1,linear,60,0,0
+qtdb_each_lead,P_on,sel16773,1,linear,60,0,0
+qtdb_each_lead,P_on,sel16786,1,linear,60,0,0
+qtdb_each_lead,P_on,sel16795,1,linear,60,0,0
+qtdb_each_lead,P_on,sel17152,1,linear,30,30,1
+qtdb_each_lead,P_on,sel17453,1,linear,60,0,0
+qtdb_each_lead,P_on,sel213,1,linear,4,138,1
+qtdb_each_lead,P_on,sel221,1,linear,0,0,3
+qtdb_each_lead,P_on,sel223,1,linear,60,2,3
+qtdb_each_lead,P_on,sel230,1,linear,100,0,2
+qtdb_each_lead,P_on,sel231,1,linear,98,2,0
+qtdb_each_lead,P_on,sel232,1,linear,0,0,0
+qtdb_each_lead,P_on,sel233,1,linear,55,5,19
+qtdb_each_lead,P_on,sel30,1,linear,60,0,0
+qtdb_each_lead,P_on,sel301,1,linear,60,0,0
+qtdb_each_lead,P_on,sel302,1,linear,60,0,4
+qtdb_each_lead,P_on,sel306,1,linear,72,0,2
+qtdb_each_lead,P_on,sel307,1,linear,60,0,0
+qtdb_each_lead,P_on,sel308,1,linear,52,48,0
+qtdb_each_lead,P_on,sel31,1,linear,29,31,1
+qtdb_each_lead,P_on,sel310,1,linear,0,0,0
+qtdb_each_lead,P_on,sel32,1,linear,59,1,2
+qtdb_each_lead,P_on,sel33,1,linear,60,0,0
+qtdb_each_lead,P_on,sel34,1,linear,49,11,0
+qtdb_each_lead,P_on,sel35,1,linear,0,0,3
+qtdb_each_lead,P_on,sel36,1,linear,0,2,0
+qtdb_each_lead,P_on,sel37,1,linear,0,0,23
+qtdb_each_lead,P_on,sel38,1,linear,0,60,0
+qtdb_each_lead,P_on,sel39,1,linear,60,0,0
+qtdb_each_lead,P_on,sel40,1,linear,0,60,0
+qtdb_each_lead,P_on,sel41,1,linear,0,60,0
+qtdb_each_lead,P_on,sel42,1,linear,0,60,0
+qtdb_each_lead,P_on,sel43,1,linear,1,59,0
+qtdb_each_lead,P_on,sel44,1,linear,29,15,4
+qtdb_each_lead,P_on,sel45,1,linear,54,6,0
+qtdb_each_lead,P_on,sel46,1,linear,2,56,0
+qtdb_each_lead,P_on,sel47,1,linear,60,0,0
+qtdb_each_lead,P_on,sel48,1,linear,18,42,1
+qtdb_each_lead,P_on,sel49,1,linear,60,0,0
+qtdb_each_lead,P_on,sel50,1,linear,0,0,17
+qtdb_each_lead,P_on,sel51,1,linear,60,0,0
+qtdb_each_lead,P_on,sel52,1,linear,4,56,0
+qtdb_each_lead,P_on,sel803,1,linear,60,0,0
+qtdb_each_lead,P_on,sel808,1,linear,60,0,0
+qtdb_each_lead,P_on,sel811,1,linear,60,0,0
+qtdb_each_lead,P_on,sel820,1,linear,60,0,5
+qtdb_each_lead,P_on,sel821,1,linear,11,41,1
+qtdb_each_lead,P_on,sel840,1,linear,94,0,46
+qtdb_each_lead,P_on,sel847,1,linear,66,0,0
+qtdb_each_lead,P_on,sel853,1,linear,58,2,0
+qtdb_each_lead,P_on,sel871,1,linear,140,0,6
+qtdb_each_lead,P_on,sel872,1,linear,60,0,0
+qtdb_each_lead,P_on,sel873,1,linear,66,0,0
+qtdb_each_lead,P_on,sel883,1,linear,60,0,0
+qtdb_each_lead,P_on,sel891,1,linear,0,116,0
+qtdb_each_lead,P_on,sele0104,1,linear,60,0,0
+qtdb_each_lead,P_on,sele0106,1,linear,60,0,0
+qtdb_each_lead,P_on,sele0107,1,linear,68,0,0
+qtdb_each_lead,P_on,sele0110,1,linear,60,0,0
+qtdb_each_lead,P_on,sele0111,1,linear,60,0,0
+qtdb_each_lead,P_on,sele0112,1,linear,99,1,0
+qtdb_each_lead,P_on,sele0114,1,linear,59,1,0
+qtdb_each_lead,P_on,sele0116,1,linear,2,58,13
+qtdb_each_lead,P_on,sele0121,1,linear,60,0,2
+qtdb_each_lead,P_on,sele0122,1,linear,60,0,2
+qtdb_each_lead,P_on,sele0124,1,linear,99,1,2
+qtdb_each_lead,P_on,sele0126,1,linear,60,0,0
+qtdb_each_lead,P_on,sele0129,1,linear,60,0,0
+qtdb_each_lead,P_on,sele0133,1,linear,60,0,0
+qtdb_each_lead,P_on,sele0136,1,linear,60,0,0
+qtdb_each_lead,P_on,sele0166,1,linear,72,0,0
+qtdb_each_lead,P_on,sele0170,1,linear,60,0,0
+qtdb_each_lead,P_on,sele0203,1,linear,38,22,1
+qtdb_each_lead,P_on,sele0210,1,linear,60,0,0
+qtdb_each_lead,P_on,sele0211,1,linear,0,60,0
+qtdb_each_lead,P_on,sele0303,1,linear,60,0,0
+qtdb_each_lead,P_on,sele0405,1,linear,60,0,2
+qtdb_each_lead,P_on,sele0406,1,linear,62,0,0
+qtdb_each_lead,P_on,sele0409,1,linear,0,60,0
+qtdb_each_lead,P_on,sele0411,1,linear,60,0,0
+qtdb_each_lead,P_on,sele0509,1,linear,60,0,0
+qtdb_each_lead,P_on,sele0603,1,linear,60,0,0
+qtdb_each_lead,P_on,sele0604,1,linear,60,0,1
+qtdb_each_lead,P_on,sele0606,1,linear,60,0,2
+qtdb_each_lead,P_on,sele0607,1,linear,60,0,2
+qtdb_each_lead,P_on,sele0609,1,linear,60,0,0
+qtdb_each_lead,P_on,sele0612,1,linear,60,0,0
+qtdb_each_lead,P_on,sele0704,1,linear,42,18,0

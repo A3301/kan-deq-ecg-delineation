@@ -1,0 +1,18 @@
+{
+  "median_mib": {
+    "DEQ": 140.9765625,
+    "Unrolled8": 163.65234375,
+    "Unrolled18": 244.05859375
+  },
+  "relative_deq_saving_pc": {
+    "Unrolled8": 13.856068743286787,
+    "Unrolled18": 42.236591494742235
+  },
+  "steps": 5,
+  "threads": 6,
+  "batch": 32,
+  "samples": 1024,
+  "seed": 0,
+  "num_fresh_processes": 9,
+  "definition": "Windows process lifetime peak working set after synthetic training minus resident set immediately before the five steps; MiB = 2^20 bytes"
+}

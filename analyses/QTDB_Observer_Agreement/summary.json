@@ -1,0 +1,35 @@
+{
+  "n_records": 11,
+  "records_with_pairs": 11,
+  "r1_complete": 487,
+  "r2_complete": 404,
+  "paired": 404,
+  "different_channel": 0,
+  "onset": {
+    "mean_abs": 10.752475247524753,
+    "median_abs": 8.0,
+    "signed_mean_reader2_minus_1": 3.8415841584158414,
+    "ci95_record_bootstrap": [
+      7.609690766550522,
+      13.89055862859984
+    ]
+  },
+  "offset": {
+    "mean_abs": 12.188118811881187,
+    "median_abs": 8.0,
+    "signed_mean_reader2_minus_1": 2.742574257425743,
+    "ci95_record_bootstrap": [
+      8.843644474948524,
+      16.990450346634944
+    ]
+  },
+  "duration": {
+    "mean_abs": 13.950495049504951,
+    "median_abs": 12.0,
+    "signed_mean_reader2_minus_1": -1.099009900990099,
+    "ci95_record_bootstrap": [
+      11.32370617052898,
+      16.856570419654197
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "KAN": {
+    "point": 92.45742092457421,
+    "lo": 90.03685198565273,
+    "hi": 94.6236559139785
+  },
+  "GELU": {
+    "point": 91.6058394160584,
+    "lo": 89.07925866808549,
+    "hi": 93.92277684982942
+  },
+  "difference_pp": {
+    "point": 0.8515815085158067,
+    "lo": -0.2406738868832722,
+    "hi": 1.9891725819366008
+  },
+  "actual_median_diff_counts": {
+    "Q": 352,
+    "T": 473
+  },
+  "all_published_columns_match_rounded_five_reader_mean": true
+}

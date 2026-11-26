@@ -1,0 +1,1 @@
+No locked test scores had been emitted at the time of scheduling. For throughput, a second process starts fold 4 independently. Fold 0 remains the predefined interim panel. The split, random seeds, training schedule, scoring, endpoints and analysis are unchanged. Each worker has a separate process-level random stream and the exact same train function.

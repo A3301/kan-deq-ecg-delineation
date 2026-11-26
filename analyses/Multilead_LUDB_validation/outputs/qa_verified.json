@@ -1,0 +1,51 @@
+{
+  "event_rows": 154418,
+  "independently_verified_count_rows": 16800,
+  "integer_fields_per_row": 13,
+  "event_groups_with_independent_matrix_matching": 756,
+  "identical_archived_41_boundary_rows": 2952,
+  "rdb_records_fingerprinted": 2398,
+  "rdb_unique_rounded_waveforms": 2398,
+  "ludb_rounded_waveforms_fingerprinted": 2400,
+  "exact_normalised_rounded_waveform_matches": 0,
+  "native_lead_files_regex_verified": 2400,
+  "global_interval_examples": [
+    {
+      "record": "1",
+      "independently_identified_complete_beats": 6
+    },
+    {
+      "record": "25",
+      "independently_identified_complete_beats": 7
+    },
+    {
+      "record": "50",
+      "independently_identified_complete_beats": 9
+    },
+    {
+      "record": "75",
+      "independently_identified_complete_beats": 9
+    },
+    {
+      "record": "100",
+      "independently_identified_complete_beats": 9
+    },
+    {
+      "record": "125",
+      "independently_identified_complete_beats": 7
+    },
+    {
+      "record": "150",
+      "independently_identified_complete_beats": 8
+    },
+    {
+      "record": "175",
+      "independently_identified_complete_beats": 9
+    },
+    {
+      "record": "200",
+      "independently_identified_complete_beats": 9
+    }
+  ],
+  "global_intervals_independently_reconstructed": 73
+}

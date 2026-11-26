@@ -1,0 +1,6 @@
+{
+  "panel": "uniform GPU training",
+  "archived_CPU_seed1_comparison": "different fitted weights; primary-benchmark seed1 is verified in the mixed replay",
+  "number_of_scored_fivefold_ensembles": 12,
+  "source_records": 45
+}

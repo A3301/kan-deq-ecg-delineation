@@ -1,0 +1,5 @@
+arm,seed,records,fold_record_evaluations,median_final_iterations,p25_final_iterations,p75_final_iterations,cap_30,cap_30_above_equal_tolerance,median_final_max_relative_residual
+DEQ,1,2398,11990,26.0,21.0,30.0,5107,4921,0.0009570426191202999
+DEQ,2,2398,11990,27.0,22.0,30.0,5383,5183,0.00096732127713035
+Twin8,1,2398,11990,8.0,8.0,8.0,0,0,0.06709174439311019
+Twin8,2,2398,11990,8.0,8.0,8.0,0,0,0.08087383210659024

@@ -1,0 +1,24 @@
+{
+  "python": "3.12.10",
+  "os": "Windows-11-10.0.26300-SP0",
+  "pytorch": "2.11.0+cu128",
+  "numpy": "2.5.5",
+  "scipy": "1.18.1",
+  "wfdb": "5.0.0",
+  "cuda_runtime": "12.8",
+  "gpu_name": "NVIDIA GeForce RTX 5070 Ti",
+  "new_fits": 60,
+  "new_training_steps": 144000,
+  "checkpoint_files": 120,
+  "ensembles": 24,
+  "all_floating_checkpoint_tensors_finite": true,
+  "held_out_participants": 41,
+  "validation_fold_sizes": [
+    33,
+    32,
+    32,
+    32,
+    30
+  ],
+  "archived_seed1_anchor_max_abs_pp": 0.004766086133301428
+}

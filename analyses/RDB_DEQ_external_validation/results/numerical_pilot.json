@@ -1,0 +1,250 @@
+[
+  {
+    "arm": "DEQ",
+    "seed": 1,
+    "parameters": 103348,
+    "weights": {
+      "lr1e-3_deq_f0_s1.pt": "e49997b32d653b41b42b1a70a6e76ee90d8c089bdff81b59a95282a09068b842",
+      "lr1e-3_deq_f1_s1.pt": "02d16e2ef5fd78d3744dd6465a1ef0d7b4387f2c802f53c81033c829306505ca",
+      "lr1e-3_deq_f2_s1.pt": "92c0a451561d7373eb7dd38c3791c7eefd46c02bf51d56c2252b8164a477a743",
+      "lr1e-3_deq_f3_s1.pt": "224dc22e7287c324fa54d4fcdadb0cbfe76e84a67d467a70ac2c9aa3f7366d4a",
+      "lr1e-3_deq_f4_s1.pt": "b7f9be37eb7a7082b3d4df942c2bfb879eb030f69e4589387582ab27129cf06f"
+    },
+    "pilot": [
+      {
+        "record": "AFIB0114",
+        "max_probability_error": 0.0,
+        "different_class_samples": 0,
+        "n_iter_5_folds": [
+          27,
+          30,
+          30,
+          30,
+          30
+        ]
+      },
+      {
+        "record": "AF0173",
+        "max_probability_error": 0.0,
+        "different_class_samples": 0,
+        "n_iter_5_folds": [
+          30,
+          30,
+          30,
+          30,
+          30
+        ]
+      },
+      {
+        "record": "AF0056",
+        "max_probability_error": 0.0,
+        "different_class_samples": 0,
+        "n_iter_5_folds": [
+          27,
+          30,
+          30,
+          30,
+          30
+        ]
+      },
+      {
+        "record": "ST0033",
+        "max_probability_error": 0.0,
+        "different_class_samples": 0,
+        "n_iter_5_folds": [
+          16,
+          21,
+          23,
+          18,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "arm": "DEQ",
+    "seed": 2,
+    "parameters": 103348,
+    "weights": {
+      "lr1e-3_deq_f0_s2.pt": "32914d3091705d2ed4171fefbaddf54e3c19f137300d115603b2a3c8e7f9a103",
+      "lr1e-3_deq_f1_s2.pt": "46c6a928cc6adde61834de643d9d472cfb556f4d178ef6fa260388ce9484887f",
+      "lr1e-3_deq_f2_s2.pt": "96c37b11eb7fc7631edc7813ebcb901e6a1243ada49ad55b306ef49faba28ffa",
+      "lr1e-3_deq_f3_s2.pt": "7d53b147c237242c7a5f7502fd74bdc582cadd7238af9e474a0dd85396d99d71",
+      "lr1e-3_deq_f4_s2.pt": "47a088ec46e0ec00d664c7948d99385bc9d5b9587abd8e36c14ea412b4a809a3"
+    },
+    "pilot": [
+      {
+        "record": "AFIB0114",
+        "max_probability_error": 0.0,
+        "different_class_samples": 0,
+        "n_iter_5_folds": [
+          30,
+          30,
+          30,
+          30,
+          30
+        ]
+      },
+      {
+        "record": "AF0173",
+        "max_probability_error": 0.0,
+        "different_class_samples": 0,
+        "n_iter_5_folds": [
+          30,
+          30,
+          30,
+          30,
+          30
+        ]
+      },
+      {
+        "record": "AF0056",
+        "max_probability_error": 0.0,
+        "different_class_samples": 0,
+        "n_iter_5_folds": [
+          30,
+          30,
+          26,
+          30,
+          30
+        ]
+      },
+      {
+        "record": "ST0033",
+        "max_probability_error": 0.0,
+        "different_class_samples": 0,
+        "n_iter_5_folds": [
+          21,
+          23,
+          20,
+          19,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "arm": "Twin8",
+    "seed": 1,
+    "parameters": 103348,
+    "weights": {
+      "lr3e-3_deq_unrolled_f0_s1.pt": "527a797906488254dacfd797252c6e9e088be25862b0bdc4f79611d351f3e754",
+      "lr3e-3_deq_unrolled_f1_s1.pt": "d0f79392f7e1a373ddd0f977a9b4c4b29f0d9464e9908009566a5dd0e26e7f58",
+      "lr3e-3_deq_unrolled_f2_s1.pt": "ad0dbed77d8824e55fa3dff6e052df32aa4df036ff6c1e399d3c85208dfb14bf",
+      "lr3e-3_deq_unrolled_f3_s1.pt": "3857267fb08ba5e7adeb3d0beea6099db51f9d9ac70344e294b80201abf52290",
+      "lr3e-3_deq_unrolled_f4_s1.pt": "178ec4c9e521fc636f70c77a16aadfedde5982c7b5560ad4c7d85028269c6449"
+    },
+    "pilot": [
+      {
+        "record": "AFIB0114",
+        "max_probability_error": 0.0,
+        "different_class_samples": 0,
+        "n_iter_5_folds": [
+          8,
+          8,
+          8,
+          8,
+          8
+        ]
+      },
+      {
+        "record": "AF0173",
+        "max_probability_error": 0.0,
+        "different_class_samples": 0,
+        "n_iter_5_folds": [
+          8,
+          8,
+          8,
+          8,
+          8
+        ]
+      },
+      {
+        "record": "AF0056",
+        "max_probability_error": 0.0,
+        "different_class_samples": 0,
+        "n_iter_5_folds": [
+          8,
+          8,
+          8,
+          8,
+          8
+        ]
+      },
+      {
+        "record": "ST0033",
+        "max_probability_error": 0.0,
+        "different_class_samples": 0,
+        "n_iter_5_folds": [
+          8,
+          8,
+          8,
+          8,
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "arm": "Twin8",
+    "seed": 2,
+    "parameters": 103348,
+    "weights": {
+      "lr3e-3_deq_unrolled_f0_s2.pt": "7c881eb68371cedc4beea36ed32c3d27525543950636c1000227b1e348dd4ec6",
+      "lr3e-3_deq_unrolled_f1_s2.pt": "edae6cdc2dc3598df67de7acb7003fd036de541dc7f91657c7b974e57e8ab6d7",
+      "lr3e-3_deq_unrolled_f2_s2.pt": "c80ff09f01fe631184f711f419707ce3fad9fdd27bf60bc91009c91c79077090",
+      "lr3e-3_deq_unrolled_f3_s2.pt": "9e98fc5dcb9606228533fb95d3a3875fa49f05a1488e6922f3943b30289973e2",
+      "lr3e-3_deq_unrolled_f4_s2.pt": "03d1e6fc1bf54a86fed30b6620406bad6d1fcca6df7d13e5e954652aa73433b6"
+    },
+    "pilot": [
+      {
+        "record": "AFIB0114",
+        "max_probability_error": 0.0,
+        "different_class_samples": 0,
+        "n_iter_5_folds": [
+          8,
+          8,
+          8,
+          8,
+          8
+        ]
+      },
+      {
+        "record": "AF0173",
+        "max_probability_error": 0.0,
+        "different_class_samples": 0,
+        "n_iter_5_folds": [
+          8,
+          8,
+          8,
+          8,
+          8
+        ]
+      },
+      {
+        "record": "AF0056",
+        "max_probability_error": 0.0,
+        "different_class_samples": 0,
+        "n_iter_5_folds": [
+          8,
+          8,
+          8,
+          8,
+          8
+        ]
+      },
+      {
+        "record": "ST0033",
+        "max_probability_error": 0.0,
+        "different_class_samples": 0,
+        "n_iter_5_folds": [
+          8,
+          8,
+          8,
+          8,
+          8
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+Reverse training-source sensitivity analysis
+
+Start in the directory containing this file. The protocol predates all six fits. The package contains the preprocessed RDB inputs and labels, the fixed 1,918/480 RDB partition, the original 41 LUDB test recordings and split, all six newly trained checkpoints, and event counts. No pretrained LUDB weights are used in this experiment. The RDB subjects are source ECGs. Different source ECGs cannot be certified to originate from different patients.
+
+Recalculate the external scores using the supplied models (CPU):
+  python test_ludb.py inputs/LUDB inputs/splits.json
+
+Retrain all models from the packaged RDB arrays (a CUDA-capable GPU is required by train.py):
+  First make a new extraction of this package, rename its models directory to archived_models, then run:
+  python train.py
+  python test_ludb.py inputs/LUDB inputs/splits.json
+  The training program recognizes completed runs and checks their protocol and weight hashes. Rename models in a copy if fresh independent fits are desired. Checkpoint selection minimizes validation cross-entropy over six candidates. A GPU environment, driver or library change can alter trained parameters. The supplied checkpoint replay is the reference.
+
+Optional RDB reconstruction and independent QC from the original public release:
+  python get_rdb.py
+  python prepare.py raw/RDB.dataset.zip raw/rdmap.xlsx
+  python verify.py raw/RDB.dataset.zip inputs/LUDB inputs/splits.json
+  The download is approximately 212 MB. The archive files and prepared arrays have SHA-256 checksums. The independent verification directly reconstructs five representative intervals/recordings in native sample coordinates and checks all six validation choices and the primary numerical estimates.
+
+Training environment: Windows, Python and package versions in models/*_1.json, PyTorch 2.11.0+cu128, CUDA 12.8, GeForce RTX 5070 Ti. Data preparation and CPU scoring used Python 3.12, NumPy 2.5.3, pandas 3.0.6, SciPy 1.18.1, WFDB 4.3.0, openpyxl, and CPU PyTorch 2.14.1. Source code requires Python 3.11 or later. model.py reproduces the original encoder/decoder and head definitions. The two arms in each paired seed have byte-identical initial encoder/decoder states and matched crop draws, verified in selected_checkpoints.csv. The initialization and minibatch schedules, validation scores, code and data hashes and final weight hashes are recorded in models/*.json. Confidence intervals resample test participants jointly across all six fits and condition on these three realized seeds.
+
+Source and licences. The Resting ECG Segmentation Dataset v4 is by Yuhang Liu, Peng Zhang and Fan Lin (2026), https://doi.org/10.6084/m9.figshare.28892186.v4, released under CC BY 4.0, https://creativecommons.org/licenses/by/4.0/. The package supplies a derived single-lead, resampled, filtered and normalised representation and rasterised labels, plus original record identifiers. The included LUDB v1.0.1 recordings are described by A. I. Kalyakulina et al., IEEE Access 8 (2020) 186181–186190, https://doi.org/10.1109/ACCESS.2020.3029211, with the dataset at https://physionet.org/content/ludb/1.0.1/. The original 12-lead files and lead-II annotations for the 41 original test IDs are supplied unchanged with the original Open Data Commons Attribution License in inputs/LUDB/LICENSE.txt. The source dataset documentation is supplied alongside the signals. Other people or institutions do not endorse this reanalysis.

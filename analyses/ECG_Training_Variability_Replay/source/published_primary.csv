@@ -1,0 +1,7 @@
+hypothesis,A,B,params A,params B,mean F1 A,mean F1 B,diff [95% CI],non-inferior (lower CI > -1.0)
+H1,U-Net-KAN,U-Net,407828,308772,97.50,97.19,"0.31 [0.01, 0.71]",yes
+H1,ConvKAN,U-Net,166118,308772,96.64,97.19,"-0.56 [-1.60, 0.56]",no
+H1,U-Net-KAN,CNN-BiLSTM,407828,224324,97.50,97.44,"0.06 [-0.35, 0.48]",yes
+H1,ConvKAN,CNN-BiLSTM,166118,224324,96.64,97.44,"-0.81 [-1.72, 0.01]",no
+H2b,DEQ (implicit),DEQ-unrolled,103348,103348,97.49,97.89,"-0.40 [-0.84, -0.07]",yes
+H2b,DEQ (implicit),Explicit stack,103348,145300,97.49,97.71,"-0.22 [-0.59, 0.09]",yes

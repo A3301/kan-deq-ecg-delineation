@@ -1,0 +1,8 @@
+n records 41
+spearman hf vs qrs_ms: rho=-0.497 p=0.0010
+spearman iters vs qrs_ms: rho=0.496 p=0.0010
+spearman iters vs hf: rho=-0.503 p=0.0008
+spearman hf vs mae: rho=-0.380 p=0.0141
+spearman iters vs mae: rho=0.796 p=0.0000
+spearman mae vs qrs_ms: rho=0.603 p=0.0000
+median share of 15-40 Hz energy inside reference QRS spans: 0.902 (QRS occupies 0.123 of samples)

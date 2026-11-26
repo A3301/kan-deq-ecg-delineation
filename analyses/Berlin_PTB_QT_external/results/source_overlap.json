@@ -1,0 +1,25 @@
+{
+  "RDB": {
+    "reference_records": 2398,
+    "ptb_clips": 549,
+    "pairs_examined": 1316502,
+    "max_abs_aligned_r": 0.8231504890675949,
+    "pairs_r_ge_0_98": 0
+  },
+  "ISP": {
+    "reference_records": 475,
+    "ptb_clips": 549,
+    "pairs_examined": 260775,
+    "max_abs_aligned_r": 0.6604880108525114,
+    "pairs_r_ge_0_98": 0
+  },
+  "LUDB": {
+    "reference_records": 200,
+    "ptb_clips": 549,
+    "pairs_examined": 109800,
+    "max_abs_aligned_r": 0.7461436873977947,
+    "pairs_r_ge_0_98": 0
+  },
+  "note": "Aligned central 9-s absolute Pearson correlation after common filtering and 50-Hz resampling. Different segments, staggered traces or different visits may not match. Public records do not permit identity linkage.",
+  "rdb_array_sha256": "a5864be356c56a403302dbf2756412fecfc8f49a913cb4dd458b44c4e2dcccf9"
+}

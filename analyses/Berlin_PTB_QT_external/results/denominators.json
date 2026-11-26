@@ -1,0 +1,33 @@
+{
+  "eligible_records": 548,
+  "eligible_patients": 289,
+  "released_records": 549,
+  "released_patients": 290,
+  "common_records": 547,
+  "common_patients": 289,
+  "eligible_records_per_patient": {
+    "1": 176,
+    "2": 27,
+    "3": 32,
+    "4": 50,
+    "5": 3,
+    "7": 1
+  },
+  "reference_QT_ms_quantiles": {
+    "min": 247.0,
+    "q25": 351.0,
+    "median": 375.0,
+    "q75": 404.0,
+    "max": 540.0
+  },
+  "final_reader_range_quartiles_ms": [
+    4.0,
+    17.0,
+    24.0,
+    31.0,
+    84.0
+  ],
+  "final_reader_range_mean_ms": 25.368613138686133,
+  "bootstrap_draws": 10000,
+  "bootstrap_seed": 20261125
+}

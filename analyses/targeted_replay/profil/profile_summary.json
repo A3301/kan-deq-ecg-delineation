@@ -1,0 +1,131 @@
+{
+  "cpu": "Intel(R) Core(TM) i9-14900K",
+  "physical_cores": 24,
+  "logical_cores": 32,
+  "ram_gib": 31.714515686035156,
+  "os": "Windows-11-10.0.26300-SP0",
+  "python": "3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)]",
+  "torch": "2.14.1+cpu",
+  "numpy": "2.5.3",
+  "wfdb": "4.3.0",
+  "scipy": "1.18.1",
+  "torch_threads": 1,
+  "torch_interop_threads": 1,
+  "mkldnn": true,
+  "affinity": {
+    "logical_cpu": 12,
+    "physical_core_siblings": [
+      12,
+      13
+    ],
+    "windows_efficiency_class": 1,
+    "pre_run_logical_busy_pc": [
+      27.3,
+      0.0,
+      20.3,
+      0.0,
+      21.4,
+      0.0,
+      26.4,
+      0.0,
+      21.7,
+      0.0,
+      12.5,
+      0.0,
+      7.8,
+      0.0,
+      1.5,
+      39.1,
+      6.2,
+      7.8,
+      3.9,
+      0.0,
+      7.0,
+      0.8,
+      2.3,
+      0.8,
+      3.9,
+      1.6,
+      2.3,
+      0.0,
+      3.1,
+      0.7,
+      0.8,
+      7.8
+    ]
+  },
+  "parameters": {
+    "DEQ": 103348,
+    "Unrolled8": 103348,
+    "Unrolled18": 103348
+  },
+  "rng_seed": 20261125,
+  "start": "2026-11-25T19:58:52.997977+03:00",
+  "end": "2026-11-25T19:59:04.187925+03:00",
+  "warmup_per_model": 6,
+  "rounds": 5,
+  "n_calls": 615,
+  "load": [
+    {
+      "round": 1,
+      "host_busy_pc": 9.2,
+      "process_busy_pc_one_core": 95.0
+    },
+    {
+      "round": 2,
+      "host_busy_pc": 10.5,
+      "process_busy_pc_one_core": 95.7
+    },
+    {
+      "round": 3,
+      "host_busy_pc": 8.5,
+      "process_busy_pc_one_core": 96.4
+    },
+    {
+      "round": 4,
+      "host_busy_pc": 9.8,
+      "process_busy_pc_one_core": 99.3
+    },
+    {
+      "round": 5,
+      "host_busy_pc": 9.3,
+      "process_busy_pc_one_core": 97.8
+    }
+  ],
+  "hashes": {
+    "lr1e-3_deq_f0_s1.pt": "e49997b32d653b41b42b1a70a6e76ee90d8c089bdff81b59a95282a09068b842",
+    "lr3e-3_deq_unrolled_f0_s1.pt": "527a797906488254dacfd797252c6e9e088be25862b0bdc4f79611d351f3e754",
+    "s5u18_deq_unrolled_f0_s1.pt": "2aa291c6d0d6d4f0427202e1a8c2a801aca2af256008cf9b7d195f5b220b8a35",
+    "models.py": "405f21bad7b6df0f3609a1f18cc6c8042d929c50ad79b893dd772468e5f3ff7b",
+    "splits.json": "c4da0953c17dbf1d6695da97d6247c0691fa033bbe88de5c59845b52000113b4",
+    "chosen_lr.json": "c3b07f7614cc365b90b58bfa2a0a5525d93dd3997141df443a5bdf2b73b6de0b"
+  },
+  "metrics": {
+    "DEQ": {
+      "median_ms": 21.6861,
+      "p95_ms": 36.104,
+      "min_ms": 18.774,
+      "max_ms": 36.633
+    },
+    "Unrolled8": {
+      "median_ms": 10.0897,
+      "p95_ms": 10.6177,
+      "min_ms": 9.901,
+      "max_ms": 10.872
+    },
+    "Unrolled18": {
+      "median_ms": 18.2317,
+      "p95_ms": 18.8581,
+      "min_ms": 17.7028,
+      "max_ms": 19.2914
+    },
+    "DEQ_iterations": {
+      "median": 17.0,
+      "p95": 30.0,
+      "max": 30,
+      "min": 15
+    }
+  },
+  "metric_definition": "median of 5 repeat forward calls per record, then median and linear 95th percentile across 41 distinct records",
+  "model_scope": "default fold-0 seed-1 eval() forward under no_grad, CPU float32; preloaded; batch=1; DEQ original solver; original explicit twin additional diagnostic residual block evaluation included"
+}

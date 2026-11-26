@@ -1,0 +1,2 @@
+# keep every file byte-identical so the SHA256SUMS lists stay valid on all platforms
+* -text

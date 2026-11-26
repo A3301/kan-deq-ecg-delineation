@@ -1,0 +1,6 @@
+After inspecting the matched KAN-head and GELU-head intervention on lead II, we
+added a bridge to the earlier all-lead intervention in the full U-Net-KAN. We ran
+the same lead-II channel selection, intervention and endpoint on the complete
+bottleneck-and-head model in both stored seeds. This subsequent exploratory
+comparison aligns lead, evaluation rule and folds across designs. The networks
+were trained separately, so no isolated causal effect of the bottleneck is inferred.

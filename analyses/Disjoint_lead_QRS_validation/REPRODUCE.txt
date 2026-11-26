@@ -1,0 +1,21 @@
+Disjoint-lead adult QRS sensitivity analysis. Requires the parent Multilead_LUDB_validation.zip.
+Parent archive SHA256: 9e4ed873e0f7601bee2a8991dfa6d814ffd529f4d8262d76e0069afadbcb6b65
+Prespecified follow-up protocol SHA256: e5752788c4827d12e6f50bed563a2668fa4b611e74e7eaeE5459e698cb8001aa (case-insensitive).
+Native LUDB release: https://physionet.org/content/ludb/1.0.1/ and https://doi.org/10.13026/eegm-h675, Kalyakulina et al.; database made available under ODC-By 1.0. Data article DOI 10.1109/ACCESS.2020.3029211. Parent archive provides licence, citations and public source download instructions. No raw waveforms or source headers are in this add-on.
+
+Extract the parent ZIP to DIRECTORY, including the Python scripts and outputs/. Extract this add-on in a separate folder. Use the parent's dependencies and, from the add-on folder, execute:
+  python disjoint_leads.py --parent DIRECTORY
+  python verify.py --parent DIRECTORY
+
+The bundled eligibility table, derived solely from age in the public fixed headers, identifies adult records. To reconstruct it after running the parent's raw-data preparation:
+  python disjoint_leads.py --parent DIRECTORY --refresh-headers DIRECTORY/raw
+
+Source input integrity, landmark grouping, matching, numeric outputs and the parent archive identity are documented in protocol.txt, results/qa.json and SHA256SUMS.txt. The frozen models and their masks in the parent archive are reused. No weights are altered. The selected numerical endpoints were recorded before this analysis, after the full-12-lead results. More-negative signed error means greater underestimation. The width threshold is descriptive and is not a diagnosis.
+
+results/beat_reference.csv  One pair of manually derived limb/precordial reference envelopes for each retained beat.
+results/events.csv.gz        One eligible reference event per head/seed/direction, including missing model outputs. All time fields in ms.
+results/matching.csv         Predicted/ref/matched counts and unmatched extra predictions by adult, seed, head and direction. Extras cannot be assigned to a reference-defined width stratum.
+results/adult_counts.csv     Additive success/error counts per contributing adult and stratum.
+results/by_seed.csv          Coverage, denominator, duration, error and number of participants for each of six fits.
+results/summary.csv          Fixed-seed mean metrics, within-head wide-minus-narrow contrasts and joint participant bootstrap intervals (10,000 replicates).
+S10_insert.txt               Text and corresponding table entries for Supplementary Section S10.

@@ -1,0 +1,37 @@
+{
+  "unet_kan": {
+    "reference_published_rounded": 97.5,
+    "rerun_exact": 97.5024798971023,
+    "difference_pp": 0.0024798971023045624
+  },
+  "unet": {
+    "reference_published_rounded": 97.19,
+    "rerun_exact": 97.1947660861333,
+    "difference_pp": 0.004766086133301428
+  },
+  "convkan": {
+    "reference_published_rounded": 96.64,
+    "rerun_exact": 96.6366144515696,
+    "difference_pp": -0.003385548430401286
+  },
+  "cnn_bilstm": {
+    "reference_published_rounded": 97.44,
+    "rerun_exact": 97.4431666003203,
+    "difference_pp": 0.003166600320298585
+  },
+  "deq": {
+    "reference_published_rounded": 97.49,
+    "rerun_exact": 97.49105083311304,
+    "difference_pp": 0.0010508331130409942
+  },
+  "deq_unrolled": {
+    "reference_published_rounded": 97.89,
+    "rerun_exact": 97.887828751355,
+    "difference_pp": -0.0021712486449985136
+  },
+  "explicit_stack": {
+    "reference_published_rounded": 97.71,
+    "rerun_exact": 97.71152553109248,
+    "difference_pp": 0.001525531092482879
+  }
+}

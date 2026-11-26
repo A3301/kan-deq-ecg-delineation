@@ -1,0 +1,15 @@
+{
+  "weights": {
+    "lr3e-3_unet_kan_f0_s2.pt": "c47e34fe0c58e71b372c9e00ad1e4d3903760d85df3970375f6f923c3af36e68",
+    "lr3e-3_unet_kan_f1_s2.pt": "6bb8f9ee998845666f975ad5c48157fb6796763872832e241081e2e5e1ccac47",
+    "lr3e-3_unet_kan_f2_s2.pt": "7768eaa431d8d06a29eedc2b0b5b0ce6c83428ed1fa013d69af25fcaf98f5cc7",
+    "lr3e-3_unet_kan_f3_s2.pt": "45e4de98d24c9eb99c18e47ab961df76b6e9467a686651b7ff02b7144bcc1de2",
+    "lr3e-3_unet_kan_f4_s2.pt": "61cb870f91ce81b79f358130d28bf466189609e1e2b17d58258bffd138a7a55d"
+  },
+  "mask_sha256": "3a7f06883d4d3f42aed3e94ea2577f7d4322bf5054fad2cdf5cfbd295c708f30",
+  "single_vs_batch_max_probability_error": 2.384185791015625e-07,
+  "single_vs_batch_label_difference": 0,
+  "parameters": 407828,
+  "record_count": 2398,
+  "torch": "2.14.1+cpu"
+}

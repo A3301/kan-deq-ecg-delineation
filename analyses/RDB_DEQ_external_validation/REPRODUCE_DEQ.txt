@@ -1,0 +1,16 @@
+External RDB v4 evaluation of the DEQ and its eight-step twin
+
+This accompanying to RDB_external_validation.zip is self-contained apart from two public source files. The included 20 frozen checkpoints contain the original LUDB-only fitted parameters. All checks use the same 2,398 source recordings from RDB v4, fixed lead II and original training seeds 1 and 2. Run these commands inside the unzipped folder in a Python environment with the versions listed in environment.json. The data and original reference annotation files are available under CC BY 4.0.
+
+python acquire_rdb.py
+python rdb_external.py --rdb data/dataset.zip --mapping data/rdb_chapman_mapping.xlsx --weights weights --out cohort --stage prepare
+python deq_rdb.py --cohort cohort --weights weights --out rerun --jobs 4
+python verify_deq.py --out rerun --rdb data/dataset.zip
+
+The published data are Liu Y, Zhang P, Lin F, Resting ECG Segmentation Dataset v4. https://doi.org/10.6084/m9.figshare.28892186.v4 . The segmentation study is Liu et al., Expert Systems with Applications, 2025, article 127955. https://doi.org/10.1016/j.eswa.2025.127955 .
+
+The solver stopping rule uses the maximum relative residual of the current batch. Each individual model receives the two windows of a single ECG together. Separate worker processes parallelize independent source recordings without batch mixing. The eight-step network uses eight shared-weight iterations. A final residual diagnostic uses one further function evaluation that does not change the output iterate. Model diagnostics give the actual solver-loop count for both windows together and the larger final window residual. The iteration cap is 30. A record-fold run at the cap can have just satisfied the tolerance at its last step. The diagnostic summary identifies cap runs whose final maximum residual was still at or above 0.001.
+
+The primary-benchmark code divides the difference norm by the norm of the function output for Anderson and by the norm of the returned state for the twin, each with a small stabilizer. Use the DEQ residual to interpret its stopping threshold. The accompanying rhythm summaries describe the fitted solver's behavior in the empirical cohort and weight the five fold models equally.
+
+Results are in the results folder. deq_comparison.csv reports mean macro-F1 and each endpoint's cohort-pooled F1 (percentage units), averaged across two training seeds, with paired uncertainty from 2,000 stratified source-record bootstrap draws. deq_seeds.csv retains each training seed separately. deq_record_scores.csv provides all per-record, endpoint, seed, model and tolerance TP/FP/FN counts and timing error sums. solver_diagnostics.csv gives one observation per model, training seed, validation fold and source recording. independent_count_check.json documents a separate raw-label/segmentation-mask reconstruction. numerical_pilot.json records exact original-versus-reexpressed inference differences for four selected records together with input weight hashes and parameter counts. Inference can restart from completed parts in an interrupted run. Use a fresh output folder to reproduce the full study from scratch.

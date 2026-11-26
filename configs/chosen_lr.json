@@ -1,0 +1,10 @@
+{
+ "unet": "1e-3",
+ "cnn_bilstm": "3e-3",
+ "transformer": "3e-3",
+ "unet_kan": "3e-3",
+ "convkan": "3e-3",
+ "explicit_stack": "3e-3",
+ "deq_unrolled": "3e-3",
+ "deq": "1e-3"
+}

@@ -1,0 +1,31 @@
+External evaluation of frozen ECG delineation models on RDB v4
+
+Data and reference provenance
+Liu Y, Zhang P, Lin F. Resting ECG Segmentation Dataset, version 4, Figshare, 2026. https://doi.org/10.6084/m9.figshare.28892186.v4 . CC BY 4.0. Raw waveforms are a subset of the ChapmanECG arrhythmia database. Liu Y et al. Y-Net-ECG: A Multi-Lead informed and interpretable architecture for ECG segmentation across diverse rhythms. Expert Systems with Applications 2025;283:127955. https://doi.org/10.1016/j.eswa.2025.127955 . The release attributes boundary placement to physicians with senior cardiologist review. Its twelve lead files are byte-identical in 1,715/2,398 retained records. Use the fixed lead-II view for the reported experiment.
+
+The accompanying archive provides the fitted project checkpoints used in these experiments (40 files), the model definitions, full record-level count data, numerical summary tables and design specifications. The large raw dataset can be retrieved from the official provider. All four model families were trained on LUDB for this contrast. Other project models trained using RDB were excluded. In the training implementation, extra datasets are added only with --multi or --xdb_qtdb; the selected checkpoint arguments enable neither option. Architecture comparisons condition on two fitted seeds, five folds per training seed; experiment replicates are not independent cohorts.
+
+Use a Python 3.12 environment with numpy, pandas, scipy, torch (CPU), and openpyxl. Exact versions in environment.json. Start in the folder containing this file. These are independent terminal commands, in order:
+
+python acquire_rdb.py
+python rdb_external.py --rdb data/dataset.zip --mapping data/rdb_chapman_mapping.xlsx --weights weights --out rerun
+python summarize_rdb.py --out rerun
+python rdb_stage1.py --weights weights --out rerun
+python verify_counts.py --rdb data/dataset.zip --out rerun
+
+protocol.txt and stage1_addendum.txt record the local design decisions before performance statistics were calculated. Both use the full cohort, the same original weights across records and a fixed definition of valid measurement scope. Re-running into an empty directory ensures a fresh inference pass. If continuing an interrupted run, completed mask files with corresponding checks are reused. Floating point differences between PyTorch builds and CPU architectures may affect exceptional near-ties.
+
+Tables in results/:
+comparison.csv: primary matched-head contrast, F1 and paired 95% bootstrap intervals in percentage units.
+stage1_comparison.csv: secondary comparison of the original full U-Net-KAN and U-Net, same units.
+record_scores.csv and stage1_record_scores.csv: true positives, false positives, false negatives, summed absolute and signed error (ms), one row per eligible record / model / seed / endpoint / tolerance.
+af_flutter_p_detections.csv: descriptive unmatched P-onset counts and rates among 800 atrial fibrillation/flutter records with zero P-onset references.
+rhythm_performance.csv: matched-head performance within each original Chapman rhythm label. The F1 field is blank if there are no reference events for that rhythm and endpoint.
+seed_performance.csv and stage1_seeds.csv: separate point estimates by fitted seed.
+cohort.csv: all 2,399 release IDs, source mapping, common exclusions, span, lead-II waveform hash, annotation QC and event denominators.
+qc_summary.json: reference and cohort accounting.
+checks_*.json: recorded input weight hashes, model parameter counts and a numerical check of batched inference against the original single-record implementation.
+independent_count_audit.json: a second implementation checks TP/FP/FN directly from raw lead-II labels and frozen masks on six source recordings per rhythm (48 recordings in total).
+input_sha256.json: the locally verified input hashes. The archived local filenames RDB.dataset.zip and rdmap.xlsx correspond to the official dataset.zip and rdb_chapman_mapping.xlsx, respectively. Public publisher checksums: 15edc780ac478b3d723fcec84f23c9a0 and 9c67ed075e126a39db90bc8b07a9609b (MD5).
+
+In both comparisons, macro-F1 is the unweighted arithmetic mean of six pooled boundary F1 values, then averaged over fitted seeds. It is not a mean over ECG-wise F1 values; a zero-reference record contributes false positives. CI coverage is conditional on the fixed eight-rhythm proportions and training seeds. Repeated patient IDs cannot be checked from the supplied RDB-to-Chapman mapping.

@@ -1,0 +1,63 @@
+{
+  "title": "<b>Resting ECG Segmentation Dataset</b>",
+  "doi": "10.6084/m9.figshare.28892186.v4",
+  "version": 4,
+  "published_date": "2026-08-21T10:41:28Z",
+  "authors": [
+    {
+      "id": 21210833,
+      "full_name": "Yuhang Liu",
+      "first_name": "Yuhang",
+      "last_name": "Liu",
+      "is_active": true,
+      "url_name": "Yuhang_Liu",
+      "orcid_id": "0000-0003-1343-8151"
+    },
+    {
+      "id": 21254744,
+      "full_name": "Peng Zhang",
+      "first_name": "Peng",
+      "last_name": "Zhang",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": "0000-0002-8628-2074"
+    },
+    {
+      "id": 20423376,
+      "full_name": "Fan Lin",
+      "first_name": "Fan",
+      "last_name": "Lin",
+      "is_active": false,
+      "url_name": "_",
+      "orcid_id": "0000-0003-1577-3287"
+    }
+  ],
+  "license": {
+    "value": 1,
+    "name": "CC BY 4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "files": [
+    {
+      "id": 54060602,
+      "name": "dataset.zip",
+      "size": 211486805,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/54060602",
+      "supplied_md5": "15edc780ac478b3d723fcec84f23c9a0",
+      "computed_md5": "15edc780ac478b3d723fcec84f23c9a0",
+      "mimetype": "application/zip"
+    },
+    {
+      "id": 67725117,
+      "name": "rdb_chapman_mapping.xlsx",
+      "size": 64214,
+      "is_link_only": false,
+      "download_url": "https://ndownloader.figshare.com/files/67725117",
+      "supplied_md5": "9c67ed075e126a39db90bc8b07a9609b",
+      "computed_md5": "9c67ed075e126a39db90bc8b07a9609b",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    }
+  ],
+  "url_public_html": "https://figshare.com/articles/dataset/_b_Resting_ECG_Segmentation_Dataset_b_/28892186/4"
+}

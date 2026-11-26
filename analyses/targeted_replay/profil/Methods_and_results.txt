@@ -1,0 +1,30 @@
+Second-processor assessment of inference latency and training memory
+25 November 2026
+
+Methods
+
+We ran the original fold-0, seed-1 DEQ and its independently trained eight- and 18-step weight-tied twins on a Windows 11 Pro workstation with an Intel Core i9-14900K (24 physical cores, 32 logical processors). Each model had 103,348 trainable parameters. The two primary checkpoints used the archived validation-selected learning rates, 0.001 for DEQ and 0.003 for the eight-step twin. The 18-step twin used its dedicated trained checkpoint. Original model definitions and weights were loaded with strict state-dictionary matching on the CPU. The workstation used the Balanced power plan and PyTorch 2.14.1+cpu.
+
+We used lead II from each of the 41 subjects in the archived LUDB test split. The 10-s recordings were downsampled to 250 Hz, band-pass filtered (0.5–40 Hz), normalized by the median and scaled interquartile range, and right-padded with 12 zeros to 2,512 samples. The benchmark timed only the forward pass on each preloaded float32 tensor, excluding signal preparation, file access and post-processing. In evaluation mode, the original DEQ solver used its default relative tolerance of 0.001 and a 30-step cap. Each forward pass contained one lead from one record. The explicit twins retained the original diagnostic residual evaluation after their prescribed update steps.
+
+One PyTorch intra-op thread and one inter-op thread were used. The process ran on one performance-class logical CPU selected from a two-second load sample before timing. We made six warm-up calls per model. In each of five rounds, both the order of the 41 records and the order of the three models within each record were randomized using a fixed seed. For each record and model we took the median of five elapsed wall-clock times. Reported quantiles summarize those 41 per-record medians. Overall host CPU use was 8.5–10.5% during the five measurement rounds. The concurrent RDB inference run had finished before latency timing.
+
+Using the original study's training-memory procedure, each architecture was reinitialized from a fixed seed in three fresh Windows processes. Each process used six PyTorch CPU threads and performed five AdamW updates with a synthetic batch of 32 single-channel sequences of 1,024 samples. The increase was the process peak working set after the fifth update minus the resident working set immediately before the updates. We report the median over three processes in MiB (1 MiB = 1,048,576 bytes). This measures incremental memory under this workload, including the model's training buffers and runtime allocations.
+
+Results
+
+                           DEQ       Eight-step twin       18-step twin
+Latency, median (ms)     21.69              10.09                18.23
+Latency, p95 (ms)        36.10              10.62                18.86
+Training memory (MiB)   140.98             163.65               244.06
+
+The DEQ was slower than both explicit twins on each of the 41 lead-II recordings. Its median iteration count was 17 (range 15–30); five recordings reached the 30-step cap. The DEQ used 13.9% less training memory than the eight-step twin and 42.2% less than the 18-step twin. These results reproduce the direction of the memory–latency trade-off on a second processor. The earlier timing study included all 12 leads, so a direct hardware speedup ratio would mix differences in processor, software and input composition.
+
+Reproduction
+
+The directory resources/ contains the original archived model definitions, chosen learning rates and three checkpoints. The hashes of the source, weights, split and learning-rate configuration are in profile_summary.json. No project-specific trained model executable or pickled per-record analysis was invoked. Model weights were opened with torch.load(weights_only=True) on CPU. The raw LUDB directory should contain the original WFDB .dat and .hea files. splits.json must be the archived subject split.
+
+python measure_latency.py --resources resources --ludb PATH_TO_LUDB --splits PATH_TO_SPLITS_JSON --output .
+python measure_training_memory.py --resources resources --output .
+
+The benchmark uses Python 3.12.10, NumPy 2.5.3, SciPy 1.18.1, wfdb 4.3.0 and psutil 7.2.2. Full processor/thread settings, file hashes, timing definition and load are in profile_summary.json. latency_raw.csv has one row per timed inference call. record_medians.csv has the 41 per-record summaries used for the published quantiles. training_memory_raw.csv records initial and peak process memory in bytes for all nine fresh processes.

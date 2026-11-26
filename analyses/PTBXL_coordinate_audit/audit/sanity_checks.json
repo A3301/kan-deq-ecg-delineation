@@ -1,0 +1,22 @@
+{
+  "calibration_records": 154,
+  "code_repeat_spacing_vs_known_RR": {
+    "1": {
+      "n": 152,
+      "spearman": 0.12069266007516397
+    },
+    "2": {
+      "n": 129,
+      "spearman": 0.03791263852456648
+    },
+    "3": {
+      "n": 151,
+      "spearman": 0.10704721935967217
+    }
+  },
+  "raw_records_with_peak_window_steeper": 154,
+  "raw_records_checked": 154,
+  "raw_R_peaks_checked": 1808,
+  "synthetic_fixture_known_class_grid_offset_recovered": true,
+  "no_RDB_models_loaded_or_scored": true
+}

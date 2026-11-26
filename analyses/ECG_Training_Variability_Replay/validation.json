@@ -1,0 +1,22 @@
+{
+  "sampling_checks": 288,
+  "native_records": 2400,
+  "participants": 200,
+  "independent_check_records": [
+    "14/i",
+    "15/v1",
+    "21/iii"
+  ],
+  "matched_fiducial_count_triplets": 288,
+  "orig_vs_panel_max_cpu_probability_difference": {
+    "cnn_bilstm": 0.0,
+    "transformer": 3.5762786865234375e-07,
+    "convkan": 4.172325134277344e-07,
+    "explicit_stack": 0.0,
+    "unet": 0.0,
+    "unet_kan": 2.980232238769531e-07,
+    "deq_unrolled": 0.0,
+    "deq": 0.0
+  },
+  "probabilistic_tolerance_absolute": 7e-05
+}

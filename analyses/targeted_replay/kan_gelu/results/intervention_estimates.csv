@@ -1,0 +1,15 @@
+head,seed,metric,estimate,lower,upper
+KAN,1,intact,95.19649309,89.60716238,99.24360580
+KAN,1,selected_minus_intact,-0.24460972,-0.96726683,0.34614200
+KAN,1,selected_minus_energy,0.31903876,-1.20502655,1.77342827
+GELU,1,intact,95.60409930,90.86523702,99.29346585
+GELU,1,selected_minus_intact,0.22485888,-0.06215576,0.64358116
+GELU,1,selected_minus_energy,0.08146939,-0.66789369,0.73307909
+KAN minus GELU,1,difference_in_selected_minus_energy,0.23756938,-0.85139153,1.30917652
+KAN,2,intact,95.80170761,91.20212230,99.23836089
+KAN,2,selected_minus_intact,-0.08958568,-0.62078641,0.40586983
+KAN,2,selected_minus_energy,-0.27151995,-0.72312418,0.03110151
+GELU,2,intact,96.16230879,92.44187896,99.02989195
+GELU,2,selected_minus_intact,-2.05700957,-5.61004931,1.36678501
+GELU,2,selected_minus_energy,-2.09526058,-5.04219522,0.81144074
+KAN minus GELU,2,difference_in_selected_minus_energy,1.82374063,-1.28991971,4.83286524

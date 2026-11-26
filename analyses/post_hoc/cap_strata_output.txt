@@ -1,0 +1,16 @@
+<StringArray>
+['DEQ', 'Twin8']
+Length: 2, dtype: str <StringArray>
+['P_on', 'P_off', 'QRS_on', 'QRS_off', 'T_on', 'T_off']
+Length: 6, dtype: str [150  40]
+overall 150 95.594 95.537 0.056
+overall 40 92.381 92.413 -0.033
+records x seeds by number of capped folds: {0: 2069, 1: 292, 2: 237, 3: 385, 4: 882, 5: 931}
+tol 150 stratum none: record-seed pairs 2069, records 1114, DEQ 99.644 twin 99.633 diff +0.011 [-0.007, +0.033] rhythms {'SA': 352, 'SR': 349, 'SB': 299, 'ST': 60, 'SVT': 23, 'AT': 21, 'AF': 10}
+tol 150 stratum some: record-seed pairs 1796, records 1249, DEQ 93.445 twin 93.095 diff +0.350 [-0.119, +0.869] rhythms {'AFIB': 359, 'AF': 319, 'SB': 153, 'ST': 90, 'SVT': 89, 'AT': 87, 'SR': 77, 'SA': 75}
+tol 150 stratum all5: record-seed pairs 931, records 737, DEQ 72.502 twin 74.957 diff -2.455 [-4.455, -0.622] rhythms {'AFIB': 300, 'AF': 249, 'SVT': 68, 'AT': 58, 'ST': 25, 'SB': 20, 'SA': 9, 'SR': 8}
+tol 40 stratum none: record-seed pairs 2069, records 1114, DEQ 99.071 twin 99.028 diff +0.043 [-0.001, +0.085] rhythms {'SA': 352, 'SR': 349, 'SB': 299, 'ST': 60, 'SVT': 23, 'AT': 21, 'AF': 10}
+tol 40 stratum some: record-seed pairs 1796, records 1249, DEQ 89.357 twin 89.036 diff +0.321 [-0.138, +0.841] rhythms {'AFIB': 359, 'AF': 319, 'SB': 153, 'ST': 90, 'SVT': 89, 'AT': 87, 'SR': 77, 'SA': 75}
+tol 40 stratum all5: record-seed pairs 931, records 737, DEQ 65.724 twin 68.216 diff -2.492 [-4.220, -0.719] rhythms {'AFIB': 300, 'AF': 249, 'SVT': 68, 'AT': 58, 'ST': 25, 'SB': 20, 'SA': 9, 'SR': 8}
+
+[exited with code 0]

@@ -1,0 +1,7 @@
+head,seed,metric,estimate,lower,upper
+UNetKAN,1,intact,95.05754296,89.10861593,99.58194477
+UNetKAN,1,selected_minus_intact,-0.48987275,-1.92800948,0.66937146
+UNetKAN,1,selected_minus_energy,-0.54667980,-1.84616480,0.41987786
+UNetKAN,2,intact,96.28571319,92.52816777,99.15870030
+UNetKAN,2,selected_minus_intact,-11.20359266,-18.38667323,-4.85880932
+UNetKAN,2,selected_minus_energy,-11.10597342,-18.23387791,-4.79498036

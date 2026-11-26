@@ -1,0 +1,11 @@
+hz,offset_ms,states_1_2_3,records,equal_record_peak_containment
+120,0.0,R peak/p-wave peak/t-wave peak,154,0.37482231873465643
+125,0.0,p-wave peak/R peak/t-wave peak,154,0.36968486660045113
+150,980.0,R peak/t-wave peak/p-wave peak,154,0.3211990420594315
+200,260.0,t-wave peak/R peak/p-wave peak,154,0.24890564582123004
+240,2770.0,R peak/p-wave peak/t-wave peak,154,0.21013001849040808
+250,2300.0,R peak/p-wave peak/t-wave peak,154,0.20332300275482082
+256,2760.0,p-wave peak/t-wave peak/R peak,154,0.19510078365597838
+300,3420.0,R peak/t-wave peak/p-wave peak,154,0.17147874071575359
+400,5520.0,p-wave peak/R peak/t-wave peak,154,0.1339067858548377
+500,1520.0,t-wave peak/p-wave peak/R peak,154,0.11604780801209366

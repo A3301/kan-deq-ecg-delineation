@@ -1,0 +1,16 @@
+{
+  "protocol": "aef119e0628a5b2fab8a5d0443a31b34bd310604c81a176883fa410d1bd713fd",
+  "dataset.zip": "d24b8c98635bd14c358b58fc432d82db6eb830b8597cb4793e50f43fe3df04d7",
+  "heads/cohort.csv": "b38697ac012dd7e1756ee7f033f53aa3651a60e42de6a768d0b0319aa9f19321",
+  "equilibrium/cohort.csv": "b38697ac012dd7e1756ee7f033f53aa3651a60e42de6a768d0b0319aa9f19321",
+  "heads/signal_order.json": "ffda1f2f700aaed054c5b62fb2f3f21494726c12779e724dd0ac121dfebf5dc7",
+  "equilibrium/signal_order.json": "ffda1f2f700aaed054c5b62fb2f3f21494726c12779e724dd0ac121dfebf5dc7",
+  "masks_KAN_1.npy": "eb411a0e3ec905a5e5ca8a85c6c4152d40acf63a4a7fc45b57569ee2bc008e1e",
+  "masks_KAN_2.npy": "63af4d9fe16d7f2775736845e8553d2287c2ec5e05201b1011fa5d0e1bb1b68f",
+  "masks_GELU_1.npy": "28db7e700dac6a123bf39dc896d31ec9e34b01ae064f6529708d2ac55da4512c",
+  "masks_GELU_2.npy": "dc8dc6b0d3932e6f7e86be790cedcc1fb0fdb612ed2721ebb0414d51a722abe1",
+  "masks_DEQ_1.npy": "26fba64f8b49257989e3711955d6f4f242f0a790a508c8705445049f05b75f51",
+  "masks_DEQ_2.npy": "49acce78fe56de130ff4c23bdb9dbc5f950ed30716473c6358bb04d4a1bfe4d3",
+  "masks_Twin8_1.npy": "f4035c7d94555c0d006b4455e56b5c88d9c7d62d11adc212a6d74638fd06dd91",
+  "masks_Twin8_2.npy": "fd953d05f04bb6182c90a23fa5d160dc25b8ca3f6771f33634841ad6e0b03dce"
+}

@@ -1,0 +1,43 @@
+Full LUDB evaluation of the frozen RDB-trained KAN and parameter-matched GELU heads
+Reproduction package | 25 November 2026
+
+All release files can be checked against SHA256SUMS.txt. The six original RDB-trained checkpoints and their training metadata are in weights/. Their copied state dictionaries are unchanged. Archived counts for the original LUDB 41-record evaluation and the split are in inputs/. The code expects Python >=3.11. Versions used were numpy 2.5.3, scipy 1.18.1, pandas 3.0.6, torch 2.14.1+cpu, wfdb 4.3.0 and matplotlib 3.11.2. CPU execution is sufficient. The repository scripts require no private information or online account.
+
+Replay from saved masks and derived reference data, from this directory:
+  python score_events.py
+  python summarize.py
+  python verify_results.py --skip-native
+
+Replay from raw waveforms, from this directory:
+  python get_ludb.py ludb.zip
+  python prepare_infer.py all --archive ludb.zip --split inputs/splits.json --weights weights
+  python score_events.py
+  python summarize.py
+  python verify_results.py
+  python posthoc_width.py
+  python example_figure.py
+
+Set OPENBLAS_NUM_THREADS=2 to limit parallelism for the bootstrap. The exact input ZIP was reused from the local download of the versioned release. If the publisher changes ZIP packaging, check version and origin before comparing digests. Input SHA256 is d03192c7361ab5deeaba3f0d46e274b9ecb0b74c9caf8964151e20f1b5a7df06. The input script separately checks publisher-provided SHA256 hashes for all 2,800 waveform, header and lead-annotation files.
+
+File map
+  protocol.txt                   Local methods frozen before expanded inference, after the original lead-II 41-person analyses.
+  outputs/reference.json         Source-specific derived landmark times, eligible pairs, incomplete pairs, annotation hashes and split IDs.
+  outputs/*_masks.npz            Frozen-model output labels. Axis order = ascending LUDB record ID 1–200, then leads I, II, III, aVR, aVL, aVF, V1–V6, then 2,500 samples, 4 ms per sample. Label 0 = background, 1 = P, 2 = QRS, 3 = T.
+  outputs/paired_events.csv.gz   Event-level duration matches, missing references and extra model outputs. Empty predicted fields denote a missed reference; empty reference fields denote an extra. Units are milliseconds.
+  outputs/qrs_counts.csv         Thirteen counts/sums for every person, scope, head and seed. Per-lead and derived-global scopes.
+  outputs/duration_denominators.csv   All per-seed reference/prediction counts and matched/common conditional sums for each scope and cohort.
+  outputs/duration_summary.csv   Seed-averaged endpoints, KAN minus GELU contrasts and participant-cluster 95% percentile intervals from 10,000 joint bootstrap samples.
+  outputs/boundary_counts.csv, boundary_summary.csv    Native individual landmarks, lead II only. Percent macro-F1 is the mean of six pooled F1 values, then the mean across three fixed seeds.
+  outputs/fusion_audit.csv       Count of interval groups by lead support for each participant and head, including subthreshold and incomplete groups in the common span.
+  outputs/posthoc_width_strata.csv     Exploratory descriptive global-duration results for adults with known age, by reference interval <120/≥120 ms. These were calculated after the primary analysis. Each person can contribute beats to both strata.
+  outputs/qa_verified.json       Verification findings on the retained outputs. Optional --rdb-waveforms PATH provides the original 2,398 RDB-record array to compare full normalised traces rounded to four decimals. Source and hardware fingerprinting does not establish patient identity.
+  outputs/QRS_multilead_example.png, figure_caption.txt     Observed 12-lead illustrative example.
+  inputs/LUDB_LICENSE.txt        Database attribution license (ODC-By).
+
+LUDB official release: https://physionet.org/content/ludb/1.0.1/ (data DOI 10.13026/eegm-h675).
+Kalyakulina AI et al. LUDB: A New Open-Access Validation Tool for Electrocardiogram Delineation Algorithms. IEEE Access. 2020. DOI 10.1109/ACCESS.2020.3029211. This database and the derived reference times and illustrative trace are attributed to the LUDB authors and PhysioNet. The original waveform database is retrieved separately.
+Pollard T et al. PhysioNet as a global platform for biomedical research. Nature Health. 2026. DOI 10.1038/s44360-026-00096-z.
+Kligfield P et al. Recommendations for the Standardization and Interpretation of the Electrocardiogram, Part I. J Am Coll Cardiol. 2007. DOI 10.1016/j.jacc.2007.01.024. The operational earliest-to-latest multilead duration is derived from native lead-specific annotations.
+Surawicz B et al. AHA/ACCF/HRS recommendations, Part III: intraventricular conduction disturbances. J Am Coll Cardiol. 2009. DOI 10.1016/j.jacc.2008.12.013. The 120 ms adult width stratum provides a descriptive threshold. Complete bundle-branch block classification also requires morphology.
+
+The full training and evaluation materials for the original six RDB models are in the accompanying reverse-source training archive of this study. Earlier LUDB-trained models must not use this full 200-record cohort as a held-out test.

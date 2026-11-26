@@ -1,0 +1,11 @@
+head,seed,fold,selected,energy
+UNetKAN,1,0,2,6
+UNetKAN,1,1,2,0
+UNetKAN,1,2,2,1
+UNetKAN,1,3,2,6
+UNetKAN,1,4,2,0
+UNetKAN,2,0,2,3
+UNetKAN,2,1,2,1
+UNetKAN,2,2,2,3
+UNetKAN,2,3,2,3
+UNetKAN,2,4,2,0

@@ -1,0 +1,28 @@
+{
+  "original_models.py": "405f21bad7b6df0f3609a1f18cc6c8042d929c50ad79b893dd772468e5f3ff7b",
+  "original_evaluate.py": "46319a17c94344f918f91a992561f30dfa1aec9b36a9d75eb912eacd22977b48",
+  "deq_frozen.py": "7f9dea331ccf03a3c664f721486183b9b89feed09f46376bb512389b226f19a1",
+  "protocol_deq.txt": "333a91327cd7d68dbb6453be2a14794896798515213fca7254d518009eb0e0c7",
+  "original_function_AST_comparison": {
+    "predict_proba": {
+      "identical": true,
+      "syntax_tree_sha256": "befadd1006b28c961b463d1c09e519edd4ab31ccf27726675b7f61ce59c9e79d"
+    },
+    "DEQSeg": {
+      "identical": true,
+      "syntax_tree_sha256": "190fdd5fc77ab80a62fec8eadb1ec3b4263b61cb781495f58f9fbc5e4f6447ec"
+    },
+    "anderson": {
+      "identical": true,
+      "syntax_tree_sha256": "30a11940f063e9b1308518ae542a71e7bbba2f35c7399179b5d1470bbc638cae"
+    },
+    "DEQBlock": {
+      "identical": true,
+      "syntax_tree_sha256": "efcb5456a2a3894f942dd328fd2df1586d3190d1487f955c833aba4233ff7d2f"
+    },
+    "ConvBlock": {
+      "identical": true,
+      "syntax_tree_sha256": "60ded7e8e6331bdc2bc9e97fc7c4c76f2728cfbac794fa9223547abcbcd8dcc8"
+    }
+  }
+}

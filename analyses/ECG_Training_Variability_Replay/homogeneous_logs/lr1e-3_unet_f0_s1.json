@@ -1,0 +1,59 @@
+{
+  "history": [
+    {
+      "step": 300,
+      "loss": 0.38782912492752075,
+      "val_mean_f1": 98.35637836542992
+    },
+    {
+      "step": 600,
+      "loss": 0.21712249517440796,
+      "val_mean_f1": 98.39450190500766
+    },
+    {
+      "step": 900,
+      "loss": 0.14075921475887299,
+      "val_mean_f1": 98.72745783096893
+    },
+    {
+      "step": 1200,
+      "loss": 0.12399872392416,
+      "val_mean_f1": 98.55394659301628
+    },
+    {
+      "step": 1500,
+      "loss": 0.11625079810619354,
+      "val_mean_f1": 98.78155977705644
+    },
+    {
+      "step": 1800,
+      "loss": 0.1391318142414093,
+      "val_mean_f1": 98.72208359823115
+    },
+    {
+      "step": 2100,
+      "loss": 0.10935596376657486,
+      "val_mean_f1": 98.62081841590538
+    },
+    {
+      "step": 2400,
+      "loss": 0.1113930493593216,
+      "val_mean_f1": 98.5199280965561
+    }
+  ],
+  "best_epoch": 25,
+  "best_validation_f1": 98.78155977705644,
+  "elapsed_seconds": 22.16711089999808,
+  "device": "NVIDIA GeForce RTX 5070 Ti",
+  "torch": "2.11.0+cu128",
+  "weight_sha256": "86c75bbddb293324d2bebe416dbfbd576f71a8d3445783ea948f25fe8f4dc8a4",
+  "schedule": {
+    "x_sha256": "446bb4c865cd45c59f13367778303ab296d2ef3e445e9906203fed065e269751",
+    "y_sha256": "565993578dabf03cad310f7924237b70ff6c57c085a60d4f53b2f302ba968f87",
+    "training_subjects": 126,
+    "validation_subjects": 33,
+    "seed": 1,
+    "fold": 0
+  },
+  "protocol_sha256": "1fa1e5f755370617bae8140452310556b642d6ab0f8203b2822dd267cee6d3f7"
+}

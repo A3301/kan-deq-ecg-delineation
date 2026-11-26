@@ -1,0 +1,5 @@
+database,feature,internal_min,internal_max,external_n,below_internal,above_internal,internal_n
+zj,iters,15.0,30.0,4008,0,0,492
+zj,entropy,0.1470289379358291,0.5024584531784058,4008,0,3,492
+isp,iters,15.0,30.0,5700,6,0,492
+isp,entropy,0.1470289379358291,0.5024584531784058,5700,1,1,492

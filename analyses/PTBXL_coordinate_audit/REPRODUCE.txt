@@ -1,0 +1,18 @@
+PTB-XL mask coordinate audit, fixed 25 November 2026. This is an input-source audit without a trained network.
+Main result and source citations: Audit_report.txt.
+The three public releases used in this audit are linked in that report. The large original arrays, signal files and automated fiducial files can be downloaded from their publishers. A list of checked sizes, publisher and SHA256 digests is supplied here. The public HF repository declares CC-BY-SA 4.0 on its card. PhysioNet release terms are available from the linked project pages.
+
+Portable staged replay with Python 3.11+, requests, pandas, numpy, scipy, wfdb (4.3.0 used):
+  python retrieve_labels.py
+  python make_roster.py
+  python retrieve_official.py
+  python coordinate_audit.py
+  python audit_checks.py
+
+Acquisition fetches the fixed HF revision and validates publisher's Git/LFS hashes; PhysioNet acquisition validates official SHA256 before use. The directory source/ is created automatically and stores the downloaded files. The archive includes a subset of small public input documentation and the verified digest lists. The optional small public Elsevier XML metadata and earlier public cards are provenance only. The generated roster.csv links original public record and patient keys with their released-list positions and frozen patient partition. The output code does not use trained study weights.
+
+audit/calibration_grid.csv.gz: every candidate frequency, offset, state mapping and record-equal peak containment. These are calibration/compatibility diagnostics, not expert annotation or model-performance results.
+audit/best_by_rate.csv and best_by_mapping.csv: maxima for individual dimensions of that same source audit.
+audit/calibration_spacing.csv and waveform_anchor_check.csv: independent controls using only calibration patients.
+audit/release_audit.json and sanity_checks.json: cohort, label and source checks.
+No inference was performed on the reserved 899 patients. The participant identities in the separate PTB Diagnostic release were not compared.

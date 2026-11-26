@@ -1,0 +1,20 @@
+{
+  "inputs": {
+    "lr3e-3_unet_kan_f0_s3.pt": "0ba127c93d3a93fd26fe03edf8c36974265a5f4b22ab97e1280ce0cce4293edc",
+    "lr3e-3_unet_kan_f1_s3.pt": "3bd0424ec5c926313bcd506d95b3649e0b549c8b4e2c8d688cd43638c19367c4",
+    "lr3e-3_unet_kan_f2_s3.pt": "86250928dd51c7c0b44be7bec47f827848d1ac86e308683b4f7bb7c095fff0cf",
+    "lr3e-3_unet_kan_f3_s3.pt": "deaf48716feb846f214d6633411881bd8cfa72caae68020d05a06c651caa404d",
+    "lr3e-3_unet_kan_f4_s3.pt": "b62a2b7a2ec1cd6376904e8d5d58c8cb6a524a66873e8574dfcbd1e4422493c7",
+    "protocol": "aafe3150d1c2626e7f05048eb171bef86ea1fd8b5a98f18534b374ee9b38e649",
+    "inference_definitions": "6b96db955128431040bb7d9409bc7c717d68f28b9ff252824cd3c5a772f658e4",
+    "scoring": "5c2b184fc453d1a4fb0597e5ba6b0082f2e92b058ba7e220723784dd274527a5",
+    "run": "df038a734a36870e955f0676ac38b366625135bc3a8d5eafe634c20772f3b82b"
+  },
+  "outputs": {
+    "predictions.csv": "c990e4d3f8f331af1decd0969daf1ab6c3618f9b33e221f39a757f61eb14d771",
+    "counts.csv": "41cf73452102762f6debe45d1182fdb2afdb0a0ba3259ce864a132d8889109ae"
+  },
+  "runtime_s": 105.10767080000005,
+  "torch": "2.14.1+cpu",
+  "wfdb": "4.3.0"
+}

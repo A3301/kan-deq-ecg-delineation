@@ -1,0 +1,16 @@
+{
+  "parent_archive_sha256": "9e4ed873e0f7601bee2a8991dfa6d814ffd529f4d8262d76e0069afadbcb6b65",
+  "included_native_beats": 1746,
+  "participants": 193,
+  "head_seed_direction_event_rows": 20952,
+  "independent_lead_II_anchored_complete_cases": 138,
+  "parent_spans_target_midpoint_exceptions": {
+    "limb": 0,
+    "chest": 0
+  },
+  "native_12_envelopes_match_parent": true,
+  "exposures_are_opposite_target_references": true,
+  "counts_and_descriptive_statistics_verified_from_events": true,
+  "checked_summary_ids": 48,
+  "input_derived_reference_sha256": "c5f85470904d9ddb495f2e66186942e8a89603980eea0eedb0511d6135366ca1"
+}

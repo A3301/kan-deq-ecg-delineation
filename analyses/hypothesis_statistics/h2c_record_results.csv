@@ -1,0 +1,4 @@
+indicator,n,statistic,value,p_greater,n_non_sinus,n_sinus,median_non_sinus,median_sinus
+mae_ms,41,Spearman_rho,0.796165652922256,2.4340386970515424e-10,,,,
+hf_frac,41,Spearman_rho,-0.5025708538093969,0.9995938178445625,,,,
+non_sinus_vs_sinus,41,Mann_Whitney_U,211.5,0.14442714968805032,12.0,29.0,20.041666666666664,18.0

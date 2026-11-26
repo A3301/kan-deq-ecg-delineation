@@ -1,0 +1,11 @@
+{
+  "archive_sha256": "d03192c7361ab5deeaba3f0d46e274b9ecb0b74c9caf8964151e20f1b5a7df06",
+  "official_source": "https://physionet.org/content/ludb/1.0.1/",
+  "hash_verified_files": 2800,
+  "participants": 200,
+  "lead_annotations": 2400,
+  "split_sha256": "c4da0953c17dbf1d6695da97d6247c0691fa033bbe88de5c59845b52000113b4",
+  "records_all_12_annotation_hashes_distinct": 200,
+  "empty_lead_annotations": 0,
+  "incomplete_or_edge_qrs_peaks": 122
+}

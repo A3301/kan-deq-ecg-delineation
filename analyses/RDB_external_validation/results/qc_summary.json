@@ -1,0 +1,46 @@
+{
+  "release_rows": 2399,
+  "included": 2398,
+  "statuses": {
+    "included": 2398,
+    "duplicate_source": 1
+  },
+  "excluded": [
+    {
+      "record": "SI0211",
+      "source": "MUSE_20180114_131210_32000",
+      "status": "duplicate_source"
+    }
+  ],
+  "rhythm_counts": {
+    "AF": 400,
+    "AFIB": 400,
+    "SB": 400,
+    "SR": 400,
+    "SA": 398,
+    "ST": 140,
+    "SVT": 139,
+    "AT": 121
+  },
+  "qc_counts": {
+    "annotation_rows": 86899,
+    "invalid_interval": 0,
+    "zero_length": 42,
+    "outside": 1,
+    "censored_boundary": 144,
+    "duplicate_mark": 0,
+    "P_on": 16003,
+    "P_off": 16002,
+    "QRS_on": 35632,
+    "QRS_off": 35618,
+    "T_on": 35170,
+    "T_off": 35143
+  },
+  "identical_files_all_12": 1715,
+  "distinct_annotation_files_median": 1.0,
+  "score_minutes": 390.3048635553713,
+  "median_score_seconds": 9.879000000000001,
+  "records_without_reference_P": 1017,
+  "af_flutter_records": 800,
+  "af_flutter_reference_P_on": 0
+}

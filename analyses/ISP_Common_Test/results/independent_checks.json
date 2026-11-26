@@ -1,0 +1,9 @@
+{
+  "input_records": 475,
+  "reference_landmarks": 33385,
+  "score_rows": 57000,
+  "summary_rows": 98,
+  "max_abs_numeric_difference": 1.4210854715202004e-14,
+  "source_annotations_and_header_verification": "passed",
+  "paired_CIs_and_estimates_verification": "passed"
+}

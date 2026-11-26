@@ -1,0 +1,19 @@
+Exploratory mechanism contrast, specified before running this supplementary experiment.
+Question: is loss of P onset after replacing the most P-selective decoder channel
+specific to the KAN head when the GELU control receives the identical intervention?
+Use LUDB v1.0.1 lead II only, fixed 41 held-out subjects and each model's original
+disjoint validation fold. Twenty existing weights: 2 heads x 2 runs x 5 folds.
+Both heads sit on the same encoder/decoder design but all weights were trained separately.
+Within each validation fold rank the 8 layer-normalised input channels by mean in P
+minus the maximum class mean among QRS, T and labelled background. Select the largest.
+The energy-matched comparator is the other channel closest in mean squared raw activity.
+Replace one raw channel across the whole window by its validation-only mean, then
+apply the original head and preprocessing. No calibration on the internal test set.
+Score P-onset F1 in percent at the original LUDB tolerance (38 samples at 250 Hz),
+within original label spans with the same greedy matching, control, taper and windows.
+Compute pooled event F1 separately per fold on the same 41 subjects, then average
+the 5 F1 values within a run. Report selected minus intact and selected minus
+energy-control for each head and run; the paired KAN-minus-GELU difference of the
+latter contrasts is secondary. Percentile intervals resample subjects across all
+models, runs, folds and conditions together (n=10000). Inference is conditional
+on the two fitted runs. This is a perturbation of internal activations.

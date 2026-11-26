@@ -1,0 +1,20 @@
+{
+  "evaluate.py": "d07c2a1107bdd9fa5b95ef40b1220a33abd976545051afb4abadb204b478a880",
+  "model.py": "981a0b1b5109a47de31a6cd028cc8bd17bbfda0ab93b0931f9cf2a286221ab9d",
+  "protocol.txt": "f000640816ba7b07191bbf2d25e8e1bfa54ceb2b74b5ffffbaa9574ad7b9cdfc",
+  "source/manual_reference.csv": "32a81be443cdc4a46a34cff36aacc4518c845f91585ff027f2ce2abb01ac4c39",
+  "source/cohort.csv": "22d6f124680982f5ad8d4c37cd1a1266dcb8dcf48a5bd66c5d9073108da440a2",
+  "source/ptb_lead_ii_10s.npz": "ad2b3d04f0015a6256d241b285142e4986a70b075735ba72d5dfc4d959391a3a",
+  "models/GELU_1.pt": "41773bab062d8b92db6d2221361bd4d8991429f47e161f984f7eb3d387d7fed8",
+  "models/GELU_2.pt": "e2345e01cfaf5ed2a0070df4c284f62f37a59cc93b9b18ba83eae70c9cf5574d",
+  "models/GELU_3.pt": "542baf676073a43b0cc029b1ee2dd0171a4f31ce275810ff797431d21fcfcb49",
+  "models/KAN_1.pt": "2e3bfc2f25366c114169718d2b6d77d0a4eff789e1b545ca748dfc08180e0144",
+  "models/KAN_2.pt": "74c6db3ef1e98316439990ada082a2e252bfac6b535b06502f9b92d11bddcf8c",
+  "models/KAN_3.pt": "5b4e32ba26cf3ab937b37956a8316f7c628cc238af2b2824d846c242add37196",
+  "software": {
+    "numpy": "2.5.3",
+    "scipy": "1.18.1",
+    "pandas": "3.0.6",
+    "torch": "2.14.1+cpu"
+  }
+}

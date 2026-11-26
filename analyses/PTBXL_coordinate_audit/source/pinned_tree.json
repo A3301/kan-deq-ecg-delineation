@@ -1,0 +1,228 @@
+[
+  {
+    "type": "file",
+    "oid": "bed0738c7eeb449bca98b5d2f33c89a1ee56349a",
+    "size": 2504,
+    "path": ".gitattributes",
+    "lastCommit": {
+      "id": "3d4ee0c8639ff283420c65498c0c260fc63bf6d8",
+      "title": "initial commit",
+      "date": "2026-03-13T07:58:04.000Z"
+    },
+    "securityFileStatus": {
+      "status": "safe",
+      "protectAiScan": {
+        "status": "unscanned"
+      },
+      "avScan": {
+        "status": "safe",
+        "message": "No security issues detected",
+        "reportLink": "https://fdtn.ai/ai-supply-chain/hugging-face?utm_source=huggingface"
+      },
+      "pickleImportScan": {
+        "status": "unscanned",
+        "pickleImports": [],
+        "version": "0.0.0"
+      },
+      "virusTotalScan": {
+        "status": "unscanned"
+      }
+    }
+  },
+  {
+    "type": "file",
+    "oid": "8a12369b4477447f47c7d42fce07ac6621083156",
+    "size": 24998528,
+    "lfs": {
+      "oid": "ed4e6ae8e4a1cbbe2c5b7d2ebefb61785c97812c72a8e6b07201de248a784146",
+      "size": 24998528,
+      "pointerSize": 133
+    },
+    "xetHash": "e8276a0a3d7f9b0dabcba0cc3b5cbc7978a586e4d50dfdcfe86c1290cdd9cf82",
+    "path": "AF.npy",
+    "lastCommit": {
+      "id": "993f32c5510d3ef9c461ccde5bbc6e23acf682d8",
+      "title": "ptb-xl-ecg-delineation-V1",
+      "date": "2026-03-13T08:34:34.000Z"
+    },
+    "securityFileStatus": {
+      "status": "error",
+      "protectAiScan": {
+        "status": "unscanned"
+      },
+      "avScan": {
+        "status": "safe",
+        "message": "No security issues detected",
+        "reportLink": "https://fdtn.ai/ai-supply-chain/hugging-face?utm_source=huggingface"
+      },
+      "pickleImportScan": {
+        "status": "error",
+        "pickleImports": [],
+        "version": "0.0.32"
+      },
+      "virusTotalScan": {
+        "status": "unscanned",
+        "message": "File not scanned in VirusTotal",
+        "reportLink": "https://www.virustotal.com/gui/file/ed4e6ae8e4a1cbbe2c5b7d2ebefb61785c97812c72a8e6b07201de248a784146?utm_source=huggingface"
+      }
+    }
+  },
+  {
+    "type": "file",
+    "oid": "62445cb20a48fc89240cc3ad9008556d3cdaced6",
+    "size": 2168,
+    "path": "AF.txt",
+    "lastCommit": {
+      "id": "993f32c5510d3ef9c461ccde5bbc6e23acf682d8",
+      "title": "ptb-xl-ecg-delineation-V1",
+      "date": "2026-03-13T08:34:34.000Z"
+    },
+    "securityFileStatus": {
+      "status": "safe",
+      "protectAiScan": {
+        "status": "unscanned"
+      },
+      "avScan": {
+        "status": "safe",
+        "message": "No security issues detected",
+        "reportLink": "https://fdtn.ai/ai-supply-chain/hugging-face?utm_source=huggingface"
+      },
+      "pickleImportScan": {
+        "status": "unscanned",
+        "pickleImports": [],
+        "version": "0.0.0"
+      },
+      "virusTotalScan": {
+        "status": "unscanned"
+      }
+    }
+  },
+  {
+    "type": "file",
+    "oid": "2192a68c6bb363f158cf967a6cbc5bd14733c6ba",
+    "size": 1235,
+    "path": "README.md",
+    "lastCommit": {
+      "id": "7d2acae3a577e9a516de3b359718ee74c7c2e9eb",
+      "title": "Update README.md",
+      "date": "2026-03-13T08:38:19.000Z"
+    },
+    "securityFileStatus": {
+      "status": "safe",
+      "protectAiScan": {
+        "status": "unscanned"
+      },
+      "avScan": {
+        "status": "safe",
+        "message": "No security issues detected",
+        "reportLink": "https://fdtn.ai/ai-supply-chain/hugging-face?utm_source=huggingface"
+      },
+      "pickleImportScan": {
+        "status": "unscanned",
+        "pickleImports": [],
+        "version": "0.0.0"
+      },
+      "virusTotalScan": {
+        "status": "unscanned"
+      }
+    }
+  },
+  {
+    "type": "file",
+    "oid": "1790e45d3c2dec959ed49ea252184a595407a0bf",
+    "size": 102988928,
+    "lfs": {
+      "oid": "d9d4e92328b54a6fc3f10f2e03034625d026e3c776b1ff872a7d159bfa635d58",
+      "size": 102988928,
+      "pointerSize": 134
+    },
+    "xetHash": "87b6b77cc8cb4cf6b79285ffe34640484b0afac1c12a38dfaadd9909fa33dd4f",
+    "path": "others.npy",
+    "lastCommit": {
+      "id": "993f32c5510d3ef9c461ccde5bbc6e23acf682d8",
+      "title": "ptb-xl-ecg-delineation-V1",
+      "date": "2026-03-13T08:34:34.000Z"
+    },
+    "securityFileStatus": {
+      "status": "error",
+      "protectAiScan": {
+        "status": "unscanned"
+      },
+      "avScan": {
+        "status": "safe",
+        "message": "No security issues detected",
+        "reportLink": "https://fdtn.ai/ai-supply-chain/hugging-face?utm_source=huggingface"
+      },
+      "pickleImportScan": {
+        "status": "error",
+        "pickleImports": [],
+        "version": "0.0.32"
+      },
+      "virusTotalScan": {
+        "status": "unscanned",
+        "message": "File not scanned in VirusTotal",
+        "reportLink": "https://www.virustotal.com/gui/file/d9d4e92328b54a6fc3f10f2e03034625d026e3c776b1ff872a7d159bfa635d58?utm_source=huggingface"
+      }
+    }
+  },
+  {
+    "type": "file",
+    "oid": "a93f1d0ec4c06627337d696e96be2bfe9390c0a6",
+    "size": 8938,
+    "path": "others.txt",
+    "lastCommit": {
+      "id": "993f32c5510d3ef9c461ccde5bbc6e23acf682d8",
+      "title": "ptb-xl-ecg-delineation-V1",
+      "date": "2026-03-13T08:34:34.000Z"
+    },
+    "securityFileStatus": {
+      "status": "safe",
+      "protectAiScan": {
+        "status": "unscanned"
+      },
+      "avScan": {
+        "status": "safe",
+        "message": "No security issues detected",
+        "reportLink": "https://fdtn.ai/ai-supply-chain/hugging-face?utm_source=huggingface"
+      },
+      "pickleImportScan": {
+        "status": "unscanned",
+        "pickleImports": [],
+        "version": "0.0.0"
+      },
+      "virusTotalScan": {
+        "status": "unscanned"
+      }
+    }
+  },
+  {
+    "type": "file",
+    "oid": "3b31f48410c562655f224ad8dad7101890154720",
+    "size": 6594879,
+    "path": "ptbxl_database.csv",
+    "lastCommit": {
+      "id": "993f32c5510d3ef9c461ccde5bbc6e23acf682d8",
+      "title": "ptb-xl-ecg-delineation-V1",
+      "date": "2026-03-13T08:34:34.000Z"
+    },
+    "securityFileStatus": {
+      "status": "safe",
+      "protectAiScan": {
+        "status": "unscanned"
+      },
+      "avScan": {
+        "status": "safe",
+        "message": "No security issues detected",
+        "reportLink": "https://fdtn.ai/ai-supply-chain/hugging-face?utm_source=huggingface"
+      },
+      "pickleImportScan": {
+        "status": "unscanned",
+        "pickleImports": [],
+        "version": "0.0.0"
+      },
+      "virusTotalScan": {
+        "status": "unscanned"
+      }
+    }
+  }
+]

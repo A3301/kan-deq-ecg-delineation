@@ -1,0 +1,7 @@
+{
+  "ensembles": 24,
+  "scores": 48,
+  "participant_landmark_triplets_compared": 11808,
+  "changed_triplets": 0,
+  "max_absolute_f1_difference_pp": 0.0
+}

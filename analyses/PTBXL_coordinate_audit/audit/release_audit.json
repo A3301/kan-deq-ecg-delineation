@@ -1,0 +1,50 @@
+{
+  "groups": {
+    "AF": {
+      "subject_records": 217,
+      "shape": [
+        2604,
+        1200
+      ],
+      "dtype": "float64",
+      "distinct_values": [
+        0.0,
+        1.0,
+        3.0
+      ],
+      "counts": [
+        1896876,
+        457620,
+        770304
+      ],
+      "all_twelve_rows_identical": 217
+    },
+    "others": {
+      "subject_records": 894,
+      "shape": [
+        10728,
+        1200
+      ],
+      "dtype": "float64",
+      "distinct_values": [
+        0.0,
+        1.0,
+        2.0,
+        3.0
+      ],
+      "counts": [
+        6070188,
+        1825428,
+        1762320,
+        3215664
+      ],
+      "all_twelve_rows_identical": 894
+    }
+  },
+  "records": 1111,
+  "patients": 1049,
+  "calibration_records": 154,
+  "calibration_patients": 150,
+  "reserved_records": 957,
+  "reserved_patients": 899
+}

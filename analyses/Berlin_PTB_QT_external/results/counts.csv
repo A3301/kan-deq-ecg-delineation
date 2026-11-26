@@ -1,0 +1,7 @@
+head,seed,total,returned,qt_success_40ms,qrs_missed,t_missing_after_q
+GELU,1,548,547,506,1,0
+GELU,2,548,547,497,1,0
+GELU,3,548,548,495,0,0
+KAN,1,548,547,507,1,0
+KAN,2,548,548,505,0,0
+KAN,3,548,548,508,0,0

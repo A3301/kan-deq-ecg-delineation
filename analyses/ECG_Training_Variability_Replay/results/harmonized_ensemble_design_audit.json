@@ -1,0 +1,41 @@
+{
+  "architectures": 8,
+  "folds": 5,
+  "seeds": [
+    1,
+    2,
+    3
+  ],
+  "all_gpu_weights": 120,
+  "all_new_fits": 120,
+  "unique_weights_including_archive": 180,
+  "uniform_ensembles": 24,
+  "shared_ensembles_with_mixed": 12,
+  "common_architecture_fold_seed_crop_hash_pairs": 15,
+  "checked_checkpoint_states": 120,
+  "test_participants": 41,
+  "development_participants": 159,
+  "baselines_before_logged_metric_amendment": 35,
+  "score_spread_150ms_across_models_mean": [
+    96.48599628445415,
+    97.65520688315128
+  ],
+  "within_model_seed_spread_150ms": [
+    0.014127020655067213,
+    0.22318548309999642
+  ],
+  "paired_rank_correlations": [
+    0.880952380952381,
+    0.9523809523809524,
+    0.8095238095238096
+  ],
+  "best_point_estimate_by_seed": [
+    "Implicit DEQ",
+    "Unrolled DEQ (8 steps)",
+    "Explicit stack"
+  ],
+  "refit_minus_mixed_range_pp": [
+    -0.2048505397689553,
+    0.242282959196217
+  ]
+}

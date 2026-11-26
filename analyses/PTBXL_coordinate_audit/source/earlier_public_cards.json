@@ -1,0 +1,10 @@
+[
+  {
+    "commit": "c9d0577dc2bb82a6738e6d5dce1451aae4b09904",
+    "text": "# PTB-XL ECG Delineation Annotations \n\nA manually annotated dataset of P/QRS/T wave onset and offset points for 12-lead ECG, comprising 1100 samples. It is constructed based on the PTB-XL dataset and is suitable for 12-lead ECG synchronous delineation tasks. The annotations were performed by senior cardiologists and physiologists and have undergone multiple rounds of review and verification.\n\n## \ud83d\udd0d Dataset Overview\n### 1.1 Data Source\nThis annotation set is constructed based on the PTB-XL dataset\u200b (https://physionet.org/content/ptb-xl/1.0.3/). It contains only annotation information, not the original ECG signal data. It must be used by linking with the original dataset via the record_id.\n\n### 1.2 Sample Size\nTotal number of samples: 1000+\nBase samples: 800+, proportionally and randomly selected\u200b from the 5 arrhythmia classes (MI/AF/STTC/CD/HYP) in PTB-XL.\nSupplementary samples: 200+ AF (Atrial Fibrillation) samples extracted from PTB-XL to enhance annotation coverage for low-amplitude P-wave detection tasks.\nAnnotation coverage: Full 12-lead annotation (I, II, III, aVR, aVL, aVF, V1-V6), synchronously annotating the onset\u200b and offset\u200b of P-waves, QRS complexes, and T-waves.\n\n\n---\nlicense: cc-by-sa-4.0\n---\n"
+  },
+  {
+    "commit": "993f32c5510d3ef9c461ccde5bbc6e23acf682d8",
+    "text": "---\r\nlicense: cc-by-sa-4.0\r\n---\r\n"
+  }
+]

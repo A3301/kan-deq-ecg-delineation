@@ -1,0 +1,193 @@
+model,seed,segment,source,lead,coordinate,tol_ms,tp,fn,fp
+cnn_bilstm,1,08,MIT-BIH Arrhythmia Database:203,0,historical_grid,150,0,0,0
+cnn_bilstm,1,08,MIT-BIH Arrhythmia Database:203,0,historical_grid,50,0,0,0
+cnn_bilstm,1,08,MIT-BIH Arrhythmia Database:203,0,native_ms,150,0,0,0
+cnn_bilstm,1,08,MIT-BIH Arrhythmia Database:203,0,native_ms,50,0,0,0
+cnn_bilstm,1,08,MIT-BIH Arrhythmia Database:203,1,historical_grid,150,0,0,1
+cnn_bilstm,1,08,MIT-BIH Arrhythmia Database:203,1,historical_grid,50,0,0,1
+cnn_bilstm,1,08,MIT-BIH Arrhythmia Database:203,1,native_ms,150,0,0,1
+cnn_bilstm,1,08,MIT-BIH Arrhythmia Database:203,1,native_ms,50,0,0,1
+cnn_bilstm,1,48,Long Term AF Database:62,0,historical_grid,150,0,0,8
+cnn_bilstm,1,48,Long Term AF Database:62,0,historical_grid,50,0,0,8
+cnn_bilstm,1,48,Long Term AF Database:62,0,native_ms,150,0,0,8
+cnn_bilstm,1,48,Long Term AF Database:62,0,native_ms,50,0,0,8
+cnn_bilstm,1,48,Long Term AF Database:62,1,historical_grid,150,0,0,0
+cnn_bilstm,1,48,Long Term AF Database:62,1,historical_grid,50,0,0,0
+cnn_bilstm,1,48,Long Term AF Database:62,1,native_ms,150,0,0,0
+cnn_bilstm,1,48,Long Term AF Database:62,1,native_ms,50,0,0,0
+cnn_bilstm,2,08,MIT-BIH Arrhythmia Database:203,0,historical_grid,150,0,0,0
+cnn_bilstm,2,08,MIT-BIH Arrhythmia Database:203,0,historical_grid,50,0,0,0
+cnn_bilstm,2,08,MIT-BIH Arrhythmia Database:203,0,native_ms,150,0,0,0
+cnn_bilstm,2,08,MIT-BIH Arrhythmia Database:203,0,native_ms,50,0,0,0
+cnn_bilstm,2,08,MIT-BIH Arrhythmia Database:203,1,historical_grid,150,0,0,0
+cnn_bilstm,2,08,MIT-BIH Arrhythmia Database:203,1,historical_grid,50,0,0,0
+cnn_bilstm,2,08,MIT-BIH Arrhythmia Database:203,1,native_ms,150,0,0,0
+cnn_bilstm,2,08,MIT-BIH Arrhythmia Database:203,1,native_ms,50,0,0,0
+cnn_bilstm,2,48,Long Term AF Database:62,0,historical_grid,150,0,0,8
+cnn_bilstm,2,48,Long Term AF Database:62,0,historical_grid,50,0,0,8
+cnn_bilstm,2,48,Long Term AF Database:62,0,native_ms,150,0,0,8
+cnn_bilstm,2,48,Long Term AF Database:62,0,native_ms,50,0,0,8
+cnn_bilstm,2,48,Long Term AF Database:62,1,historical_grid,150,0,0,1
+cnn_bilstm,2,48,Long Term AF Database:62,1,historical_grid,50,0,0,1
+cnn_bilstm,2,48,Long Term AF Database:62,1,native_ms,150,0,0,1
+cnn_bilstm,2,48,Long Term AF Database:62,1,native_ms,50,0,0,1
+cnn_bilstm,3,08,MIT-BIH Arrhythmia Database:203,0,historical_grid,150,0,0,0
+cnn_bilstm,3,08,MIT-BIH Arrhythmia Database:203,0,historical_grid,50,0,0,0
+cnn_bilstm,3,08,MIT-BIH Arrhythmia Database:203,0,native_ms,150,0,0,0
+cnn_bilstm,3,08,MIT-BIH Arrhythmia Database:203,0,native_ms,50,0,0,0
+cnn_bilstm,3,08,MIT-BIH Arrhythmia Database:203,1,historical_grid,150,0,0,0
+cnn_bilstm,3,08,MIT-BIH Arrhythmia Database:203,1,historical_grid,50,0,0,0
+cnn_bilstm,3,08,MIT-BIH Arrhythmia Database:203,1,native_ms,150,0,0,0
+cnn_bilstm,3,08,MIT-BIH Arrhythmia Database:203,1,native_ms,50,0,0,0
+cnn_bilstm,3,48,Long Term AF Database:62,0,historical_grid,150,0,0,5
+cnn_bilstm,3,48,Long Term AF Database:62,0,historical_grid,50,0,0,5
+cnn_bilstm,3,48,Long Term AF Database:62,0,native_ms,150,0,0,5
+cnn_bilstm,3,48,Long Term AF Database:62,0,native_ms,50,0,0,5
+cnn_bilstm,3,48,Long Term AF Database:62,1,historical_grid,150,0,0,0
+cnn_bilstm,3,48,Long Term AF Database:62,1,historical_grid,50,0,0,0
+cnn_bilstm,3,48,Long Term AF Database:62,1,native_ms,150,0,0,0
+cnn_bilstm,3,48,Long Term AF Database:62,1,native_ms,50,0,0,0
+unet_kan,1,08,MIT-BIH Arrhythmia Database:203,0,historical_grid,150,0,0,0
+unet_kan,1,08,MIT-BIH Arrhythmia Database:203,0,historical_grid,50,0,0,0
+unet_kan,1,08,MIT-BIH Arrhythmia Database:203,0,native_ms,150,0,0,0
+unet_kan,1,08,MIT-BIH Arrhythmia Database:203,0,native_ms,50,0,0,0
+unet_kan,1,08,MIT-BIH Arrhythmia Database:203,1,historical_grid,150,0,0,0
+unet_kan,1,08,MIT-BIH Arrhythmia Database:203,1,historical_grid,50,0,0,0
+unet_kan,1,08,MIT-BIH Arrhythmia Database:203,1,native_ms,150,0,0,0
+unet_kan,1,08,MIT-BIH Arrhythmia Database:203,1,native_ms,50,0,0,0
+unet_kan,1,48,Long Term AF Database:62,0,historical_grid,150,0,0,18
+unet_kan,1,48,Long Term AF Database:62,0,historical_grid,50,0,0,18
+unet_kan,1,48,Long Term AF Database:62,0,native_ms,150,0,0,18
+unet_kan,1,48,Long Term AF Database:62,0,native_ms,50,0,0,18
+unet_kan,1,48,Long Term AF Database:62,1,historical_grid,150,0,0,0
+unet_kan,1,48,Long Term AF Database:62,1,historical_grid,50,0,0,0
+unet_kan,1,48,Long Term AF Database:62,1,native_ms,150,0,0,0
+unet_kan,1,48,Long Term AF Database:62,1,native_ms,50,0,0,0
+unet_kan,2,08,MIT-BIH Arrhythmia Database:203,0,historical_grid,150,0,0,0
+unet_kan,2,08,MIT-BIH Arrhythmia Database:203,0,historical_grid,50,0,0,0
+unet_kan,2,08,MIT-BIH Arrhythmia Database:203,0,native_ms,150,0,0,0
+unet_kan,2,08,MIT-BIH Arrhythmia Database:203,0,native_ms,50,0,0,0
+unet_kan,2,08,MIT-BIH Arrhythmia Database:203,1,historical_grid,150,0,0,1
+unet_kan,2,08,MIT-BIH Arrhythmia Database:203,1,historical_grid,50,0,0,1
+unet_kan,2,08,MIT-BIH Arrhythmia Database:203,1,native_ms,150,0,0,1
+unet_kan,2,08,MIT-BIH Arrhythmia Database:203,1,native_ms,50,0,0,1
+unet_kan,2,48,Long Term AF Database:62,0,historical_grid,150,0,0,18
+unet_kan,2,48,Long Term AF Database:62,0,historical_grid,50,0,0,18
+unet_kan,2,48,Long Term AF Database:62,0,native_ms,150,0,0,18
+unet_kan,2,48,Long Term AF Database:62,0,native_ms,50,0,0,18
+unet_kan,2,48,Long Term AF Database:62,1,historical_grid,150,0,0,1
+unet_kan,2,48,Long Term AF Database:62,1,historical_grid,50,0,0,1
+unet_kan,2,48,Long Term AF Database:62,1,native_ms,150,0,0,1
+unet_kan,2,48,Long Term AF Database:62,1,native_ms,50,0,0,1
+unet_kan,3,08,MIT-BIH Arrhythmia Database:203,0,historical_grid,150,0,0,0
+unet_kan,3,08,MIT-BIH Arrhythmia Database:203,0,historical_grid,50,0,0,0
+unet_kan,3,08,MIT-BIH Arrhythmia Database:203,0,native_ms,150,0,0,0
+unet_kan,3,08,MIT-BIH Arrhythmia Database:203,0,native_ms,50,0,0,0
+unet_kan,3,08,MIT-BIH Arrhythmia Database:203,1,historical_grid,150,0,0,0
+unet_kan,3,08,MIT-BIH Arrhythmia Database:203,1,historical_grid,50,0,0,0
+unet_kan,3,08,MIT-BIH Arrhythmia Database:203,1,native_ms,150,0,0,0
+unet_kan,3,08,MIT-BIH Arrhythmia Database:203,1,native_ms,50,0,0,0
+unet_kan,3,48,Long Term AF Database:62,0,historical_grid,150,0,0,19
+unet_kan,3,48,Long Term AF Database:62,0,historical_grid,50,0,0,19
+unet_kan,3,48,Long Term AF Database:62,0,native_ms,150,0,0,19
+unet_kan,3,48,Long Term AF Database:62,0,native_ms,50,0,0,19
+unet_kan,3,48,Long Term AF Database:62,1,historical_grid,150,0,0,1
+unet_kan,3,48,Long Term AF Database:62,1,historical_grid,50,0,0,1
+unet_kan,3,48,Long Term AF Database:62,1,native_ms,150,0,0,1
+unet_kan,3,48,Long Term AF Database:62,1,native_ms,50,0,0,1
+convkan,1,08,MIT-BIH Arrhythmia Database:203,0,historical_grid,150,0,0,4
+convkan,1,08,MIT-BIH Arrhythmia Database:203,0,historical_grid,50,0,0,4
+convkan,1,08,MIT-BIH Arrhythmia Database:203,0,native_ms,150,0,0,4
+convkan,1,08,MIT-BIH Arrhythmia Database:203,0,native_ms,50,0,0,4
+convkan,1,08,MIT-BIH Arrhythmia Database:203,1,historical_grid,150,0,0,10
+convkan,1,08,MIT-BIH Arrhythmia Database:203,1,historical_grid,50,0,0,10
+convkan,1,08,MIT-BIH Arrhythmia Database:203,1,native_ms,150,0,0,10
+convkan,1,08,MIT-BIH Arrhythmia Database:203,1,native_ms,50,0,0,10
+convkan,1,48,Long Term AF Database:62,0,historical_grid,150,0,0,33
+convkan,1,48,Long Term AF Database:62,0,historical_grid,50,0,0,33
+convkan,1,48,Long Term AF Database:62,0,native_ms,150,0,0,33
+convkan,1,48,Long Term AF Database:62,0,native_ms,50,0,0,33
+convkan,1,48,Long Term AF Database:62,1,historical_grid,150,0,0,15
+convkan,1,48,Long Term AF Database:62,1,historical_grid,50,0,0,15
+convkan,1,48,Long Term AF Database:62,1,native_ms,150,0,0,15
+convkan,1,48,Long Term AF Database:62,1,native_ms,50,0,0,15
+convkan,2,08,MIT-BIH Arrhythmia Database:203,0,historical_grid,150,0,0,2
+convkan,2,08,MIT-BIH Arrhythmia Database:203,0,historical_grid,50,0,0,2
+convkan,2,08,MIT-BIH Arrhythmia Database:203,0,native_ms,150,0,0,2
+convkan,2,08,MIT-BIH Arrhythmia Database:203,0,native_ms,50,0,0,2
+convkan,2,08,MIT-BIH Arrhythmia Database:203,1,historical_grid,150,0,0,6
+convkan,2,08,MIT-BIH Arrhythmia Database:203,1,historical_grid,50,0,0,6
+convkan,2,08,MIT-BIH Arrhythmia Database:203,1,native_ms,150,0,0,6
+convkan,2,08,MIT-BIH Arrhythmia Database:203,1,native_ms,50,0,0,6
+convkan,2,48,Long Term AF Database:62,0,historical_grid,150,0,0,30
+convkan,2,48,Long Term AF Database:62,0,historical_grid,50,0,0,30
+convkan,2,48,Long Term AF Database:62,0,native_ms,150,0,0,30
+convkan,2,48,Long Term AF Database:62,0,native_ms,50,0,0,30
+convkan,2,48,Long Term AF Database:62,1,historical_grid,150,0,0,19
+convkan,2,48,Long Term AF Database:62,1,historical_grid,50,0,0,19
+convkan,2,48,Long Term AF Database:62,1,native_ms,150,0,0,19
+convkan,2,48,Long Term AF Database:62,1,native_ms,50,0,0,19
+convkan,3,08,MIT-BIH Arrhythmia Database:203,0,historical_grid,150,0,0,2
+convkan,3,08,MIT-BIH Arrhythmia Database:203,0,historical_grid,50,0,0,2
+convkan,3,08,MIT-BIH Arrhythmia Database:203,0,native_ms,150,0,0,2
+convkan,3,08,MIT-BIH Arrhythmia Database:203,0,native_ms,50,0,0,2
+convkan,3,08,MIT-BIH Arrhythmia Database:203,1,historical_grid,150,0,0,7
+convkan,3,08,MIT-BIH Arrhythmia Database:203,1,historical_grid,50,0,0,7
+convkan,3,08,MIT-BIH Arrhythmia Database:203,1,native_ms,150,0,0,7
+convkan,3,08,MIT-BIH Arrhythmia Database:203,1,native_ms,50,0,0,7
+convkan,3,48,Long Term AF Database:62,0,historical_grid,150,0,0,24
+convkan,3,48,Long Term AF Database:62,0,historical_grid,50,0,0,24
+convkan,3,48,Long Term AF Database:62,0,native_ms,150,0,0,24
+convkan,3,48,Long Term AF Database:62,0,native_ms,50,0,0,24
+convkan,3,48,Long Term AF Database:62,1,historical_grid,150,0,0,12
+convkan,3,48,Long Term AF Database:62,1,historical_grid,50,0,0,12
+convkan,3,48,Long Term AF Database:62,1,native_ms,150,0,0,12
+convkan,3,48,Long Term AF Database:62,1,native_ms,50,0,0,12
+deq,1,08,MIT-BIH Arrhythmia Database:203,0,historical_grid,150,0,0,0
+deq,1,08,MIT-BIH Arrhythmia Database:203,0,historical_grid,50,0,0,0
+deq,1,08,MIT-BIH Arrhythmia Database:203,0,native_ms,150,0,0,0
+deq,1,08,MIT-BIH Arrhythmia Database:203,0,native_ms,50,0,0,0
+deq,1,08,MIT-BIH Arrhythmia Database:203,1,historical_grid,150,0,0,0
+deq,1,08,MIT-BIH Arrhythmia Database:203,1,historical_grid,50,0,0,0
+deq,1,08,MIT-BIH Arrhythmia Database:203,1,native_ms,150,0,0,0
+deq,1,08,MIT-BIH Arrhythmia Database:203,1,native_ms,50,0,0,0
+deq,1,48,Long Term AF Database:62,0,historical_grid,150,0,0,0
+deq,1,48,Long Term AF Database:62,0,historical_grid,50,0,0,0
+deq,1,48,Long Term AF Database:62,0,native_ms,150,0,0,0
+deq,1,48,Long Term AF Database:62,0,native_ms,50,0,0,0
+deq,1,48,Long Term AF Database:62,1,historical_grid,150,0,0,0
+deq,1,48,Long Term AF Database:62,1,historical_grid,50,0,0,0
+deq,1,48,Long Term AF Database:62,1,native_ms,150,0,0,0
+deq,1,48,Long Term AF Database:62,1,native_ms,50,0,0,0
+deq,2,08,MIT-BIH Arrhythmia Database:203,0,historical_grid,150,0,0,0
+deq,2,08,MIT-BIH Arrhythmia Database:203,0,historical_grid,50,0,0,0
+deq,2,08,MIT-BIH Arrhythmia Database:203,0,native_ms,150,0,0,0
+deq,2,08,MIT-BIH Arrhythmia Database:203,0,native_ms,50,0,0,0
+deq,2,08,MIT-BIH Arrhythmia Database:203,1,historical_grid,150,0,0,0
+deq,2,08,MIT-BIH Arrhythmia Database:203,1,historical_grid,50,0,0,0
+deq,2,08,MIT-BIH Arrhythmia Database:203,1,native_ms,150,0,0,0
+deq,2,08,MIT-BIH Arrhythmia Database:203,1,native_ms,50,0,0,0
+deq,2,48,Long Term AF Database:62,0,historical_grid,150,0,0,0
+deq,2,48,Long Term AF Database:62,0,historical_grid,50,0,0,0
+deq,2,48,Long Term AF Database:62,0,native_ms,150,0,0,0
+deq,2,48,Long Term AF Database:62,0,native_ms,50,0,0,0
+deq,2,48,Long Term AF Database:62,1,historical_grid,150,0,0,0
+deq,2,48,Long Term AF Database:62,1,historical_grid,50,0,0,0
+deq,2,48,Long Term AF Database:62,1,native_ms,150,0,0,0
+deq,2,48,Long Term AF Database:62,1,native_ms,50,0,0,0
+deq,3,08,MIT-BIH Arrhythmia Database:203,0,historical_grid,150,0,0,0
+deq,3,08,MIT-BIH Arrhythmia Database:203,0,historical_grid,50,0,0,0
+deq,3,08,MIT-BIH Arrhythmia Database:203,0,native_ms,150,0,0,0
+deq,3,08,MIT-BIH Arrhythmia Database:203,0,native_ms,50,0,0,0
+deq,3,08,MIT-BIH Arrhythmia Database:203,1,historical_grid,150,0,0,0
+deq,3,08,MIT-BIH Arrhythmia Database:203,1,historical_grid,50,0,0,0
+deq,3,08,MIT-BIH Arrhythmia Database:203,1,native_ms,150,0,0,0
+deq,3,08,MIT-BIH Arrhythmia Database:203,1,native_ms,50,0,0,0
+deq,3,48,Long Term AF Database:62,0,historical_grid,150,0,0,0
+deq,3,48,Long Term AF Database:62,0,historical_grid,50,0,0,0
+deq,3,48,Long Term AF Database:62,0,native_ms,150,0,0,0
+deq,3,48,Long Term AF Database:62,0,native_ms,50,0,0,0
+deq,3,48,Long Term AF Database:62,1,historical_grid,150,0,0,0
+deq,3,48,Long Term AF Database:62,1,historical_grid,50,0,0,0
+deq,3,48,Long Term AF Database:62,1,native_ms,150,0,0,0
+deq,3,48,Long Term AF Database:62,1,native_ms,50,0,0,0

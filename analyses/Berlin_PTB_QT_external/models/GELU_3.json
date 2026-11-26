@@ -1,0 +1,59 @@
+{
+  "head": "GELU",
+  "seed": 3,
+  "steps": 2400,
+  "parameters": 309133,
+  "backbone_initial_sha256": "3e11968e976173237c5aed3be791051896707341462acd0a917c41dc3763bf7c",
+  "minibatch_sha256": "ed6749f6c6847e8cdc049629df9fab0d1afe8c2d86b5e9c507c801704c7e1005",
+  "best_step": 2400,
+  "best_validation_CE": 0.1617484986782074,
+  "checkpoints": [
+    {
+      "step": 400,
+      "validation_CE": 0.17870913445949554,
+      "elapsed_seconds": 2.25
+    },
+    {
+      "step": 800,
+      "validation_CE": 0.16782554984092712,
+      "elapsed_seconds": 4.47
+    },
+    {
+      "step": 1200,
+      "validation_CE": 0.16433215141296387,
+      "elapsed_seconds": 6.73
+    },
+    {
+      "step": 1600,
+      "validation_CE": 0.16812756657600403,
+      "elapsed_seconds": 9.03
+    },
+    {
+      "step": 2000,
+      "validation_CE": 0.16409744322299957,
+      "elapsed_seconds": 11.34
+    },
+    {
+      "step": 2400,
+      "validation_CE": 0.1617484986782074,
+      "elapsed_seconds": 13.73
+    }
+  ],
+  "weight_sha256": "542baf676073a43b0cc029b1ee2dd0171a4f31ce275810ff797431d21fcfcb49",
+  "protocol": "a12e24a32474e4e52e64b2ca19b44500a351420571bd4b4554147f6b43759556",
+  "roster": "cbd4a4977d5c924febb4f40657617e2e740f84b96e59e76cc556e525d19c6f36",
+  "train_code": "bba7e9c04f64a3dc216fab046ed06fa8f03fb1bf47dd867143864aa203de9f90",
+  "network_code": "981a0b1b5109a47de31a6cd028cc8bd17bbfda0ab93b0931f9cf2a286221ab9d",
+  "environment": {
+    "python": "3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)]",
+    "torch": "2.11.0+cu128",
+    "cuda": "12.8",
+    "device": "NVIDIA GeForce RTX 5070 Ti",
+    "numpy": "2.5.5"
+  },
+  "batch": 32,
+  "crop": 1024,
+  "lr": 0.001,
+  "train_n": 1918,
+  "val_n": 480
+}
