@@ -80,7 +80,7 @@ Model weights (321 checkpoints), record-level outputs and analysis inputs are ar
 
 - Code: MIT licence (`LICENSE`).
 - Derived results in this repository (tables, counts, logs): CC BY 4.0.
-- The ECG databases remain under their publishers' licences.
+- The ECG databases are not redistributed here; each remains under its publisher's licence (PhysioNet ODC-By and PhysioNet licences, CC0, CC BY 4.0, CC BY-NC 4.0 and CC BY-ND 4.0). Sources and versions are listed in `docs/DATA.md`.
 
 ## Citation
 
